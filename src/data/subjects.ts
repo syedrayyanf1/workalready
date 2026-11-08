@@ -118,11 +118,11 @@ export const BASE_SUBJECTS: SubjectInfo[] = [
     defaultQuestionCount: 20,
     passingPercentage: 50,
     chapters: [
-      { id: 1, name: 'Accounting Fundamentals & Double Entry' },
+      { id: 1, name: 'Accounting Basics' },
       { id: 2, name: 'Books of Prime Entry & Trial Balance' },
-      { id: 3, name: 'Bank Reconciliation Statements' },
+      { id: 3, name: 'Ledgers and Trial Balance' },
       { id: 4, name: 'Accruals and Prepayments' },
-      { id: 5, name: 'IAS 16 Property, Plant & Equipment and IAS 2 Inventories' },
+      { id: 5, name: 'Bad and Doubtful Debts' },
     ],
   },
   {
