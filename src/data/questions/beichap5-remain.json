@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "PRC3V2-CH02-APQ-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Supply curve for Land is:",
+    "options": [
+      { "id": "A", "text": "vertical" },
+      { "id": "B", "text": "horizontal" },
+      { "id": "C", "text": "negatively sloped" },
+      { "id": "D", "text": "positively sloped" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Demand curve for Normal goods is downward sloping to the right because of:",
+    "options": [
+      { "id": "A", "text": "Price effect" },
+      { "id": "B", "text": "Income effect" },
+      { "id": "C", "text": "Substitution effect" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Which one of the following causes a rightward shifting in market demand curve?",
+    "options": [
+      { "id": "A", "text": "Change in product price" },
+      { "id": "B", "text": "Change indirect taxes" },
+      { "id": "C", "text": "Change in subsidies" },
+      { "id": "D", "text": "Change in money income of consumers" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "A rise in demand for petrol by motorists likely to follow a rise in:",
+    "options": [
+      { "id": "A", "text": "The price of second-hand car" },
+      { "id": "B", "text": "The price of steel" },
+      { "id": "C", "text": "Bus fares" },
+      { "id": "D", "text": "Motor vehicle tax" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Demand for factors of production is known as:",
+    "options": [
+      { "id": "A", "text": "Individual demand" },
+      { "id": "B", "text": "Market demand" },
+      { "id": "C", "text": "Derived demand" },
+      { "id": "D", "text": "Effective demand" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Which of the following is not complement to cars?",
+    "options": [
+      { "id": "A", "text": "Petrol" },
+      { "id": "B", "text": "CNG" },
+      { "id": "C", "text": "Navigation Systems" },
+      { "id": "D", "text": "I – Phone" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "The Demand for fashion goods is not affected by:",
+    "options": [
+      { "id": "A", "text": "Price of goods itself" },
+      { "id": "B", "text": "Income of consumers" },
+      { "id": "C", "text": "Quality of product" },
+      { "id": "D", "text": "Age" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "If the price of tea falls, which one of the following outcomes would be expected?",
+    "options": [
+      { "id": "A", "text": "A fall in the demand of tea." },
+      { "id": "B", "text": "A rise in price of coffee" },
+      { "id": "C", "text": "A fall in the demand of coffee" },
+      { "id": "D", "text": "A fall in the demand of drinking cups" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "A good having negative income effect is called:",
+    "options": [
+      { "id": "A", "text": "Normal good" },
+      { "id": "B", "text": "Inferior goods" },
+      { "id": "C", "text": "Public good" },
+      { "id": "D", "text": "Merit good" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "The part of output which not offered to sale in market is called:",
+    "options": [
+      { "id": "A", "text": "Supply" },
+      { "id": "B", "text": "Stocks" },
+      { "id": "C", "text": "Buffer stock" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Supply curve of perishable good is always:",
+    "options": [
+      { "id": "A", "text": "Horizontal" },
+      { "id": "B", "text": "Vertical" },
+      { "id": "C", "text": "Upward to the right" },
+      { "id": "D", "text": "Downward to the right" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Following will cause a leftward shifting in market supply curve.",
+    "options": [
+      { "id": "A", "text": "Increase in price of good" },
+      { "id": "B", "text": "Improvement in technology" },
+      { "id": "C", "text": "Increase in direct taxes" },
+      { "id": "D", "text": "Increased in indirect taxes" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Indirect taxes & subsidies both increases in the same proportion on a product following will be the effect on market supply curve.",
+    "options": [
+      { "id": "A", "text": "Supply curve will shift towards right" },
+      { "id": "B", "text": "Supply curve will shift towards left" },
+      { "id": "C", "text": "No change" },
+      { "id": "D", "text": "Change along the same supply curve" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "The government introduces a maximum price below the equilibrium price level. What effect will this have on market?",
+    "options": [
+      { "id": "A", "text": "Surplus" },
+      { "id": "B", "text": "Shortage" },
+      { "id": "C", "text": "No change" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "The government introduces a minimum wage rate beyond the equilibrium wage rate. What effect will this have on labour market.",
+    "options": [
+      { "id": "A", "text": "Unemployment" },
+      { "id": "B", "text": "Surplus of labour" },
+      { "id": "C", "text": "Decrease in labour demand" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "For price stability buffer stock policy can be used by government for:",
+    "options": [
+      { "id": "A", "text": "Agricultural goods" },
+      { "id": "B", "text": "Primary goods" },
+      { "id": "C", "text": "Perishable goods" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "The diagram shows the demand curve for good A. What could cause a movement along the curve from 2 to 3?",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 50 40 L 240 140\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2.5\"/><circle cx=\"140\" cy=\"87\" r=\"4\" fill=\"#FAFAFA\"/><text x=\"148\" y=\"83\" fill=\"#FAFAFA\" font-size=\"12\" font-weight=\"bold\">2</text><circle cx=\"190\" cy=\"114\" r=\"4\" fill=\"#FAFAFA\"/><text x=\"198\" y=\"110\" fill=\"#FAFAFA\" font-size=\"12\" font-weight=\"bold\">3</text><text x=\"245\" y=\"178\" fill=\"#A1A1AA\" font-size=\"11\">Qd</text><text x=\"12\" y=\"35\" fill=\"#A1A1AA\" font-size=\"11\">Price</text></svg>",
+    "options": [
+      { "id": "A", "text": "A change in season" },
+      { "id": "B", "text": "A change in price of A" },
+      { "id": "C", "text": "A change in cost of production" },
+      { "id": "D", "text": "A change in price of substitute good" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "The diagram represents the market for a good ‘x’. Which of the following could cause an increase in price from P1 to P2?",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"45\" y1=\"165\" x2=\"265\" y2=\"165\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"45\" y1=\"25\" x2=\"45\" y2=\"165\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 65 40 L 235 150\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2\"/><text x=\"240\" y=\"153\" fill=\"#E4E4E7\" font-size=\"11\">D</text><path d=\"M 85 150 L 225 45\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\"/><text x=\"230\" y=\"48\" fill=\"#E4E4E7\" font-size=\"11\">S1</text><path d=\"M 55 125 L 185 30\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-dasharray=\"4\"/><text x=\"190\" y=\"33\" fill=\"#E4E4E7\" font-size=\"11\">S2</text><line x1=\"45\" y1=\"80\" x2=\"118\" y2=\"80\" stroke=\"#71717A\" stroke-dasharray=\"3\"/><line x1=\"45\" y1=\"105\" x2=\"156\" y2=\"105\" stroke=\"#71717A\" stroke-dasharray=\"3\"/><text x=\"22\" y=\"84\" fill=\"#E4E4E7\" font-size=\"11\">P2</text><text x=\"22\" y=\"109\" fill=\"#E4E4E7\" font-size=\"11\">P1</text><text x=\"235\" y=\"182\" fill=\"#A1A1AA\" font-size=\"11\">Quantity</text><text x=\"15\" y=\"20\" fill=\"#A1A1AA\" font-size=\"11\">Price</text></svg>",
+    "options": [
+      { "id": "A", "text": "A rise in wage rate" },
+      { "id": "B", "text": "A rise in indirect taxes" },
+      { "id": "C", "text": "A rise in price of raw material" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH02-APQ-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Demand, Supply and Market Equilibrium",
+    "source": "apq",
+    "questionText": "Supply curve of a ____a______ good is always vertical that is why changes in price of good depends upon changes in ____b_____ curve.",
+    "options": [
+      { "id": "A", "text": "a = Perishable | b = Demand Curve" },
+      { "id": "B", "text": "a = Durable | b = Supply Curve" },
+      { "id": "C", "text": "a = Normal | b = Income" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-001",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Macroeconomics is not concerned with.",
+    "options": [
+      { "id": "A", "text": "The level of output of goods and services." },
+      { "id": "B", "text": "The general level of prices" },
+      { "id": "C", "text": "The growth of income" },
+      { "id": "D", "text": "Labour productivity" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-002",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "NNPfc = …………?",
+    "options": [
+      { "id": "A", "text": "GNPfc + Depreciation – Indirect taxes + subsidies" },
+      { "id": "B", "text": "GNPmp - Depreciation – Indirect taxes + subsidies" },
+      { "id": "C", "text": "GNPfc + Depreciation + Indirect taxes + subsidies" },
+      { "id": "D", "text": "GNPfc + Depreciation + Indirect taxes - subsidies" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-003",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which statement is true for National Income?",
+    "options": [
+      { "id": "A", "text": "It is the market value of goods and services." },
+      { "id": "B", "text": "Only final goods will be considered" },
+      { "id": "C", "text": "It is usually taken for one year" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-004",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Using values given in table, NNP (at market prices) is:\n\n| Item | Value |\n| :--- | :---: |\n| GDP | 500 |\n| Income received from abroad | 250 |\n| Income taken to abroad | 200 |\n| Depreciation | 20 |\n| Indirect Tax | 25 |\n| Subsidies | 80 |",
+    "options": [
+      { "id": "A", "text": "530" },
+      { "id": "B", "text": "570" },
+      { "id": "C", "text": "500" },
+      { "id": "D", "text": "480" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-005",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "While calculating Personal Income, which item would be added in national income?",
+    "options": [
+      { "id": "A", "text": "Corporate Profit Tax" },
+      { "id": "B", "text": "Undistributed profit" },
+      { "id": "C", "text": "Social security allowance" },
+      { "id": "D", "text": "Transfer payments" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-006",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one is not an injection for circular flow of National Income?",
+    "options": [
+      { "id": "A", "text": "Postponed consumption" },
+      { "id": "B", "text": "Public sector spending" },
+      { "id": "C", "text": "Private investment" },
+      { "id": "D", "text": "Exports" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-007",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one can affect the national income accounting adversely?",
+    "options": [
+      { "id": "A", "text": "Total value of cotton produced in a country" },
+      { "id": "B", "text": "Domestic work done by households" },
+      { "id": "C", "text": "By adding value of resold car during same year" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-008",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "_________is a precaution to calculate national income by income approach.",
+    "options": [
+      { "id": "A", "text": "Transfer Payments" },
+      { "id": "B", "text": "Tax collected by federal government" },
+      { "id": "C", "text": "Wages" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-009",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Gross domestic investment is the component of national accounting using ________.",
+    "options": [
+      { "id": "A", "text": "Income approach" },
+      { "id": "B", "text": "Product approach" },
+      { "id": "C", "text": "Expenditure approach" },
+      { "id": "D", "text": "Value added approach" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-010",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one is NOT the most relevant problem regarding calculating national income?",
+    "options": [
+      { "id": "A", "text": "Unreliable record keeping" },
+      { "id": "B", "text": "Lack of trained staff" },
+      { "id": "C", "text": "Illegal activities" },
+      { "id": "D", "text": "Poor collection procedure" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-011",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "GNP is always",
+    "options": [
+      { "id": "A", "text": "Less than NNP" },
+      { "id": "B", "text": "More than NNP" },
+      { "id": "C", "text": "Equal to NNP" },
+      { "id": "D", "text": "Calculated from NNP" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-012",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Transfer payments means",
+    "options": [
+      { "id": "A", "text": "Bank loans" },
+      { "id": "B", "text": "The payment without work" },
+      { "id": "C", "text": "Tax payments" },
+      { "id": "D", "text": "Payments made to all factors of production" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-013",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one is the highest value?",
+    "options": [
+      { "id": "A", "text": "Disposable Income" },
+      { "id": "B", "text": "NNP" },
+      { "id": "C", "text": "Personal Income" },
+      { "id": "D", "text": "GNP" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-014",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Undistributed profits are considered",
+    "options": [
+      { "id": "A", "text": "Income earned but not received" },
+      { "id": "B", "text": "Income received but not earned" },
+      { "id": "C", "text": "Income earned and received" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-015",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "GDP deflator is used to estimate",
+    "options": [
+      { "id": "A", "text": "Gross National Product" },
+      { "id": "B", "text": "Personal Income" },
+      { "id": "C", "text": "Net National Product" },
+      { "id": "D", "text": "Real or deflating income" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-016",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Depreciation allowance is NOT considered while calculating",
+    "options": [
+      { "id": "A", "text": "Gross National Income" },
+      { "id": "B", "text": "Gross Domestic Income" },
+      { "id": "C", "text": "Personal Income" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-017",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "When there is rising inflation in the economy then",
+    "options": [
+      { "id": "A", "text": "Real GNP is greater than Nominal GNP" },
+      { "id": "B", "text": "Nominal GNP greater than real GNP" },
+      { "id": "C", "text": "GNP and real GNP increase at the same rate" },
+      { "id": "D", "text": "There is no effect on such calculations" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-018",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "By deducting personal tax from personal income, we get",
+    "options": [
+      { "id": "A", "text": "Personal Income" },
+      { "id": "B", "text": "GNP at factor cost" },
+      { "id": "C", "text": "NNP at market price" },
+      { "id": "D", "text": "Personal Disposable Income" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-019",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Capital consumption is defined as",
+    "options": [
+      { "id": "A", "text": "Reduction of value of an asset over the year" },
+      { "id": "B", "text": "Decrease in value by using an asset over than capacity" },
+      { "id": "C", "text": "Wastage of assets by not using it over the time" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-020",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following is a measure of income earned by a factor of production?",
+    "options": [
+      { "id": "A", "text": "Indirect taxes" },
+      { "id": "B", "text": "Depreciation" },
+      { "id": "C", "text": "Rent" },
+      { "id": "D", "text": "Corporate taxes" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-021",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following represent withdrawals from the circular flow of national income?\n(i) Distributed profits\n(ii) Interest paid on bank loans\n(iii) Income tax payments\n(iv) Imports",
+    "options": [
+      { "id": "A", "text": "(i) and (ii) only" },
+      { "id": "B", "text": "(ii) and (iii) only" },
+      { "id": "C", "text": "(i) and (iii) only" },
+      { "id": "D", "text": "(iii) and (iv) only" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-022",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If GNP rose from 5 billion rupees to 10 billion rupees and in the same period price rose by 50%",
+    "options": [
+      { "id": "A", "text": "real GNP fell by 100%" },
+      { "id": "B", "text": "real GNP fell by 50%" },
+      { "id": "C", "text": "real GNP remains unchanged" },
+      { "id": "D", "text": "real GNP will increase by 50%" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Macro-economics is also known as:",
+    "options": [
+      { "id": "A", "text": "Price Theory" },
+      { "id": "B", "text": "Theory of Distribution" },
+      { "id": "C", "text": "Theory of Income & Employment" },
+      { "id": "D", "text": "Theory of Production" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "The monetary value of the flow of goods and services produced by the economy during one year after the adjustment of indirect taxes and subsidies is known as:",
+    "options": [
+      { "id": "A", "text": "Personal Income" },
+      { "id": "B", "text": "Disposable Income" },
+      { "id": "C", "text": "National Income" },
+      { "id": "D", "text": "G.D.P." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "The market value of all the products goods and services, which are produced within a country during one financial year is known as:",
+    "options": [
+      { "id": "A", "text": "G.D.P." },
+      { "id": "B", "text": "G.N.P." },
+      { "id": "C", "text": "National Income" },
+      { "id": "D", "text": "Disposable Income" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "G.D.P. estimated at base year price is known as:",
+    "options": [
+      { "id": "A", "text": "Nominal G.D.P." },
+      { "id": "B", "text": "Real G.D.P." },
+      { "id": "C", "text": "G.D.P. at purchasing power parity" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Net National product is also known as:",
+    "options": [
+      { "id": "A", "text": "National Income at Factor Price" },
+      { "id": "B", "text": "National Income at Market Price" },
+      { "id": "C", "text": "GDP at Market Price" },
+      { "id": "D", "text": "Personal Income" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Total income received by all the legal residents of an economy in one financial year.",
+    "options": [
+      { "id": "A", "text": "National Income at Factor Price" },
+      { "id": "B", "text": "National Income at Market Price" },
+      { "id": "C", "text": "Personal Income" },
+      { "id": "D", "text": "Disposable Income" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "The following data related to the National Income of a country:\n\n| Item | Amount |\n| :--- | :---: |\n| Consumer’s expenditure | 25,000 |\n| Gross investment | 5,000 |\n| Government expenditure | 5,000 |\n| Exports | 4,000 |\n| Imports | (6,000) |\n| G.S.T. | (4,000) |\n| Subsidies | 1,000 |\n| Depreciation allowance | (1,000) |\n| Net factor income from abroad | 2,000 |\n\nThe National Income at factor price is:",
+    "options": [
+      { "id": "A", "text": "33,000" },
+      { "id": "B", "text": "34,000" },
+      { "id": "C", "text": "31,000" },
+      { "id": "D", "text": "30,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "The following data related to the National Income of a country:\n- Pre-tax wages of workers: 10,000\n- Pre-tax profit of firms: 12,000\n- Rent received by land: 8,000\n- Taxes deducted out of rent: 2,000\n\nThe National income at factor price of country is:",
+    "options": [
+      { "id": "A", "text": "30,000" },
+      { "id": "B", "text": "24,000" },
+      { "id": "C", "text": "32,000" },
+      { "id": "D", "text": "20,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following is not a withdrawal from circular flow of income:",
+    "options": [
+      { "id": "A", "text": "Savings" },
+      { "id": "B", "text": "Investment" },
+      { "id": "C", "text": "Imports" },
+      { "id": "D", "text": "Taxes" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following expenditure are not included in G.D.P.",
+    "options": [
+      { "id": "A", "text": "Expenditure made by the firms" },
+      { "id": "B", "text": "Consumer’s Expenditure" },
+      { "id": "C", "text": "Government Expenditure" },
+      { "id": "D", "text": "Net foreign trade expenditure" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following adjustment is called factor price adjustment?\n(i) Indirect taxes\n(ii) Subsidies\n(iii) Capital consumption allowance\n(iv) Net factor income from abroad",
+    "options": [
+      { "id": "A", "text": "(i) & (iii)" },
+      { "id": "B", "text": "(ii) & (iii)" },
+      { "id": "C", "text": "(iii) & (iv)" },
+      { "id": "D", "text": "(i) & (ii)" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Net increases in the capital stocks of a country are called:\n(i) Net investment\n(ii) Net savings\n(iii) Net capital formation\n(iv) Net consumption",
+    "options": [
+      { "id": "A", "text": "(i) & (ii)" },
+      { "id": "B", "text": "(i) & (iii)" },
+      { "id": "C", "text": "(ii) & (iii)" },
+      { "id": "D", "text": "(iv)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "A country’s measured national income per capita falls but its inhabitants experience a rise in consumption. What could explain this?",
+    "options": [
+      { "id": "A", "text": "A decrease in net foreign remittances" },
+      { "id": "B", "text": "A fall in population" },
+      { "id": "C", "text": "An increase in trade deficit" },
+      { "id": "D", "text": "A rise in negative externalities" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Income which is received without any factor services is known as __A__ whereas income which earned but not received by the factors of production is known as __B__.",
+    "options": [
+      { "id": "A", "text": "a = Transfer payment | b = Retained earnings" },
+      { "id": "B", "text": "a = Factor income | b = Transfer payment" },
+      { "id": "C", "text": "a = Subsidy | b = Tax" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If sale value of output of firms is Rs.45 billion and cost of goods purchased by firms from outside firms is Rs.10 billion. G.D.P. of country would be:",
+    "options": [
+      { "id": "A", "text": "Rs.45 billion" },
+      { "id": "B", "text": "Rs.35 billion" },
+      { "id": "C", "text": "Rs.55 billion" },
+      { "id": "D", "text": "Rs.50 billion" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If gross output of a country in current year is 5,000 units & price of output in current year is Rs.100 per unit and in base year Rs.50 per unit. Real G.D.P. of the country would be:",
+    "options": [
+      { "id": "A", "text": "500,000" },
+      { "id": "B", "text": "1,000,000" },
+      { "id": "C", "text": "250,000" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one is a component of Aggregate Demand?",
+    "options": [
+      { "id": "A", "text": "Personal consumption" },
+      { "id": "B", "text": "Personal Investment" },
+      { "id": "C", "text": "Subsidies" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one is NOT considered in Aggregate Demand?",
+    "options": [
+      { "id": "A", "text": "Demand for cotton" },
+      { "id": "B", "text": "Demand for salt" },
+      { "id": "C", "text": "Demand for labour" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If exports become more attractive for foreign firms, then the Aggregate Demand Curve",
+    "options": [
+      { "id": "A", "text": "Rise and shift rightward" },
+      { "id": "B", "text": "Fall and shift rightward" },
+      { "id": "C", "text": "Rise and shift inward" },
+      { "id": "D", "text": "Fall and shift inward" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-042",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which is NOT a cause of inward shift of aggregate demand curve?",
+    "options": [
+      { "id": "A", "text": "Consumers begin to spend more" },
+      { "id": "B", "text": "Firms have wave of optimism" },
+      { "id": "C", "text": "Government spending more on power generation projects" },
+      { "id": "D", "text": "All of the above." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-043",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Actual expenditure in an economy is based on existing/ actual income, rather than if the economy was at its productive potential is known as",
+    "options": [
+      { "id": "A", "text": "Individual demand" },
+      { "id": "B", "text": "Effective demand" },
+      { "id": "C", "text": "Aggregate demand" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-044",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which cause a shift in Aggregate Supply curve to left?",
+    "options": [
+      { "id": "A", "text": "Decrease in labour productivity" },
+      { "id": "B", "text": "Increase in overall spending" },
+      { "id": "C", "text": "Decrease in government spending on development projects" },
+      { "id": "D", "text": "Decrease in foreign direct investment" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-045",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Change in inflationary expectations will cause",
+    "options": [
+      { "id": "A", "text": "Vertical Aggregate Supply curve" },
+      { "id": "B", "text": "Positively sloped aggregate supply curve" },
+      { "id": "C", "text": "Shift in aggregate supply curve" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-046",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Long run aggregate supply curve is vertical due to",
+    "options": [
+      { "id": "A", "text": "Flexibility of existing resources" },
+      { "id": "B", "text": "Firms have ability to switch resources to other production" },
+      { "id": "C", "text": "Government has no control over production decisions" },
+      { "id": "D", "text": "Full utilization of existing resources" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-047",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "A vertical aggregate supply curve shifts to right if",
+    "options": [
+      { "id": "A", "text": "Permanent change in productive potential" },
+      { "id": "B", "text": "Change in technology" },
+      { "id": "C", "text": "Change in government spending" },
+      { "id": "D", "text": "Change in behaviours of consumers" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-048",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Inflationary gap represents when",
+    "options": [
+      { "id": "A", "text": "Aggregate demand exceeds over production potential of the economy" },
+      { "id": "B", "text": "Aggregate demand exceeds over the firm’s expectations" },
+      { "id": "C", "text": "Aggregate supply remains less than in aggregate supply in short run" },
+      { "id": "D", "text": "Aggregate supply exceeds over aggregate demand in short run" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-049",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If aggregate demand is less than productive potential of an economy, then it is known as",
+    "options": [
+      { "id": "A", "text": "Negative output gap" },
+      { "id": "B", "text": "Positive output gap" },
+      { "id": "C", "text": "Inflationary gap" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-050",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "An output gap is said to be an inflationary gap if",
+    "options": [
+      { "id": "A", "text": "Aggregate demand exceeds over aggregate supply in short run" },
+      { "id": "B", "text": "Aggregate demand exceeds over aggregate supply in long run" },
+      { "id": "C", "text": "Aggregate demand remains less than aggregate supply in short run" },
+      { "id": "D", "text": "Aggregate demand remains less than aggregate supply in long run" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-051",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If rise in aggregate demand is greater than increase in short run aggregate supply curve then",
+    "options": [
+      { "id": "A", "text": "Price and output level will increase" },
+      { "id": "B", "text": "Price and output level will decrease" },
+      { "id": "C", "text": "Price will increase and output level will decrease" },
+      { "id": "D", "text": "Price will decrease and output will increase" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-052",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If rise in aggregate demand is lesser than increase in short run aggregate supply curve then",
+    "options": [
+      { "id": "A", "text": "Price and output level will increase" },
+      { "id": "B", "text": "Price and output level will decrease" },
+      { "id": "C", "text": "Price will increase and output level will decrease" },
+      { "id": "D", "text": "Price will decrease and output will increase" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-053",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If aggregate demand and aggregate supply increase in same proportion",
+    "options": [
+      { "id": "A", "text": "Price and output level will increase" },
+      { "id": "B", "text": "Price and output level will decrease" },
+      { "id": "C", "text": "No change in price level and fall in output" },
+      { "id": "D", "text": "Fall in price level and increase in output" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-054",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "A positive output gap leads to",
+    "options": [
+      { "id": "A", "text": "A rise in overall price level" },
+      { "id": "B", "text": "A fall in overall price level" },
+      { "id": "C", "text": "No change in price level" },
+      { "id": "D", "text": "It depends on magnitude of change in demand and supply" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-055",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one can be responsible factor of an inflationary gap?",
+    "options": [
+      { "id": "A", "text": "Rising household consumptions" },
+      { "id": "B", "text": "Rising investment" },
+      { "id": "C", "text": "Rising government spending" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-056",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one is NOT a workable step to overcome an inflationary gap?",
+    "options": [
+      { "id": "A", "text": "Rising government spending" },
+      { "id": "B", "text": "Rising direct taxes" },
+      { "id": "C", "text": "Decrease in government spending" },
+      { "id": "D", "text": "Increase in interest rate" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-057",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Inflationary gap depicts economy is in",
+    "options": [
+      { "id": "A", "text": "Its peak" },
+      { "id": "B", "text": "Its trough" },
+      { "id": "C", "text": "Recession" },
+      { "id": "D", "text": "Recovery" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-058",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Rise in minimum wage level is a workable step to",
+    "options": [
+      { "id": "A", "text": "Overcome inflationary gap" },
+      { "id": "B", "text": "Deflationary gap" },
+      { "id": "C", "text": "Irrelevant" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-059",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Aggregate supply curve",
+    "options": [
+      { "id": "A", "text": "Is the sum of individual supply curves in the economy?" },
+      { "id": "B", "text": "Is a market supply curve" },
+      { "id": "C", "text": "Embodies the same logic that lies behind an individual firm's supply curve" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-060",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "An inflationary gap exists in an economy when",
+    "options": [
+      { "id": "A", "text": "The government has a budget deficit" },
+      { "id": "B", "text": "Aggregate demand is greater than the full employment level of income" },
+      { "id": "C", "text": "Withdrawals exceed injections at the full employment level of income" },
+      { "id": "D", "text": "The money supply rises faster than national income" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-061",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which one of the following would cause a fall in the level of aggregate demand in an economy?",
+    "options": [
+      { "id": "A", "text": "A decrease in the level of imports" },
+      { "id": "B", "text": "A fall in the propensity to save" },
+      { "id": "C", "text": "A decrease in government expenditure" },
+      { "id": "D", "text": "A decrease in the level of income tax" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-062",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following cannot cause shift in short-run aggregate supply?",
+    "options": [
+      { "id": "A", "text": "Productivity of labour" },
+      { "id": "B", "text": "Indirect taxes" },
+      { "id": "C", "text": "Direct taxes" },
+      { "id": "D", "text": "Subsidies" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-063",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Long-run aggregate supply represents.",
+    "options": [
+      { "id": "A", "text": "The productive potential of an economy" },
+      { "id": "B", "text": "Total labour supply" },
+      { "id": "C", "text": "Relationship between price and taxes" },
+      { "id": "D", "text": "Total natural resources" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-064",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Which of the following cannot cause shift in long run aggregate supply?",
+    "options": [
+      { "id": "A", "text": "New technology" },
+      { "id": "B", "text": "Improvement in labour skills" },
+      { "id": "C", "text": "Price level" },
+      { "id": "D", "text": "Natural resources" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-065",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Keynesian aggregate supply curve is always:",
+    "options": [
+      { "id": "A", "text": "Upward to the right" },
+      { "id": "B", "text": "Downward to the right" },
+      { "id": "C", "text": "Horizontal & vertical after full employment" },
+      { "id": "D", "text": "Vertical" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-066",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Difference between potential G.D.P and actual G.D.P. is called:",
+    "options": [
+      { "id": "A", "text": "Inflation" },
+      { "id": "B", "text": "Deflation" },
+      { "id": "C", "text": "Output gap" },
+      { "id": "D", "text": "G.D.P. Deflator" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-067",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "G.D.P. deflator is a ratio between:",
+    "options": [
+      { "id": "A", "text": "Inflationary gap & deflationary gap" },
+      { "id": "B", "text": "Inflation and disinflation" },
+      { "id": "C", "text": "Nominal G.D.P. and Real G.D.P." },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-068",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If government expenditure increases what will the effect on price level and output level.",
+    "options": [
+      { "id": "A", "text": "Both increases" },
+      { "id": "B", "text": "No change" },
+      { "id": "C", "text": "Output increase and no change in price level" },
+      { "id": "D", "text": "Price level increase and no change in output level" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-069",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If wage rate in economy increases what will be effect on price level.",
+    "options": [
+      { "id": "A", "text": "Increase" },
+      { "id": "B", "text": "Decreases" },
+      { "id": "C", "text": "No change" },
+      { "id": "D", "text": "Rate of inflation decrease" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-070",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If government expenditures and wage rate increase in the same proportion what will be effect on economy.\n(i) Output increase\n(ii) No change in output\n(iii) Price level increases\n(iv) Output decrease",
+    "options": [
+      { "id": "A", "text": "(i) & (iii)" },
+      { "id": "B", "text": "(ii) & (iv)" },
+      { "id": "C", "text": "(iii) & (iv)" },
+      { "id": "D", "text": "(ii) & (iii)" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-071",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Deflationary gap can be reduced by:\n(i) Increase in government expenditure\n(ii) Increase in consumer’s expenditure\n(iii) Decrease in indirect taxes\n(iv) Increase in subsidies",
+    "options": [
+      { "id": "A", "text": "(i) & (ii)" },
+      { "id": "B", "text": "(iii) & (iv)" },
+      { "id": "C", "text": "(ii) & (iii)" },
+      { "id": "D", "text": "(i) & (iv)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-072",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "If aggregate demand gone beyond the full employment, it is said to be:\n(i) Inflationary gap\n(ii) Deflationary gap\n(iii) Ideal equilibrium\n(iv) Positive output gap",
+    "options": [
+      { "id": "A", "text": "(i) & (ii)" },
+      { "id": "B", "text": "(i) & (iv)" },
+      { "id": "C", "text": "(ii) & (iv)" },
+      { "id": "D", "text": "(ii) & (iii)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-073",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "A continuous or persistent rise in general price level is called:",
+    "options": [
+      { "id": "A", "text": "Inflation" },
+      { "id": "B", "text": "Deflation" },
+      { "id": "C", "text": "Disinflation" },
+      { "id": "D", "text": "Stagflation" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-074",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "A fall in rate of inflation is called:",
+    "options": [
+      { "id": "A", "text": "Inflation" },
+      { "id": "B", "text": "Inflationary gap" },
+      { "id": "C", "text": "Disinflation" },
+      { "id": "D", "text": "Deflation" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-075",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "A continuous or persistent rise in general price level is called __a__ whereas a particular situation beyond the full employment where only general price level increases with no change in level of output is called __b__.",
+    "options": [
+      { "id": "A", "text": "a = Inflation | b = Inflationary Gap" },
+      { "id": "B", "text": "a = Deflation | b = Deflationary Gap" },
+      { "id": "C", "text": "a = Stagflation | b = Output Gap" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-076",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Keynesians believe that when economy reaches its productive potential the A.S. curve will be __a__. However, when the economy is not at full output they believe that the A.S. curve will be __b__.",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 40 135 L 150 135 Q 185 135 190 95 L 190 35\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"198\" y=\"50\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">AS (a)</text><text x=\"80\" y=\"126\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">AS (b)</text></svg>",
+    "options": [
+      { "id": "A", "text": "a = Vertical | b = Horizontal" },
+      { "id": "B", "text": "a = Horizontal | b = Vertical" },
+      { "id": "C", "text": "a = Upward sloping | b = Downward sloping" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-077",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "In the diagram below, the A.D curve shifts towards the right (from AD0 to AD1); as a result, the price level & output level both increase. What is the cause of this rightward shift in the A.D curve?",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 55 50 L 200 150\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2\"/><text x=\"205\" y=\"152\" fill=\"#6366F1\" font-size=\"11\" font-weight=\"bold\">AD0</text><path d=\"M 95 40 L 240 140\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"2\" stroke-dasharray=\"4\"/><text x=\"242\" y=\"142\" fill=\"#F59E0B\" font-size=\"11\" font-weight=\"bold\">AD1</text><path d=\"M 55 145 L 225 45\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\"/><text x=\"230\" y=\"48\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">SRAS</text></svg>",
+    "options": [
+      { "id": "A", "text": "Increase in wage rate" },
+      { "id": "B", "text": "Increase in government spending" },
+      { "id": "C", "text": "Increase in indirect taxes" },
+      { "id": "D", "text": "Improvement in technology" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-APQ-078",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "apq",
+    "questionText": "Pakistan’s economy after Covid-19 currently facing a situation of:",
+    "options": [
+      { "id": "A", "text": "Deflationary gap or recessionary gap" },
+      { "id": "B", "text": "Inflation gap" },
+      { "id": "C", "text": "Ideal equilibrium" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  }
+]
