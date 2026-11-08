@@ -1,0 +1,2031 @@
+[
+  {
+    "id": "PRC1-CH01-ST-001",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "“Goods purchased on cash” is an example of:",
+    "options": [
+      { "id": "A", "text": "Simple Transaction" },
+      { "id": "B", "text": "Complex Transaction" },
+      { "id": "C", "text": "One Off Transaction" },
+      { "id": "D", "text": "Capital Receipt" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-002",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which account will have a debit balance in case of an increase?",
+    "options": [
+      { "id": "A", "text": "Drawings account" },
+      { "id": "B", "text": "Revenue account" },
+      { "id": "C", "text": "Discount received account" },
+      { "id": "D", "text": "Capital account" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-003",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Following information is extracted from the books of Hi-Tech Enterprises:\n\n| Particulars | Rs. |\n| :--- | :---: |\n| Non-Current Assets | 42,000 |\n| Non-Current Liabilities | 24,000 |\n| Current Assets | 21,000 |\n| Current Liabilities | 12,000 |\n| Capital | 27,000 |\n\nWhat is the total of Net Assets?",
+    "options": [
+      { "id": "A", "text": "Rs. 66,000" },
+      { "id": "B", "text": "Rs. 63,000" },
+      { "id": "C", "text": "Rs. 36,000" },
+      { "id": "D", "text": "Rs. 27,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-004",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Following information is extracted from the books of Naqeeb Enterprises:\n\n| Particulars | Rs. |\n| :--- | :---: |\n| Current Assets | 66,000 |\n| Current Liabilities | 16,000 |\n| Non-current Assets | 45,000 |\n| Non-current Liabilities | 32,000 |\n| Capital | 63,000 |\n\nWhat is the total of Assets?",
+    "options": [
+      { "id": "A", "text": "Rs. 127,000" },
+      { "id": "B", "text": "Rs. 111,000" },
+      { "id": "C", "text": "Rs. 79,000" },
+      { "id": "D", "text": "Rs. 63,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-005",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Fast Software (FS) is a software house. FS imported 10 Laptops from Japan for their office @ Rs. 50,000 per Laptop. Payment was made through cheque. How this will be recorded in the books of FS?",
+    "options": [
+      { "id": "A", "text": "Purchases Account (Debit) | Bank Account (Credit)" },
+      { "id": "B", "text": "Laptop Account (Debit) | Bank Account (Credit)" },
+      { "id": "C", "text": "Purchases Account (Debit) | Accounts Payable (Credit)" },
+      { "id": "D", "text": "Laptop Account (Debit) | Accounts Payable (Credit)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-006",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which statements about accounting and bookkeeping are correct?",
+    "options": [
+      { "id": "A", "text": "Bookkeeping is performed daily rather than periodically" },
+      { "id": "B", "text": "Preparation of financial statements is part of bookkeeping" },
+      { "id": "C", "text": "Accounting relies on having accurate bookkeeping records" },
+      { "id": "D", "text": "Financial transactions are recorded by using bookkeeping" }
+    ],
+    "correctOption": "A,C,D"
+  },
+  {
+    "id": "PRC1-CH01-ST-007",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Zamil Limited applied to bank for an overdraft limit of Rs. 0.5 million, which was accepted by bank subsequently? Which of the following statement is correct?",
+    "options": [
+      { "id": "A", "text": "Bank will transfer Rs. 0.5 million to bank account of Zamil Limited" },
+      { "id": "B", "text": "Bank will pay all the cheques issued by Zamil Limited" },
+      { "id": "C", "text": "Bank will pay all the cheques of the amount less than 0.5 million" },
+      { "id": "D", "text": "Bank will pay the cheques issued by Zamil Limited provided that account will not be overdrawn by more than Rs. 0.5 million" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-008",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following combination includes only liabilities?",
+    "options": [
+      { "id": "A", "text": "Machines, Debtors, Cash" },
+      { "id": "B", "text": "Creditors, Bank Overdraft, Bills Payable" },
+      { "id": "C", "text": "Bank, Payables, Sales" },
+      { "id": "D", "text": "Loan Obtained, Loan Issued, Creditors" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-009",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following combination represents assets only?",
+    "options": [
+      { "id": "A", "text": "Debtors, Purchases, Cash in Hand" },
+      { "id": "B", "text": "Building, Cash at Bank, Investments" },
+      { "id": "C", "text": "Creditors, Insurance, Tax" },
+      { "id": "D", "text": "Bank Overdraft, Equipment, Cash in Hand" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-010",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following is correct representation of accounting equation?",
+    "options": [
+      { "id": "A", "text": "Assets – Liabilities = Capital" },
+      { "id": "B", "text": "Liabilities – Assets = Capital" },
+      { "id": "C", "text": "Capital – Liabilities = Assets" },
+      { "id": "D", "text": "Capital – Assets = Liabilities" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-011",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following are non-current assets?",
+    "options": [
+      { "id": "A", "text": "Inventory" },
+      { "id": "B", "text": "Land and building" },
+      { "id": "C", "text": "Motor vehicles" },
+      { "id": "D", "text": "Equipment" },
+      { "id": "E", "text": "Furniture" }
+    ],
+    "correctOption": "B,C,D,E"
+  },
+  {
+    "id": "PRC1-CH01-ST-012",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following statements is correct?",
+    "options": [
+      { "id": "A", "text": "Net Sales = Gross sales – sales return – discount allowed" },
+      { "id": "B", "text": "Gross Sales = Net sales – sales return – discount allowed" },
+      { "id": "C", "text": "Net Sales = Gross sales – sales return + discount received" },
+      { "id": "D", "text": "Gross Sales = Net Sales" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-013",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Adil sublets part of his premises to Abid, the rental income shall be classified as?",
+    "options": [
+      { "id": "A", "text": "Capital Receipt" },
+      { "id": "B", "text": "Capital Expenditure" },
+      { "id": "C", "text": "Revenue Receipt" },
+      { "id": "D", "text": "Revenue Expenditure" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-014",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Sultan traders deals in electric fans. The owner of Sultan traders took one electric fan for his home, which of the following account will be debited?",
+    "options": [
+      { "id": "A", "text": "Fans account" },
+      { "id": "B", "text": "Purchases account" },
+      { "id": "C", "text": "Sales account" },
+      { "id": "D", "text": "Drawings account" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-015",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Debit represents all of the following, except:",
+    "options": [
+      { "id": "A", "text": "Increase in asset" },
+      { "id": "B", "text": "Decrease in liability" },
+      { "id": "C", "text": "Decrease in equity" },
+      { "id": "D", "text": "Increase in equity" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-016",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following are current assets?",
+    "options": [
+      { "id": "A", "text": "Cash at bank" },
+      { "id": "B", "text": "Bank overdraft" },
+      { "id": "C", "text": "Accounts receivables" },
+      { "id": "D", "text": "Equipment" },
+      { "id": "E", "text": "Inventory" }
+    ],
+    "correctOption": "A,C,E"
+  },
+  {
+    "id": "PRC1-CH01-ST-017",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Owner’s annual life insurance premium paid from business bank account will be:",
+    "options": [
+      { "id": "A", "text": "Debited to insurance account and Credited to bank account" },
+      { "id": "B", "text": "Debited to bank account and Credited to drawings account" },
+      { "id": "C", "text": "Debited to bank account and Credited to insurance account" },
+      { "id": "D", "text": "Debited to drawings account and Credited to bank account" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-018",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Nasir obtained loan from his friend Yasir for his business, by cheque. What journal entry will be recorded in the books of Nasir?",
+    "options": [
+      { "id": "A", "text": "Cash account Debit, Loan from Yasir account Credit" },
+      { "id": "B", "text": "Bank account Debit, Loan from Yasir account Credit" },
+      { "id": "C", "text": "Loan from Yasir account Debit, Bank account Credit" },
+      { "id": "D", "text": "Loan from Yasir account Debit, Yasir account credit" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-019",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "New Look Transport Limited (NLTL) purchased a van from Advanced Motors for Rs. 5 million on 1 February 2022. NLTL paid Rs. 2.2 million on the same date and remaining amount will be paid in two equal installments on 31 March 2022 and 30 April 2022.\nWhat journal entry will be passed in the books of NLTL on 31 March 2022?",
+    "options": [
+      { "id": "A", "text": "Advance Motors account Debit Rs. 1.4 million; Bank account Credit Rs. 1.4 million" },
+      { "id": "B", "text": "Van account Debit Rs. 5 million; Bank account Credit Rs. 5 million" },
+      { "id": "C", "text": "Advanced Motors Debit Rs. 1.4 million; Van account Credit Rs. 1.4 million" },
+      { "id": "D", "text": "Van account Debit Rs. 1.4 million; Advanced Motors Credit 1.4 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-020",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "A trainee accountant has prepared the following list of expenses. Which of the following are correct in relation to expenses?:",
+    "options": [
+      { "id": "A", "text": "Carriage Inwards" },
+      { "id": "B", "text": "Carriage outwards" },
+      { "id": "C", "text": "Commission received" },
+      { "id": "D", "text": "Salaries expense" }
+    ],
+    "correctOption": "A,B,D"
+  },
+  {
+    "id": "PRC1-CH01-ST-021",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "A debit entry usually represents decrease in:",
+    "options": [
+      { "id": "A", "text": "Assets and expenses" },
+      { "id": "B", "text": "Liabilities and income" },
+      { "id": "C", "text": "Liabilities and expenses" },
+      { "id": "D", "text": "Income and assets" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-022",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Following debit and credit effects were recorded by the Shine Limited:\n\n| Accounts | Element | Effect | Debit / Credit | Amount Rs. |\n| :--- | :--- | :--- | :---: | :---: |\n| Bank Loan | Liability | Decrease | Debit | 10,000 |\n| Cash | Asset | Decrease | Credit | 8,000 |\n| Capital | Equity | Increase | Credit | 2,000 |\n\nWhich of the following transaction represent above double entry for Shine Limited?",
+    "options": [
+      { "id": "A", "text": "Bank Loan was obtained for office use Rs. 8,000 and for Personal use Rs. 2,000" },
+      { "id": "B", "text": "Cash invested by the owner Rs. 10,000 into Bank and Rs. 8,000 in cash" },
+      { "id": "C", "text": "Bank loan repaid Rs. 8,000 from business and Rs. 2,000 from owner’s personal resources" },
+      { "id": "D", "text": "Bank loan was invested into the business Rs. 10,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-023",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "The goods are given as charity, which of the following is correct effect?",
+    "options": [
+      { "id": "A", "text": "Increase in liability, increase in asset" },
+      { "id": "B", "text": "Increase in asset, decrease in asset" },
+      { "id": "C", "text": "Increase in income, decrease in asset" },
+      { "id": "D", "text": "Decrease in asset, increase in expense" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-024",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "GAAP stands for:",
+    "options": [
+      { "id": "A", "text": "General Accounting and Audit Principles" },
+      { "id": "B", "text": "Generally Accepted Accounting Principles" },
+      { "id": "C", "text": "Globally Accepted Accounting Principles" },
+      { "id": "D", "text": "General Accounts and Accounting Principles" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-025",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct.",
+    "options": [
+      { "id": "A", "text": "Assets that provide economic benefits in the short term (usually one year) are current assets" },
+      { "id": "B", "text": "Amounts payable more than 12 months after the reporting date is treated as current liability" },
+      { "id": "C", "text": "Equity is the residual interest in the assets of the entity after deducting all its liabilities" },
+      { "id": "D", "text": "Revenue is income arising in the course of the ordinary activities of the entity" }
+    ],
+    "correctOption": "A,C,D"
+  },
+  {
+    "id": "PRC1-CH01-ST-026",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "The status of shareholders in a company is same as those of __________in a company.",
+    "options": [
+      { "id": "A", "text": "Competitor" },
+      { "id": "B", "text": "Owners" },
+      { "id": "C", "text": "Employees" },
+      { "id": "D", "text": "Debtors" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-027",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "The following is the list of stakeholders:\n1. Government\n2. Management\n3. Employees\n4. Competitors\n\nWhich of the above are internal stakeholders?",
+    "options": [
+      { "id": "A", "text": "1 and 2" },
+      { "id": "B", "text": "2 and 4" },
+      { "id": "C", "text": "2 and 3" },
+      { "id": "D", "text": "1 and 4" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-028",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following are part of accounting cycle or accounting process?",
+    "options": [
+      { "id": "A", "text": "Transactions" },
+      { "id": "B", "text": "Books of prime entry" },
+      { "id": "C", "text": "Ledgers" },
+      { "id": "D", "text": "Trial balance" },
+      { "id": "E", "text": "Financial statements" }
+    ],
+    "correctOption": "A,B,C,D,E"
+  },
+  {
+    "id": "PRC1-CH01-ST-029",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Suppliers can use the financial statements to assess that:",
+    "options": [
+      { "id": "A", "text": "How much credit they can allow to the entity?" },
+      { "id": "B", "text": "How much inventory that can be sold to the entity?" },
+      { "id": "C", "text": "How much tax company was paying?" },
+      { "id": "D", "text": "In order to measure the demand of its products." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-030",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Income arising in the course of the ordinary activities of the entity is:",
+    "options": [
+      { "id": "A", "text": "Revenue" },
+      { "id": "B", "text": "Other income" },
+      { "id": "C", "text": "Capital Receipt" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-031",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Following information is extracted from the books of Good Limited:\n\n| Particulars | Rs. |\n| :--- | :---: |\n| Creditors | 20,000 |\n| Debtors | 40,000 |\n| Bank Overdraft | 18,000 |\n| Loan given to an employee | 30,000 |\n| Bills Payable | 10,000 |\n\nWhat is the total of current liabilities?",
+    "options": [
+      { "id": "A", "text": "Rs. 78,000" },
+      { "id": "B", "text": "Rs. 48,000" },
+      { "id": "C", "text": "Rs. 38,000" },
+      { "id": "D", "text": "Rs. 18,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-032",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Financial accounting is a term that describes:\n1. Maintaining a system of accounting records for business transactions and other items of a financial nature\n2. Reporting the financial position and financial performance of an entity in a set of financial statements\n\nWhich of the following statement(s) is/are true?",
+    "options": [
+      { "id": "A", "text": "Only statement (1)" },
+      { "id": "B", "text": "Only statement (2)" },
+      { "id": "C", "text": "Both statements" },
+      { "id": "D", "text": "None of the above statement" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-033",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "“Owner withdrew cash from business for personal use” is business transaction. Which of the following accounting concept is related to this statement?",
+    "options": [
+      { "id": "A", "text": "Going concern" },
+      { "id": "B", "text": "Separate entity concept" },
+      { "id": "C", "text": "Prudence concept" },
+      { "id": "D", "text": "Matching concept" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-034",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following transaction is NOT a capital transaction?",
+    "options": [
+      { "id": "A", "text": "Purchase of property, plant and equipment" },
+      { "id": "B", "text": "Improvement in property, plant and equipment which enhances the profit earning capacity of assets" },
+      { "id": "C", "text": "Additions to property, plant and equipment" },
+      { "id": "D", "text": "Running and ongoing cost of property, plant and equipment" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-035",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Capital of Bhai Bhai Associates (BBA) was Rs. 250,000. Which of the following is correct representation in statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Assets Rs. 240,000 | Liabilities Rs. 10,000" },
+      { "id": "B", "text": "Assets Rs. 50,000 | Liabilities Rs. 300,000" },
+      { "id": "C", "text": "Assets Rs. 275,000 | Liabilities Rs. 25,000" },
+      { "id": "D", "text": "Assets Rs. 30,000 | Liabilities Rs. 280,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-036",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following statement best describes the concept of Equity?",
+    "options": [
+      { "id": "A", "text": "Primary right of owners on the assets of the business" },
+      { "id": "B", "text": "Residual right of owners on the assets of the business" },
+      { "id": "C", "text": "Secondary right of owners on the assets of the business" },
+      { "id": "D", "text": "Equity refers to capital employed into business" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-037",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Total assets of business are Rs. 250,000 and current assets are 25% of non-current assets, if the liabilities of business are Rs. 100,000 and equity was 6 times more than its current liabilities, the value of net current assets (current assets minus current liabilities) shall be:",
+    "options": [
+      { "id": "A", "text": "Rs. 25,000" },
+      { "id": "B", "text": "Rs. 37,500" },
+      { "id": "C", "text": "Rs. 50,000" },
+      { "id": "D", "text": "Cannot be calculated from above data" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-038",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following is/are examples of financial business transactions:",
+    "options": [
+      { "id": "A", "text": "Receipt of loan proceeds" },
+      { "id": "B", "text": "Cash purchases of raw materials" },
+      { "id": "C", "text": "Order placed for purchase of machine" },
+      { "id": "D", "text": "Goods taken by owner for personal use" },
+      { "id": "E", "text": "Payment of electricity bill of residence by owner from his own pocket" }
+    ],
+    "correctOption": "A,B,D"
+  },
+  {
+    "id": "PRC1-CH01-ST-039",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following is/are capital expenditure?",
+    "options": [
+      { "id": "A", "text": "Repairs of vehicle" },
+      { "id": "B", "text": "Replacement of engine of vehicle" },
+      { "id": "C", "text": "Purchase of machine for production use in business" },
+      { "id": "D", "text": "Annual insurance premium paid on machine" }
+    ],
+    "correctOption": "B,C"
+  },
+  {
+    "id": "PRC1-CH01-ST-040",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Borrowing money for business purposes by owner and withdrawal of 50% amount on same day from borrowing amount is business transaction. The effect on this business transaction on accounting equation shall be:",
+    "options": [
+      { "id": "A", "text": "Increase in asset and increase in liability" },
+      { "id": "B", "text": "Increase in asset; increase in liability and decrease in equity" },
+      { "id": "C", "text": "Increase in asset and decrease in liability" },
+      { "id": "D", "text": "Increase in asset; decrease in equity and decrease in liability" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-041",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "The following statements describe the link between statement of comprehensive income and statement of financial position in accounting equation:\n1. Profit in the statement of comprehensive income affects the statement of financial position by adding to the owner’s capital\n2. Drawings out of profit shall also affects the statement of financial position, by reducing the owner’s capital\n\nWhich of the above statement(s) is/are correct?",
+    "options": [
+      { "id": "A", "text": "Both statements" },
+      { "id": "B", "text": "Only statement (1)" },
+      { "id": "C", "text": "Only statement (2)" },
+      { "id": "D", "text": "No statement is correct" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-042",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following is capital expenditure?",
+    "options": [
+      { "id": "A", "text": "Salaries paid in cash" },
+      { "id": "B", "text": "Equipment purchased on credit" },
+      { "id": "C", "text": "Inventory purchased on credit" },
+      { "id": "D", "text": "Electricity bill received but not yet paid" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-043",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "The current and non-current assets of Rana Enterprises as at 31 January 2022 were Rs. 400,000 and Rs. 200,000 whereas liabilities were Rs. 250,000. The equity of Rana Enterprises as at 31 January 2022 will be?",
+    "options": [
+      { "id": "A", "text": "Rs. 600,000" },
+      { "id": "B", "text": "Rs. 350,000" },
+      { "id": "C", "text": "Rs. 150,000" },
+      { "id": "D", "text": "Rs. 50,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-044",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Mukhtar earned profit of Rs. 325,000 during first quarter of 2022 but he withdrew the following:\n1. Cash of Rs. 220,000 but he discharged business liability of Rs. 75,000 as well.\n2. Goods of Rs. 100,000 of which 40% goods were distributed as free samples (free sample expense has been included in the calculation of quarterly profit above).\n\nWhat will be impact on net assets during first quarter of 2022?",
+    "options": [
+      { "id": "A", "text": "Net assets increased by Rs. 120,000" },
+      { "id": "B", "text": "Net assets decreased by Rs. 5,000" },
+      { "id": "C", "text": "Net assets increased by Rs. 210,000" },
+      { "id": "D", "text": "Net assets decreased by Rs. 120,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-ST-045",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "With reference to accounting equation, state which of the following statement is true?",
+    "options": [
+      { "id": "A", "text": "Assets should be equal to liabilities" },
+      { "id": "B", "text": "Assets should be equal to equity" },
+      { "id": "C", "text": "Assets should be equal to liabilities and equity" },
+      { "id": "D", "text": "Assets plus liabilities should be equal to equity" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-046",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following transaction affects accounting equation as “increase in one asset, decrease in other asset and decrease in equity”:",
+    "options": [
+      { "id": "A", "text": "Cash received of Rs. 25,000 against disposal of asset with carrying value of Rs. 20,000" },
+      { "id": "B", "text": "Cash received of Rs. 25,000 against disposal of asset with carrying value of Rs. 30,000" },
+      { "id": "C", "text": "Cash of Rs. 25,000 was received from sales of inventory at 15% margin" },
+      { "id": "D", "text": "Cash of Rs. 25,000 was received from sales of inventory at 10% markup" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-047",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following best describes the statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Includes all cash inflows and outflows during the year" },
+      { "id": "B", "text": "Includes all assets, liabilities and equity" },
+      { "id": "C", "text": "Includes all assets and liabilities" },
+      { "id": "D", "text": "Includes all assets, liabilities, income and expenses" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-ST-048",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following statement is correct?",
+    "options": [
+      { "id": "A", "text": "Revenue minus cost of sales is net profit" },
+      { "id": "B", "text": "Revenue minus cost of sales, add other income is net profit" },
+      { "id": "C", "text": "Revenue minus operating expenses is gross profit" },
+      { "id": "D", "text": "Revenue minus cost of sales is gross profit" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-ST-049",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following is NOT an example of non-current asset?",
+    "options": [
+      { "id": "A", "text": "Furniture" },
+      { "id": "B", "text": "Office building" },
+      { "id": "C", "text": "Computer for resale purposes" },
+      { "id": "D", "text": "Patents" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-ST-050",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "self-test",
+    "questionText": "Which of the following is not included in definition of Liability in accordance with conceptual framework?",
+    "options": [
+      { "id": "A", "text": "Present obligation of the entity" },
+      { "id": "B", "text": "Future obligation of the entity" },
+      { "id": "C", "text": "As a result of past event" },
+      { "id": "D", "text": "The settlement of which is expected to result in an outflow of resources allowance" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-001",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following statements are true?\n1. Accounting can be described as the recording and summarizing of transactions\n2. Financial accounting describes the production of a statement of financial position and Statement of Profit or Loss for internal use",
+    "options": [
+      { "id": "A", "text": "1 only" },
+      { "id": "B", "text": "2 only" },
+      { "id": "C", "text": "1 and 2 both" },
+      { "id": "D", "text": "Neither 1 nor 2" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-002",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The terms accounting and book keeping are classified as",
+    "options": [
+      { "id": "A", "text": "Same" },
+      { "id": "B", "text": "Different" },
+      { "id": "C", "text": "Opposite" },
+      { "id": "D", "text": "None of these" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-003",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The main aim of financial accounting is to:",
+    "options": [
+      { "id": "A", "text": "Record all transactions in the books of account." },
+      { "id": "B", "text": "Provide management with detailed analyses of costs." },
+      { "id": "C", "text": "Present the financial results of an organization by mean of financial statements." },
+      { "id": "D", "text": "Calculate profit." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-004",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following is least likely to be expected from a book-keeping and accounting system?",
+    "options": [
+      { "id": "A", "text": "Systematic recording of transactions" },
+      { "id": "B", "text": "Ascertaining profit or loss" },
+      { "id": "C", "text": "Ascertainment of financial position" },
+      { "id": "D", "text": "Solving tax disputes with tax authorities" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-005",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has incurred following costs for the year ended 31 December 2018:\n\n| Cost Item | Rs. million |\n| :--- | :---: |\n| Extension in building | 1.5 |\n| Repairs to building | 0.5 |\n| Overhaul to machinery that increased production capacity | 1.2 |\n\nWhat is the amount of capital expenditure incurred during the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 2.7 million" },
+      { "id": "B", "text": "Rs. 1.5 million" },
+      { "id": "C", "text": "Rs. 1.2 million" },
+      { "id": "D", "text": "Rs. 3.2 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-006",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has incurred following costs for the year ended 31 December 2018:\n\n| Cost Item | Rs. million |\n| :--- | :---: |\n| Extension in building | 1.5 |\n| Repairs to building | 0.5 |\n| Overhaul to machinery that increased production capacity | 1.2 |\n\nWhat is the amount of revenue expenditure incurred during the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 0.5 million" },
+      { "id": "B", "text": "Rs. 1.5 million" },
+      { "id": "C", "text": "Rs. 1.2 million" },
+      { "id": "D", "text": "Rs. 2.7 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-007",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has incurred following information for the year ended 31 December 2018:\n\n| Particulars | Rs. million |\n| :--- | :---: |\n| Cost of building – Opening | 15.5 |\n| Cost of machinery – Opening | 10.2 |\n| Extension in building – during the year | 1.5 |\n| Repairs to building – during the year | 0.5 |\n| Overhaul to machinery that increased production capacity | 1.2 |\n\nWhat is the cost of building after incorporating the above costs?",
+    "options": [
+      { "id": "A", "text": "Rs. 17 million" },
+      { "id": "B", "text": "Rs. 15.5 million" },
+      { "id": "C", "text": "Rs. 10.2 million" },
+      { "id": "D", "text": "Rs. 11.4 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-008",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has incurred following information for the year ended 31 December 2018:\n\n| Particulars | Rs. million |\n| :--- | :---: |\n| Cost of building – Opening | 15.5 |\n| Cost of machinery – Opening | 10.2 |\n| Extension in building – during the year | 1.5 |\n| Repairs to building – during the year | 0.5 |\n| Overhaul to machinery that increased production capacity | 1.2 |\n\nWhat is the cost of machinery after incorporating the above costs?",
+    "options": [
+      { "id": "A", "text": "Rs. 11.4 million" },
+      { "id": "B", "text": "Rs. 10.2 million" },
+      { "id": "C", "text": "Rs. 15.5 million" },
+      { "id": "D", "text": "Rs. 17 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-009",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has incurred following costs for the year ended 31 December 2018:\n\n| Cost Item | Rs. million |\n| :--- | :---: |\n| Extension in building | 1.5 |\n| Repairs to building | 0.5 |\n| Overhaul to machinery that increased production capacity | 1.2 |\n\nProfit for the year before incorporating the above adjustments is Rs. 5.6 million. What will be the profit for year after charging the above repairs?",
+    "options": [
+      { "id": "A", "text": "Rs. 5.1 million" },
+      { "id": "B", "text": "Rs. 5.6 million" },
+      { "id": "C", "text": "Rs. 6.1 million" },
+      { "id": "D", "text": "Rs. 4.6 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-010",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following is not a business transaction?",
+    "options": [
+      { "id": "A", "text": "Incurring interest on a business loan" },
+      { "id": "B", "text": "Hiring a new employee" },
+      { "id": "C", "text": "Purchasing office supplies" },
+      { "id": "D", "text": "Receiving fees for services" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-011",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Expenditures which provide benefits in future period are called:",
+    "options": [
+      { "id": "A", "text": "Revenue expenditure" },
+      { "id": "B", "text": "Outstanding expenditure" },
+      { "id": "C", "text": "Current expenditure" },
+      { "id": "D", "text": "Capital expenditure" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-012",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which one is a capital transaction?",
+    "options": [
+      { "id": "A", "text": "Purchase of goods" },
+      { "id": "B", "text": "Payment of wages" },
+      { "id": "C", "text": "Sale of goods" },
+      { "id": "D", "text": "Purchase of machinery" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-013",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The capital of a business would change as a result of:",
+    "options": [
+      { "id": "A", "text": "A supplier being paid by cheque" },
+      { "id": "B", "text": "Non-current assets being purchased on cash" },
+      { "id": "C", "text": "Non-current assets being purchased on credit" },
+      { "id": "D", "text": "Wages being paid in cash" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-014",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Cash invested in the business by the owner is called",
+    "options": [
+      { "id": "A", "text": "Current asset" },
+      { "id": "B", "text": "Non-current asset" },
+      { "id": "C", "text": "Liabilities" },
+      { "id": "D", "text": "Capital" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-015",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Cash or goods taken away by the proprietor is called",
+    "options": [
+      { "id": "A", "text": "Drawings" },
+      { "id": "B", "text": "Sales" },
+      { "id": "C", "text": "Charity" },
+      { "id": "D", "text": "Expense" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-016",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following is an element of the statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Income" },
+      { "id": "B", "text": "Expense" },
+      { "id": "C", "text": "Gains" },
+      { "id": "D", "text": "Liabilities" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-017",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which from the following is not a current asset?",
+    "options": [
+      { "id": "A", "text": "Equipment" },
+      { "id": "B", "text": "Inventory" },
+      { "id": "C", "text": "Cash" },
+      { "id": "D", "text": "Trade receivables" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-018",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which from the following is not a non-current asset?",
+    "options": [
+      { "id": "A", "text": "Intangibles" },
+      { "id": "B", "text": "Property" },
+      { "id": "C", "text": "Inventory" },
+      { "id": "D", "text": "Equipment" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-019",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "An asset is defined as:",
+    "options": [
+      { "id": "A", "text": "A resource controlled by an entity which is capable of generating independent cash flows." },
+      { "id": "B", "text": "A present economic resource controlled by the entity as a result of past events." },
+      { "id": "C", "text": "A resource owned/controlled by an entity as a result of past events, from which future economic benefits are expected." },
+      { "id": "D", "text": "A resource capable of generating income for the entity." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-020",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The basic accounting equation is given by the formula:\nEquity + Long term liabilities = ________________ + Current assets – Current liabilities.",
+    "options": [
+      { "id": "A", "text": "Non-current assets" },
+      { "id": "B", "text": "Current assets" },
+      { "id": "C", "text": "Total assets" },
+      { "id": "D", "text": "Liabilities" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-021",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Economic resources controlled by a business are called its ________.",
+    "options": [
+      { "id": "A", "text": "Assets" },
+      { "id": "B", "text": "Liabilities" },
+      { "id": "C", "text": "Capital" },
+      { "id": "D", "text": "Revenue" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-022",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "According to the ________ concept, the business is regarded as separate from the personal affairs of its owners.",
+    "options": [
+      { "id": "A", "text": "Business Entity" },
+      { "id": "B", "text": "Going Concern" },
+      { "id": "C", "text": "Accrual" },
+      { "id": "D", "text": "Matching" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-023",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has capital of Rs.10,000.\nWhich of the following asset and liability figures could appear in this business’s statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Assets Rs. 6,000 | Liabilities Rs. 16,000" },
+      { "id": "B", "text": "Assets Rs. 6,000 | Liabilities Rs. 4,000" },
+      { "id": "C", "text": "Assets Rs. 10,000 | Liabilities Rs. 10,000" },
+      { "id": "D", "text": "Assets Rs. 14,000 | Liabilities Rs. 4,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-024",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following is incorrect?",
+    "options": [
+      { "id": "A", "text": "Assets Rs. 7,850 | Liabilities Rs. 1,250 | Capital Rs. 6,600" },
+      { "id": "B", "text": "Assets Rs. 8,200 | Liabilities Rs. 2,800 | Capital Rs. 5,400" },
+      { "id": "C", "text": "Assets Rs. 9,550 | Liabilities Rs. 1,150 | Capital Rs. 8,200" },
+      { "id": "D", "text": "Assets Rs. 6,540 | Liabilities Rs. 1,120 | Capital Rs. 5,420" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-025",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The correct form of accounting equation is",
+    "options": [
+      { "id": "A", "text": "Assets + Liabilities = Equity" },
+      { "id": "B", "text": "Assets – Liabilities = Equity" },
+      { "id": "C", "text": "Assets – Trade payables = Equity" },
+      { "id": "D", "text": "Assets + Receivable = Equity" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-026",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following is not true:",
+    "options": [
+      { "id": "A", "text": "Revenue – Expenses = profit" },
+      { "id": "B", "text": "Revenue – Profit = Expenses" },
+      { "id": "C", "text": "Sales + Gross Profit = Revenue" },
+      { "id": "D", "text": "Revenue = Profit + Expenses" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-027",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Expenses paid by a business decrease:",
+    "options": [
+      { "id": "A", "text": "Cash" },
+      { "id": "B", "text": "Capital" },
+      { "id": "C", "text": "Cash and capital" },
+      { "id": "D", "text": "Capital and Accounts payable" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-028",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "If during the accounting period the assets increased by Rs.7 million, and the owner's equity decreased by Rs.3 million, then the liabilities must have;",
+    "options": [
+      { "id": "A", "text": "Increased by Rs.10 million" },
+      { "id": "B", "text": "Increased by Rs.4 million" },
+      { "id": "C", "text": "Decreased by Rs.4 million" },
+      { "id": "D", "text": "Decreased by Rs.10 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-029",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "At 31 October 2016 Zahid’s trial balance included the following balances:\n\n| Accounts | Rs. |\n| :--- | :---: |\n| Machinery | 12,890 |\n| Inventory | 5,754 |\n| Trade receivables | 11,745 |\n| Trade payables | 7,830 |\n| Bank overdraft | 1,675 |\n| Cash at bank | 150 |\n\nWhat is the value of Zahid's current assets at 31 October 2016?",
+    "options": [
+      { "id": "A", "text": "Rs. 17,649" },
+      { "id": "B", "text": "Rs. 17,499" },
+      { "id": "C", "text": "Rs. 15,974" },
+      { "id": "D", "text": "Rs. 13,734" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-030",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has provided following information in the trial balance;\n\n| Accounts | Rs. |\n| :--- | :---: |\n| Machinery | 150,000 |\n| Equipment | 120,220 |\n| Trade receivables | 35,150 |\n| Trade payables | 40,220 |\n| Bank overdraft | 18,997 |\n| Cash at bank | 32,112 |\n\nWhat is the amount of non – current assets to be shown in the financial position?",
+    "options": [
+      { "id": "A", "text": "Rs. 337,482" },
+      { "id": "B", "text": "Rs. 270,220" },
+      { "id": "C", "text": "Rs. 356,479" },
+      { "id": "D", "text": "Rs. 318,485" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-031",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following TWO best explain why employees are interested in the financial statements of their employer?",
+    "options": [
+      { "id": "A", "text": "To compare the business with its competitors in order to decide whether to seek employment with one of those competitors." },
+      { "id": "B", "text": "To assess the effect of the business on the local economy, community and environment." },
+      { "id": "C", "text": "To assess whether the business will continue into the foreseeable future." },
+      { "id": "D", "text": "To assess the profitability of the business in order to decide whether to invest in it." }
+    ],
+    "correctOption": "A,C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-032",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following user groups require the most detailed financial information from financial statements?",
+    "options": [
+      { "id": "A", "text": "The management" },
+      { "id": "B", "text": "Investors and potential investors" },
+      { "id": "C", "text": "Government agencies" },
+      { "id": "D", "text": "Employees" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-033",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following explains why lenders are interested in financial statements of a business?",
+    "options": [
+      { "id": "A", "text": "Lenders need information about financial stability of business" },
+      { "id": "B", "text": "Lenders need information about profitability of business" },
+      { "id": "C", "text": "Lenders want to assess the entity’s capacity to pay interest and repay loan on time" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-034",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Who is responsible to prepare financial statements in a company?",
+    "options": [
+      { "id": "A", "text": "Shareholders" },
+      { "id": "B", "text": "Managers" },
+      { "id": "C", "text": "Directors" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-035",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Who is responsible to prepare financial statements of a partnership?",
+    "options": [
+      { "id": "A", "text": "Partner (for public disclosure)" },
+      { "id": "B", "text": "There may be no obligation to prepare financial statements of a partnership (other than for tax purpose)" },
+      { "id": "C", "text": "Manager" },
+      { "id": "D", "text": "Accountant" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-036",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which one of the following not an external user of financial statements?",
+    "options": [
+      { "id": "A", "text": "Lender" },
+      { "id": "B", "text": "Investor" },
+      { "id": "C", "text": "Customer" },
+      { "id": "D", "text": "Management" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-037",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which one of the following not an internal user of financial statements?",
+    "options": [
+      { "id": "A", "text": "Employees" },
+      { "id": "B", "text": "Management" },
+      { "id": "C", "text": "Supplier" },
+      { "id": "D", "text": "Executive Director" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-038",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The main source(s) of Generally Accepted Accounting Principles (GAAP) is/are:",
+    "options": [
+      { "id": "A", "text": "Company Law" },
+      { "id": "B", "text": "International Finance Reporting Standards (IFRSs)" },
+      { "id": "C", "text": "Tax law" },
+      { "id": "D", "text": "Sales Tax Act" }
+    ],
+    "correctOption": "A,B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-039",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "An entity (with 31 December year-end) has bought the machine for Rs. 1,000,000 with the down payment of Rs. 200,000 and remaining payment Rs. 800,000 would be made after a month. The transaction happened on 15 December 2011.\nWhat would be the effect on the transaction?",
+    "options": [
+      { "id": "A", "text": "Machine increased by Rs.800,000 and liabilities decreased by Rs.800,000" },
+      { "id": "B", "text": "Machine decreased by Rs.800,000 and liabilities increased by Rs.800,000" },
+      { "id": "C", "text": "Machine increased by Rs.1,000,000 and liabilities increased by Rs.800,000 while cash is decreased by Rs.200,000" },
+      { "id": "D", "text": "Machine increased by Rs.800,000 and liabilities increased by Rs.800,000 while cash is decreased by Rs.200,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-040",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Purchase of machinery for cash",
+    "options": [
+      { "id": "A", "text": "Increases total assets" },
+      { "id": "B", "text": "Decreases total assets" },
+      { "id": "C", "text": "Increases assets and liabilities" },
+      { "id": "D", "text": "Keeps total assets unchanged" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-041",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The investment of cash into the business results in a/an",
+    "options": [
+      { "id": "A", "text": "Increase in cash and a decrease in capital" },
+      { "id": "B", "text": "Increase in cash and an increase in capital" },
+      { "id": "C", "text": "Decrease in cash and an increase in capital" },
+      { "id": "D", "text": "Increase in fees earned and an increase in capital" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-042",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Services rendered for cash will result in a/an",
+    "options": [
+      { "id": "A", "text": "Increase in cash and a decrease in capital" },
+      { "id": "B", "text": "Increase in cash and an increase in fees earned" },
+      { "id": "C", "text": "Decrease in cash and an increase in fees earned" },
+      { "id": "D", "text": "Increase in fees earned and an decrease in capital" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-043",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "One of the local fast-food outlets hired a first-year accounting student to oversee the cash-collection procedures.\nWhen the firm pays the student his weekly wage, the transaction will",
+    "options": [
+      { "id": "A", "text": "Increase an asset, increase a liability" },
+      { "id": "B", "text": "Decrease an asset, decrease a liability" },
+      { "id": "C", "text": "Increase an asset, increase owner's equity" },
+      { "id": "D", "text": "Decrease an asset, decrease owner's equity" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-044",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "QK Company records the transaction as a debit to Consultant Expense for Rs. 500,000 and an equivalent credit to Accounts Payable.\nWhat would be impact on elements of financial statements?",
+    "options": [
+      { "id": "A", "text": "Increase a liability, increase owner’s equity" },
+      { "id": "B", "text": "Decrease an asset, decrease a liability" },
+      { "id": "C", "text": "Increase a liability, decrease owner's equity" },
+      { "id": "D", "text": "Decrease an asset, decrease owner's equity" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-045",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following will cause owner's equity to increase?",
+    "options": [
+      { "id": "A", "text": "Revenue" },
+      { "id": "B", "text": "Expense" },
+      { "id": "C", "text": "Drawings" },
+      { "id": "D", "text": "Asset’s depreciation" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-046",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The owner contributes his personal car to the business",
+    "options": [
+      { "id": "A", "text": "Increase an asset, increase a liability" },
+      { "id": "B", "text": "Decrease an asset, decrease a liability" },
+      { "id": "C", "text": "Increase an asset, increase owner's equity" },
+      { "id": "D", "text": "Decrease an asset, decrease owner's equity" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-047",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The company purchases a significant amount of office supplies on credit",
+    "options": [
+      { "id": "A", "text": "Decrease an asset, decrease a liability" },
+      { "id": "B", "text": "Increase an asset, increase owner's equity" },
+      { "id": "C", "text": "Decrease an asset, decrease owner's equity" },
+      { "id": "D", "text": "Increase an asset, increase a liability" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-048",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "What double entry would be made to record the purchase of an item of machinery on credit?",
+    "options": [
+      { "id": "A", "text": "Debit machinery, credit cash" },
+      { "id": "B", "text": "Debit machinery, credit accounts payables" },
+      { "id": "C", "text": "Debit purchases, credit trade payables" },
+      { "id": "D", "text": "Debit trade payables, credit machinery" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-049",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "What transaction is presented by the entries: debit bank, credit Receivables?",
+    "options": [
+      { "id": "A", "text": "Sale of goods for cash" },
+      { "id": "B", "text": "Purchase of goods for cash" },
+      { "id": "C", "text": "Receipt of cheque from receivables" },
+      { "id": "D", "text": "Payment of cheque to payables" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-050",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A debit entry usually represents increase in:",
+    "options": [
+      { "id": "A", "text": "Assets and Income" },
+      { "id": "B", "text": "Liabilities and Income" },
+      { "id": "C", "text": "Assets and Expenses" },
+      { "id": "D", "text": "Liabilities and Expenses" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-051",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The double entry to record the withdrawal of cash from a business bank account by the owner is?",
+    "options": [
+      { "id": "A", "text": "Debit: drawings Credit: bank" },
+      { "id": "B", "text": "Debit: drawings Credit: capital" },
+      { "id": "C", "text": "Debit: liability Credit cash" },
+      { "id": "D", "text": "Debit: capital Credit: drawings" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-052",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business sells Rs. 100,000 worth of goods to a customer, the customer pays Rs. 50,000 in cash immediately and will pay the remaining Rs. 50,000 in 30 days’ time.\nWhat is the double entry to record the purchase in the customer’s accounting records?",
+    "options": [
+      { "id": "A", "text": "Dr. cash Rs. 50,000; Cr. payables Rs. 50,000; Cr. purchases Rs. 50,000" },
+      { "id": "B", "text": "Dr. payables Rs. 50,000; Dr. cash Rs. 50,000 ;Cr. purchases Rs. 100,000" },
+      { "id": "C", "text": "Dr. purchases Rs. 100,000; Cr. payables Rs. 50,000; Cr. cash Rs. 50,000" },
+      { "id": "D", "text": "Debit purchases Rs. 100,000; credit cash Rs. 100,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-053",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Mariam has the following transactions:\ni. Receipt of cash from Nauman in respect of an invoice for goods sold three weeks ago\nii. Receipt of cash from Amjad for cash sales\n\nWhat are the entries required to record the above transactions?",
+    "options": [
+      { "id": "A", "text": "Dr Cash; Cr Sales" },
+      { "id": "B", "text": "Dr Cash; Cr Sales; Cr Trade Receivables" },
+      { "id": "C", "text": "Dr Sales; Cr Cash" },
+      { "id": "D", "text": "Dr Trade Receivables; Dr Sales; Cr Cash" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-054",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "A business has purchased machinery on credit. Which of the accounts mentioned below are affected by the transactions?",
+    "options": [
+      { "id": "A", "text": "Trade payables" },
+      { "id": "B", "text": "Purchases" },
+      { "id": "C", "text": "Machinery" },
+      { "id": "D", "text": "Capital" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-055",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Payment of insurance through the bank involves entries in which of the two accounts",
+    "options": [
+      { "id": "A", "text": "Insurance account (Debit) and petty cash account (Credit)" },
+      { "id": "B", "text": "Insurance account (Debit) and bank account (Credit)" },
+      { "id": "C", "text": "Insurance account (Debit) and rent account (Credit)" },
+      { "id": "D", "text": "Insurance account (Debit) and capital account (Credit)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-056",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "X Ltd. purchases a vehicle for Rs. 1.5 million for business use, paying by cheque, what is the double entry:",
+    "options": [
+      { "id": "A", "text": "Purchases account (debit) and bank account (credit)" },
+      { "id": "B", "text": "Vehicle account (debit) and bank account (credit)" },
+      { "id": "C", "text": "Vehicle account (credit) and bank account (debit)" },
+      { "id": "D", "text": "Debit vehicle account (debit) and petty cash account (credit)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-057",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The double entry for return of goods purchased from Khan Limited on account is:",
+    "options": [
+      { "id": "A", "text": "Cash (debit) and purchases (credit)" },
+      { "id": "B", "text": "Accounts payable (debit) and purchases (credit)" },
+      { "id": "C", "text": "Accounts payable (debit) and purchases return (credit)" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-058",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The double entry for payment of a telephone bill is;",
+    "options": [
+      { "id": "A", "text": "Telephone expense (debit) and cash (credit)" },
+      { "id": "B", "text": "Office equipment (debit) and cash (credit)" },
+      { "id": "C", "text": "Office supplies (debit) and cash (credit)" },
+      { "id": "D", "text": "Cash (debit) and utilities (credit)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-059",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Khalid is a dealer in electronic goods (refrigerator, washing machine, air conditioners, televisions, etc.). He purchased two air conditioners and installed in his showroom. In the books of Khalid, the cost two air conditioners will be debited to",
+    "options": [
+      { "id": "A", "text": "Drawing account" },
+      { "id": "B", "text": "Capital Account" },
+      { "id": "C", "text": "Fixed assets (non-current assets)" },
+      { "id": "D", "text": "Purchases account" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-060",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "An asset was purchased for Rs. 1,000,000 with the down payment of Rs. 200,000 and bills accepted for Rs. 800,000/-.\nWhat would be the effect on the total asset and total liabilities in the statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Assets increased by Rs.800,000 and liabilities decreased by Rs.800,000" },
+      { "id": "B", "text": "Assets decreased by Rs.800,000 and liabilities increased by Rs.800,000" },
+      { "id": "C", "text": "Assets increased by Rs.1,000,000 and liabilities increased by Rs.800,000" },
+      { "id": "D", "text": "Assets increased by Rs.800,000 and liabilities increased by Rs.800,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-061",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following best illustrates the Business Entity Concept?",
+    "options": [
+      { "id": "A", "text": "Maria records her personal expenses as business expenses" },
+      { "id": "B", "text": "Maria uses her personal bank account for business transactions" },
+      { "id": "C", "text": "Maria's bakery purchases ingredients, which is recorded separately from her personal groceries" },
+      { "id": "D", "text": "Maria combines her personal and business income for tax purposes" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-062",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following transactions demonstrates the Duality Concept?",
+    "options": [
+      { "id": "A", "text": "Recording an expense but not the corresponding payment of cash" },
+      { "id": "B", "text": "Purchasing equipment without recording the payment" },
+      { "id": "C", "text": "Paying for office supplies using business cash, and updating both cash and supplies accounts" },
+      { "id": "D", "text": "Recording an income but not the corresponding receipt of cash" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-063",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The Accrual / Matching Concept implies that:",
+    "options": [
+      { "id": "A", "text": "Revenue is recorded only when cash is received" },
+      { "id": "B", "text": "Expenses are recorded only when cash is paid" },
+      { "id": "C", "text": "Revenue and expenses are recorded when they are earned or incurred" },
+      { "id": "D", "text": "Both (a) and (b)" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-064",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which statement best reflects the Consistency Concept?",
+    "options": [
+      { "id": "A", "text": "Switching inventory valuation methods each year" },
+      { "id": "B", "text": "Using the same inventory valuation method for all years" },
+      { "id": "C", "text": "Changing inventory valuation methods frequently" },
+      { "id": "D", "text": "Applying different accounting methods for different periods" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-065",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "The Historical Cost Concept means that:",
+    "options": [
+      { "id": "A", "text": "Assets are recorded at their market value" },
+      { "id": "B", "text": "Assets are recorded at their original purchase cost" },
+      { "id": "C", "text": "Assets’ values are updated with inflation" },
+      { "id": "D", "text": "Assets are revalued every year" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-066",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "True and Fair View means:",
+    "options": [
+      { "id": "A", "text": "Misstating profits to attract investors" },
+      { "id": "B", "text": "Ignoring certain expenses to improve appearance of financial performance" },
+      { "id": "C", "text": "Accurately presenting financial information without bias" },
+      { "id": "D", "text": "Focusing on only positive financial data" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-067",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Materiality Concept implies:",
+    "options": [
+      { "id": "A", "text": "Including every tiny expense in financial statements" },
+      { "id": "B", "text": "Ignoring substantial expenses" },
+      { "id": "C", "text": "Presenting separately significant information that affects decisions" },
+      { "id": "D", "text": "Omitting important revenue items" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-068",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Prudence Concept dictates:",
+    "options": [
+      { "id": "A", "text": "Overstating revenues to look good" },
+      { "id": "B", "text": "Ignoring potential expenses" },
+      { "id": "C", "text": "Recording potential expenses and not overestimating revenues" },
+      { "id": "D", "text": "Maximizing assets’ value in financial statements" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-069",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Completeness Concept means:",
+    "options": [
+      { "id": "A", "text": "Omitting some of relevant details from financial statements" },
+      { "id": "B", "text": "Including only favourable information in financial statements" },
+      { "id": "C", "text": "Ensuring all relevant information is included in financial statements" },
+      { "id": "D", "text": "Providing partial information selectively in the financial statements" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH01-APQ-070",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Money Measurement Concept implies:",
+    "options": [
+      { "id": "A", "text": "Recording only non-monetary events" },
+      { "id": "B", "text": "Including intangible aspects in records" },
+      { "id": "C", "text": "Ignoring monetary transactions" },
+      { "id": "D", "text": "Recording transactions in monetary terms only" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-071",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following is an example of a transaction that can be recorded under the money measurement concept?",
+    "options": [
+      { "id": "A", "text": "Artist’s creativity" },
+      { "id": "B", "text": "Purchase of art supplies" },
+      { "id": "C", "text": "Reputation of high quality services (goodwill)" },
+      { "id": "D", "text": "Talented team of employees" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-072",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Accounting Period Concept implies:",
+    "options": [
+      { "id": "A", "text": "Preparing financial reports anytime" },
+      { "id": "B", "text": "Preparing reports for a specific time frame" },
+      { "id": "C", "text": "Ignoring reporting periods" },
+      { "id": "D", "text": "Reporting only when convenient" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-073",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Going Concern Concept means:",
+    "options": [
+      { "id": "A", "text": "Business will cease soon" },
+      { "id": "B", "text": "Business assumes indefinite continuation" },
+      { "id": "C", "text": "Business ignores future prospects" },
+      { "id": "D", "text": "Business plans for immediate closure" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-074",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Substance Over Form means:",
+    "options": [
+      { "id": "A", "text": "Ignoring legal aspects of transactions" },
+      { "id": "B", "text": "Overlooking transaction details" },
+      { "id": "C", "text": "Recording only the legal form of transactions" },
+      { "id": "D", "text": "Focusing on the economic reality of transactions" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-075",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Comparability Concept dictates:",
+    "options": [
+      { "id": "A", "text": "Changing methods frequently" },
+      { "id": "B", "text": "Using consistent accounting methods" },
+      { "id": "C", "text": "Ignoring other entities’ practices" },
+      { "id": "D", "text": "Reporting without following common standards" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-076",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Information is _________ if it can be used for predictive and/or confirmatory purposes.",
+    "options": [
+      { "id": "A", "text": "Relevant" },
+      { "id": "B", "text": "Complete" },
+      { "id": "C", "text": "Consistent" },
+      { "id": "D", "text": "Verifiable" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-077",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "How does the comparability concept benefit users of financial statements?",
+    "options": [
+      { "id": "A", "text": "It ensures that financial statements are prepared by chartered accountants" },
+      { "id": "B", "text": "It allows users to compare financial information between different periods and entities" },
+      { "id": "C", "text": "It focuses on ensuring financial statements are error-free" },
+      { "id": "D", "text": "It requires companies to report all financial information in the same currency" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-078",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Which of the following best illustrates the verifiability concept in accounting?",
+    "options": [
+      { "id": "A", "text": "A company uses advanced software to prepare its financial statements" },
+      { "id": "B", "text": "The auditors independently provide assurance that the company's financial statements accurately represent its economic activities" },
+      { "id": "C", "text": "A business adopts new accounting policies to improve efficiency" },
+      { "id": "D", "text": "Financial statements are prepared promptly to meet reporting deadlines" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-079",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "What does the reliability concept in accounting emphasize?",
+    "options": [
+      { "id": "A", "text": "Financial statements should be available promptly after the reporting period" },
+      { "id": "B", "text": "Financial information should be verifiable, accurate, and dependable, based on objective evidence" },
+      { "id": "C", "text": "Financial statements should be comparable with those of other companies" },
+      { "id": "D", "text": "Financial information should be concise and easy to understand" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-080",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "Why is the timeliness concept important in accounting?",
+    "options": [
+      { "id": "A", "text": "It ensures financial information is detailed and comprehensive" },
+      { "id": "B", "text": "It ensures financial information is free from errors and bias" },
+      { "id": "C", "text": "It guarantees financial statements are prepared by certified accountants" },
+      { "id": "D", "text": "It allows decision-makers to receive information in time to influence their decisions" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-081",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "How does the understandability concept benefit users of financial statements?",
+    "options": [
+      { "id": "A", "text": "It ensures financial information is presented clearly and concisely for users with reasonable knowledge of business" },
+      { "id": "B", "text": "It guarantees financial statements are comparable across different periods" },
+      { "id": "C", "text": "It ensures that financial statements are free from bias and errors" },
+      { "id": "D", "text": "It allows financial information to be available promptly after the reporting period" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-082",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "What is the cost constraint on useful information in accounting?",
+    "options": [
+      { "id": "A", "text": "Financial information should be provided promptly to influence decisions" },
+      { "id": "B", "text": "The cost of providing financial information should be justified by the benefits it provides" },
+      { "id": "C", "text": "Financial statements should be verifiable by independent observers" },
+      { "id": "D", "text": "Financial information should be presented in a clear and concise manner" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH01-APQ-083",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "ABC Enterprises uses the following principle for preparation of its financial statements: “Items of capital nature, costing less than Rs. 1,000 are charged to expense.”. What is the name of this accounting concept/principle?",
+    "options": [
+      { "id": "A", "text": "Historical Cost" },
+      { "id": "B", "text": "Business Entity" },
+      { "id": "C", "text": "Duality Concept" },
+      { "id": "D", "text": "Materiality" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH01-APQ-084",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "ABC Enterprises uses the following principle for preparation of its financial statements: “Sales revenue is recorded on dispatch of goods to customers irrespective of the date of receipt of payment.” What is the name of this accounting concept/principle?",
+    "options": [
+      { "id": "A", "text": "Accrual basis" },
+      { "id": "B", "text": "Going Concern basis" },
+      { "id": "C", "text": "Verifiability Concept" },
+      { "id": "D", "text": "Substance over form" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH01-APQ-085",
+    "subjectId": "prc-1",
+    "chapterId": 1,
+    "chapterName": "Chapter 1: Accounting basics",
+    "source": "apq",
+    "questionText": "ABC Enterprises uses the following principle for preparation of its financial statements: “Cost of sales is recorded in the same period in which the revenue earned from the sale is recorded.” What is the name of this accounting concept/principle?",
+    "options": [
+      { "id": "A", "text": "Understandability" },
+      { "id": "B", "text": "Money Measurement" },
+      { "id": "C", "text": "Accounting period" },
+      { "id": "D", "text": "Matching Concept" }
+    ],
+    "correctOption": "D"
+  }
+]
