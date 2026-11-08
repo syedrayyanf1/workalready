@@ -5,7 +5,10 @@ import {
   ArrowRight,
   CheckCircle2,
   Clock,
+  Eye,
+  EyeOff,
   Flag,
+  Gauge,
   Minus,
   Play,
   Plus,
@@ -28,7 +31,7 @@ import {
   QuestionSource,
   SubjectId,
 } from '../types';
-import { SUBJECTS } from '../data/subjects';
+import { SOURCE_LABELS, SUBJECTS } from '../data/subjects';
 import { RichContent } from './RichContent';
 import { QuestionDiagram } from './QuestionDiagram';
 import { CAxisLogo } from './CAxisLogo';
@@ -50,11 +53,25 @@ type SimulatorStage = 'config' | 'active' | 'results';
 type PaceMode = 'icap-standard' | 'speed-drill' | 'relaxed' | 'untimed' | 'custom';
 type ReviewFilter = 'all' | 'incorrect' | 'correct' | 'marked' | 'unanswered';
 
+const PREF_LIVE_PACER_KEY = 'caxis_v2_pref_live_pacer';
+const PREF_SHOW_METADATA_KEY = 'caxis_v2_pref_show_metadata';
+
 function formatSeconds(totalSeconds: number): string {
   const safe = Math.max(0, totalSeconds);
   const mins = Math.floor(safe / 60);
   const secs = safe % 60;
   return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+}
+
+function formatPaceDelta(deltaSeconds: number): string {
+  const abs = Math.abs(Math.round(deltaSeconds));
+  const mins = Math.floor(abs / 60);
+  const secs = abs % 60;
+  const sign = deltaSeconds >= 0 ? '+' : '-';
+  if (mins > 0) {
+    return `${sign}${mins}m ${secs}s`;
+  }
+  return `${sign}${secs}s`;
 }
 
 function shuffleArray<T>(items: T[]): T[] {
@@ -137,6 +154,50 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
   const [maxQuestionCount, setMaxQuestionCount] = useState<number>(20);
   const [paceMode, setPaceMode] = useState<PaceMode>('icap-standard');
   const [customMinutes, setCustomMinutes] = useState<number>(30);
+
+  // Persisted Exam Preferences (Pre-Test Toggles)
+  const [livePacerEnabled, setLivePacerEnabled] = useState<boolean>(() => {
+    try {
+      const saved = window.localStorage.getItem(PREF_LIVE_PACER_KEY);
+      return saved !== null ? JSON.parse(saved) === true : true;
+    } catch {
+      return true;
+    }
+  });
+
+  const [showQuestionMetadata, setShowQuestionMetadata] = useState<boolean>(() => {
+    try {
+      const saved = window.localStorage.getItem(PREF_SHOW_METADATA_KEY);
+      return saved !== null ? JSON.parse(saved) === true : true;
+    } catch {
+      return true;
+    }
+  });
+
+  const toggleLivePacer = () => {
+    if (paceMode === 'untimed') return;
+    setLivePacerEnabled((prev) => {
+      const next = !prev;
+      try {
+        window.localStorage.setItem(PREF_LIVE_PACER_KEY, JSON.stringify(next));
+      } catch {
+        // ignore storage quota errors
+      }
+      return next;
+    });
+  };
+
+  const toggleShowQuestionMetadata = () => {
+    setShowQuestionMetadata((prev) => {
+      const next = !prev;
+      try {
+        window.localStorage.setItem(PREF_SHOW_METADATA_KEY, JSON.stringify(next));
+      } catch {
+        // ignore storage quota errors
+      }
+      return next;
+    });
+  };
 
   useEffect(() => {
     const subj = SUBJECTS.find((s) => s.id === initialSubjectId) || SUBJECTS[0];
@@ -773,6 +834,133 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                   </div>
                 </div>
               </div>
+
+              {/* Exam Preferences (Pre-Test Toggles) */}
+              <div className="border-t border-black/[0.06] pt-5 dark:border-white/[0.06] space-y-3">
+                <div className="flex items-center justify-between">
+                  <h2 className="font-display text-base font-semibold tracking-tight text-[#09090B] dark:text-white">
+                    Exam Preferences
+                  </h2>
+                  <span className="text-[11px] font-medium text-zinc-500 dark:text-zinc-400">
+                    Saved automatically
+                  </span>
+                </div>
+
+                <div className="space-y-2.5">
+                  {/* Toggle 1: Live Pace Tracker */}
+                  <div
+                    onClick={toggleLivePacer}
+                    role="switch"
+                    aria-checked={paceMode !== 'untimed' && livePacerEnabled}
+                    aria-disabled={paceMode === 'untimed'}
+                    tabIndex={paceMode === 'untimed' ? -1 : 0}
+                    onKeyDown={(e) => {
+                      if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        toggleLivePacer();
+                      }
+                    }}
+                    className={`flex items-start justify-between gap-3 rounded-lg border p-3 transition-all ${
+                      paceMode === 'untimed'
+                        ? 'border-black/[0.06] bg-zinc-100/60 opacity-60 cursor-not-allowed dark:border-white/[0.05] dark:bg-zinc-900/40'
+                        : 'border-black/[0.08] bg-[#FAFAFA] hover:bg-zinc-100/70 cursor-pointer dark:border-white/[0.07] dark:bg-[#09090B] dark:hover:bg-zinc-900/80'
+                    }`}
+                  >
+                    <div className="flex items-start gap-2.5 min-w-0">
+                      <Gauge className="h-4 w-4 text-[#6366F1] shrink-0 mt-0.5" />
+                      <div className="min-w-0">
+                        <div className="flex items-center gap-2">
+                          <span className="text-xs font-semibold text-[#09090B] dark:text-white">
+                            Live Pace Tracker
+                          </span>
+                          {paceMode === 'untimed' && (
+                            <span className="rounded bg-zinc-200 px-1.5 py-0.5 text-[10px] font-medium text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400">
+                              Timed only
+                            </span>
+                          )}
+                        </div>
+                        <p className="mt-0.5 text-[11px] leading-snug text-zinc-500 dark:text-zinc-400">
+                          Show real-time speed (sec/Q), ahead/behind time delta, and a ghost pacer bar.
+                        </p>
+                      </div>
+                    </div>
+
+                    <button
+                      type="button"
+                      disabled={paceMode === 'untimed'}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        toggleLivePacer();
+                      }}
+                      aria-label="Toggle Live Pace Tracker"
+                      className={`relative inline-flex h-5 w-9 shrink-0 items-center rounded-full transition-colors duration-200 focus:outline-none ${
+                        paceMode !== 'untimed' && livePacerEnabled
+                          ? 'bg-[#6366F1]'
+                          : 'bg-zinc-300 dark:bg-zinc-700'
+                      } ${paceMode === 'untimed' ? 'cursor-not-allowed' : 'cursor-pointer'}`}
+                    >
+                      <span
+                        className={`inline-block h-3.5 w-3.5 transform rounded-full bg-white shadow-xs transition-transform duration-200 ${
+                          paceMode !== 'untimed' && livePacerEnabled
+                            ? 'translate-x-4'
+                            : 'translate-x-0.5'
+                        }`}
+                      />
+                    </button>
+                  </div>
+
+                  {/* Toggle 2: Show Chapter & Question ID */}
+                  <div
+                    onClick={toggleShowQuestionMetadata}
+                    role="switch"
+                    aria-checked={showQuestionMetadata}
+                    tabIndex={0}
+                    onKeyDown={(e) => {
+                      if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        toggleShowQuestionMetadata();
+                      }
+                    }}
+                    className="flex items-start justify-between gap-3 rounded-lg border border-black/[0.08] bg-[#FAFAFA] p-3 transition-all hover:bg-zinc-100/70 cursor-pointer dark:border-white/[0.07] dark:bg-[#09090B] dark:hover:bg-zinc-900/80"
+                  >
+                    <div className="flex items-start gap-2.5 min-w-0">
+                      {showQuestionMetadata ? (
+                        <Eye className="h-4 w-4 text-[#6366F1] shrink-0 mt-0.5" />
+                      ) : (
+                        <EyeOff className="h-4 w-4 text-zinc-400 shrink-0 mt-0.5" />
+                      )}
+                      <div className="min-w-0">
+                        <div className="text-xs font-semibold text-[#09090B] dark:text-white">
+                          Show Chapter &amp; Question ID
+                        </div>
+                        <p className="mt-0.5 text-[11px] leading-snug text-zinc-500 dark:text-zinc-400">
+                          Display chapter name, source badge, and question ID during the test (turn off for blind ICAP exam simulation).
+                        </p>
+                      </div>
+                    </div>
+
+                    <button
+                      type="button"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        toggleShowQuestionMetadata();
+                      }}
+                      aria-label="Toggle Show Chapter and Question ID"
+                      className={`relative inline-flex h-5 w-9 shrink-0 items-center rounded-full transition-colors duration-200 focus:outline-none cursor-pointer ${
+                        showQuestionMetadata
+                          ? 'bg-[#6366F1]'
+                          : 'bg-zinc-300 dark:bg-zinc-700'
+                      }`}
+                    >
+                      <span
+                        className={`inline-block h-3.5 w-3.5 transform rounded-full bg-white shadow-xs transition-transform duration-200 ${
+                          showQuestionMetadata ? 'translate-x-4' : 'translate-x-0.5'
+                        }`}
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
             </div>
 
             <button
@@ -806,6 +994,66 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
     const isFlagged = !!flaggedQuestions[currentQuestion.id];
     const isLowTime = paceMode !== 'untimed' && remainingSeconds <= 120;
 
+    // Live Pace Tracker ("Pacer") Calculations
+    const isPacerActive = paceMode !== 'untimed' && livePacerEnabled && activeQuestions.length > 0;
+    const totalAllocatedSeconds = Math.max(1, effectiveDurationMinutes * 60);
+    const totalQuestions = Math.max(1, activeQuestions.length);
+    const targetSecondsPerQuestion = totalAllocatedSeconds / totalQuestions;
+    const syncedElapsedSeconds =
+      paceMode !== 'untimed'
+        ? Math.max(0, totalAllocatedSeconds - remainingSeconds)
+        : elapsedSeconds;
+    const expectedQuestionsCompleted =
+      targetSecondsPerQuestion > 0 ? syncedElapsedSeconds / targetSecondsPerQuestion : 0;
+    const answeredCount = answeredTotal;
+    const timeDeltaSeconds = Math.round(
+      answeredCount * targetSecondsPerQuestion - syncedElapsedSeconds
+    );
+    const avgSecondsPerQuestion =
+      answeredCount > 0 ? Math.round(syncedElapsedSeconds / answeredCount) : syncedElapsedSeconds;
+
+    type PaceState = 'ahead' | 'on-pace' | 'behind';
+    const paceState: PaceState =
+      timeDeltaSeconds > 20 ? 'ahead' : timeDeltaSeconds < -20 ? 'behind' : 'on-pace';
+
+    const pacerPillClasses =
+      paceState === 'ahead'
+        ? 'bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border-emerald-500/30'
+        : paceState === 'behind'
+          ? 'bg-rose-500/15 text-rose-600 dark:text-rose-400 border-rose-500/30'
+          : 'bg-indigo-500/15 text-indigo-600 dark:text-indigo-300 border-indigo-500/30';
+
+    const pacerFillColor =
+      paceState === 'ahead'
+        ? 'bg-emerald-500'
+        : paceState === 'behind'
+          ? 'bg-rose-500'
+          : 'bg-indigo-500';
+
+    const desktopPacerText =
+      paceState === 'ahead'
+        ? `${formatPaceDelta(timeDeltaSeconds)} Ahead · ${avgSecondsPerQuestion}s/Q`
+        : paceState === 'behind'
+          ? `${formatPaceDelta(timeDeltaSeconds)} Behind · ${avgSecondsPerQuestion}s/Q`
+          : `On Pace · ${avgSecondsPerQuestion}s/Q`;
+
+    const mobilePacerText =
+      paceState === 'ahead' || paceState === 'behind'
+        ? `${formatPaceDelta(timeDeltaSeconds)} · ${avgSecondsPerQuestion}s/Q`
+        : `On Pace · ${avgSecondsPerQuestion}s/Q`;
+
+    const userProgressPercent = Math.min(
+      100,
+      Math.max(0, (answeredCount / totalQuestions) * 100)
+    );
+    const ghostPacerPercent = Math.min(
+      100,
+      Math.max(0, (syncedElapsedSeconds / totalAllocatedSeconds) * 100)
+    );
+
+    const sourceBadgeLabel =
+      SOURCE_LABELS[currentQuestion.source]?.shortLabel || 'Self-Test';
+
     const getQuestionTileClasses = (q: Question, idx: number, sizeClass: string) => {
       const isCurrent = idx === currentIndex;
       const isAns = !!selectedAnswers[q.id];
@@ -835,27 +1083,36 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
            ===================================================================== */}
         <div className="md:hidden h-dvh w-full flex flex-col bg-transparent overflow-hidden">
           {/* Top Fixed Header */}
-          <div className="shrink-0 px-3 pt-2.5 pb-2 border-b border-black/[0.08] bg-white/80 backdrop-blur-md dark:border-white/[0.07] dark:bg-[#09090B]/75">
-            {/* Row 1: CAxis Logo + PRC 1 · 1/20 on left; compact Timer pill and Submit button on right */}
-            <div className="flex items-center justify-between gap-2">
-              <div className="flex items-center gap-2 min-w-0">
+          <div className="relative shrink-0 px-3 pt-2.5 pb-2.5 border-b border-black/[0.08] bg-white/80 backdrop-blur-md dark:border-white/[0.07] dark:bg-[#09090B]/75">
+            {/* Row 1: CAxis Logo + PRC 1 · 1/20 on left; compact Pacer pill, Timer pill, and Submit button on right */}
+            <div className="flex items-center justify-between gap-1.5">
+              <div className="flex items-center gap-1.5 min-w-0">
                 <CAxisLogo containerClassName="h-6 w-6" svgClassName="h-4 w-4" />
-                <div className="flex items-center gap-1.5 min-w-0">
-                  <span className="font-display text-sm font-bold tracking-tight text-[#09090B] dark:text-white">
+                <div className="flex items-center gap-1 min-w-0">
+                  <span className="font-display text-xs sm:text-sm font-bold tracking-tight text-[#09090B] dark:text-white truncate">
                     {currentSubject.code}
                   </span>
                   <span className="text-zinc-400 dark:text-zinc-600" aria-hidden="true">
                     ·
                   </span>
-                  <span className="font-display text-sm font-semibold text-[#09090B] dark:text-white">
+                  <span className="font-display text-xs sm:text-sm font-semibold text-[#09090B] dark:text-white whitespace-nowrap">
                     {currentIndex + 1}/{activeQuestions.length}
                   </span>
                 </div>
               </div>
 
               <div className="flex items-center gap-1.5 shrink-0">
+                {isPacerActive && (
+                  <div
+                    title={`Answered ${answeredCount}/${totalQuestions} · Expected ${expectedQuestionsCompleted.toFixed(1)} Qs by now (Target ${Math.round(targetSecondsPerQuestion)}s/Q)`}
+                    className={`flex items-center gap-1 rounded-lg border px-2 py-1 font-mono text-[11px] font-semibold tabular-nums whitespace-nowrap ${pacerPillClasses}`}
+                  >
+                    <span>{mobilePacerText}</span>
+                  </div>
+                )}
+
                 <div
-                  className={`flex items-center gap-1 rounded-lg border px-2.5 py-1 font-mono text-xs font-medium tabular-nums ${
+                  className={`flex items-center gap-1 rounded-lg border px-2 py-1 font-mono text-xs font-medium tabular-nums ${
                     isLowTime
                       ? 'border-rose-500/30 bg-rose-500/10 text-rose-600 dark:text-rose-400'
                       : 'border-black/[0.08] bg-[#FAFAFA] text-[#09090B] dark:border-white/[0.07] dark:bg-[#121215] dark:text-white'
@@ -872,7 +1129,7 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 <button
                   type="button"
                   onClick={() => setConfirmSubmitModal(true)}
-                  className="rounded-lg bg-zinc-900 px-3 py-1 text-xs font-semibold text-white transition-colors hover:bg-zinc-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
+                  className="rounded-lg bg-zinc-900 px-2.5 py-1 text-xs font-semibold text-white transition-colors hover:bg-zinc-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
                 >
                   Submit
                 </button>
@@ -892,6 +1149,23 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 </button>
               ))}
             </div>
+
+            {/* Dual "Ghost Pacer" Progress Strip along bottom edge of Mobile Header */}
+            {isPacerActive && (
+              <div
+                className="absolute inset-x-0 bottom-0 h-1 bg-zinc-200/80 dark:bg-zinc-800/90 overflow-visible"
+                title={`Your Progress: ${answeredCount}/${totalQuestions} (${Math.round(userProgressPercent)}%) · Clock Pace Target: ${expectedQuestionsCompleted.toFixed(1)} Qs (${Math.round(ghostPacerPercent)}%)`}
+              >
+                <div
+                  className={`h-full transition-all duration-300 ease-out ${pacerFillColor}`}
+                  style={{ width: `${userProgressPercent}%` }}
+                />
+                <div
+                  className="pointer-events-none absolute top-1/2 -translate-y-1/2 -translate-x-1/2 h-2.5 w-1 rounded-full bg-zinc-900 shadow-[0_0_6px_rgba(0,0,0,0.5)] dark:bg-white dark:shadow-[0_0_8px_rgba(255,255,255,0.95)] ring-1 ring-white/60 dark:ring-black/50 transition-all duration-300"
+                  style={{ left: `${ghostPacerPercent}%` }}
+                />
+              </div>
+            )}
           </div>
 
           {/* Middle Scrollable Content Area (No double nested cards on mobile) */}
@@ -900,34 +1174,51 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
             key={`mobile-q-${currentQuestion.id}`}
             className="flex-1 overflow-y-auto px-3 py-3 space-y-3 animate-question-enter"
           >
-            {/* Single Compact Metadata Line */}
-            <div className="flex items-center justify-between gap-2 text-xs text-zinc-500 dark:text-zinc-400">
-              <span className="font-medium truncate">
-                {currentQuestion.chapterName}
-              </span>
-              <div className="flex items-center gap-2 shrink-0">
-                {isMulti && (
-                  <span className="rounded-md border border-[#6366F1]/40 bg-[#6366F1]/10 px-2 py-0.5 text-[11px] font-medium text-[#6366F1] dark:border-[#6366F1]/50 dark:bg-[#6366F1]/15 dark:text-indigo-300">
-                    Select all that apply
-                  </span>
+            {/* Single Compact Metadata Line (Hidden when Show Chapter & Question ID is OFF unless multi-select or answer can be cleared) */}
+            {(showQuestionMetadata || isMulti || selectedRaw) && (
+              <div className="flex items-center justify-between gap-2 text-xs text-zinc-500 dark:text-zinc-400">
+                {showQuestionMetadata ? (
+                  <div className="flex items-center gap-1.5 min-w-0">
+                    <span className="font-semibold text-[#09090B] dark:text-white shrink-0">
+                      {currentQuestion.id}
+                    </span>
+                    <span aria-hidden="true" className="shrink-0">
+                      ·
+                    </span>
+                    <span className="font-medium truncate">
+                      {currentQuestion.chapterName}
+                    </span>
+                    <span className="rounded border border-black/[0.08] bg-zinc-100 px-1.5 py-0.5 text-[10px] font-medium text-zinc-600 dark:border-white/[0.08] dark:bg-zinc-800 dark:text-zinc-300 shrink-0">
+                      {sourceBadgeLabel}
+                    </span>
+                  </div>
+                ) : (
+                  <div />
                 )}
-                {selectedRaw && (
-                  <button
-                    type="button"
-                    onClick={() =>
-                      setSelectedAnswers((prev) => {
-                        const copy = { ...prev };
-                        delete copy[currentQuestion.id];
-                        return copy;
-                      })
-                    }
-                    className="text-[11px] font-medium text-zinc-500 underline dark:text-zinc-400 cursor-pointer"
-                  >
-                    Clear
-                  </button>
-                )}
+                <div className="flex items-center gap-2 shrink-0">
+                  {isMulti && (
+                    <span className="rounded-md border border-[#6366F1]/40 bg-[#6366F1]/10 px-2 py-0.5 text-[11px] font-medium text-[#6366F1] dark:border-[#6366F1]/50 dark:bg-[#6366F1]/15 dark:text-indigo-300">
+                      Select all that apply
+                    </span>
+                  )}
+                  {selectedRaw && (
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setSelectedAnswers((prev) => {
+                          const copy = { ...prev };
+                          delete copy[currentQuestion.id];
+                          return copy;
+                        })
+                      }
+                      className="text-[11px] font-medium text-zinc-500 underline dark:text-zinc-400 cursor-pointer"
+                    >
+                      Clear
+                    </button>
+                  )}
+                </div>
               </div>
-            </div>
+            )}
 
             {/* Question Text */}
             <div className="text-[15px] leading-relaxed text-[#09090B] dark:text-zinc-100">
@@ -1029,7 +1320,7 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
            ===================================================================== */}
         <div className="hidden md:flex md:flex-col md:w-full md:h-full md:overflow-hidden md:gap-3.5">
           {/* Compact Exam Header Bar + Color-Coded Question Tiles */}
-          <div className="shrink-0 rounded-xl border border-black/[0.08] bg-white/80 px-4 py-2.5 backdrop-blur-md dark:border-white/[0.07] dark:bg-[#121215]/75">
+          <div className="relative overflow-hidden shrink-0 rounded-xl border border-black/[0.08] bg-white/80 px-4 pt-2.5 pb-3 backdrop-blur-md dark:border-white/[0.07] dark:bg-[#121215]/75">
             <div className="flex items-center justify-between gap-2">
               {/* Left: CAxis Logo + Subject Title + Question X of Y */}
               <div className="flex items-center gap-2.5 min-w-0">
@@ -1048,7 +1339,7 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 </span>
               </div>
 
-              {/* Right: Mark Toggle, Countdown Timer, Submit */}
+              {/* Right: Mark Toggle, Live Pacer Pill, Countdown Timer, Submit */}
               <div className="flex items-center gap-2 shrink-0">
                 <button
                   type="button"
@@ -1068,6 +1359,17 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                   <Flag className={`h-3.5 w-3.5 ${isFlagged ? 'fill-current' : ''}`} />
                   <span>{isFlagged ? 'Marked' : 'Mark'}</span>
                 </button>
+
+                {/* Live Pace Tracker Pill */}
+                {isPacerActive && (
+                  <div
+                    title={`Answered ${answeredCount}/${totalQuestions} · Expected ${expectedQuestionsCompleted.toFixed(1)} Qs by now (Target ${Math.round(targetSecondsPerQuestion)}s/Q)`}
+                    className={`flex items-center gap-1.5 rounded-lg border px-2.5 py-1.5 font-mono text-xs font-semibold tabular-nums whitespace-nowrap ${pacerPillClasses}`}
+                  >
+                    <Gauge className="h-3.5 w-3.5 shrink-0" />
+                    <span>{desktopPacerText}</span>
+                  </div>
+                )}
 
                 {/* Live Exam Countdown Timer: strictly JetBrains Mono */}
                 <div
@@ -1115,6 +1417,23 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 </button>
               ))}
             </div>
+
+            {/* Dual "Ghost Pacer" Progress Strip along bottom edge of Desktop Header */}
+            {isPacerActive && (
+              <div
+                className="absolute inset-x-0 bottom-0 h-1 bg-zinc-200/80 dark:bg-zinc-800/90 overflow-visible"
+                title={`Your Progress: ${answeredCount}/${totalQuestions} (${Math.round(userProgressPercent)}%) · Clock Pace Target: ${expectedQuestionsCompleted.toFixed(1)} Qs (${Math.round(ghostPacerPercent)}%)`}
+              >
+                <div
+                  className={`h-full transition-all duration-300 ease-out ${pacerFillColor}`}
+                  style={{ width: `${userProgressPercent}%` }}
+                />
+                <div
+                  className="pointer-events-none absolute top-1/2 -translate-y-1/2 -translate-x-1/2 h-2.5 w-1 rounded-full bg-zinc-900 shadow-[0_0_6px_rgba(0,0,0,0.5)] dark:bg-white dark:shadow-[0_0_8px_rgba(255,255,255,0.95)] ring-1 ring-white/60 dark:ring-black/50 transition-all duration-300"
+                  style={{ left: `${ghostPacerPercent}%` }}
+                />
+              </div>
+            )}
           </div>
 
           {/* Two-Column Side-by-Side Stage on Desktop (grid-cols-12) */}
@@ -1125,25 +1444,34 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
               className="col-span-7 flex flex-col rounded-xl border border-black/[0.08] bg-white/80 p-5 h-full overflow-y-auto backdrop-blur-md dark:border-white/[0.07] dark:bg-[#121215]/75"
             >
               <div key={`desktop-stem-${currentQuestion.id}`} className="flex flex-col flex-1 animate-question-enter">
-                {/* Compact Question Metadata Row */}
-                <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-black/[0.06] dark:border-white/[0.06] text-xs text-zinc-500 dark:text-zinc-400">
-                  <div className="flex flex-wrap items-center gap-2">
-                    <span className="font-semibold text-[#09090B] dark:text-white">
-                      {currentQuestion.id}
-                    </span>
-                    <span aria-hidden="true">·</span>
-                    <span>{currentQuestion.chapterName}</span>
-                  </div>
+                {/* Compact Question Metadata Row (Hidden when Show Chapter & Question ID is OFF unless multi-select) */}
+                {(showQuestionMetadata || isMulti) && (
+                  <div className="flex flex-wrap items-center justify-between gap-2 pb-3 mb-4 border-b border-black/[0.06] dark:border-white/[0.06] text-xs text-zinc-500 dark:text-zinc-400">
+                    {showQuestionMetadata ? (
+                      <div className="flex flex-wrap items-center gap-2">
+                        <span className="font-semibold text-[#09090B] dark:text-white">
+                          {currentQuestion.id}
+                        </span>
+                        <span aria-hidden="true">·</span>
+                        <span>{currentQuestion.chapterName}</span>
+                        <span className="rounded-md border border-black/[0.08] bg-zinc-100 px-2 py-0.5 text-[11px] font-medium text-zinc-600 dark:border-white/[0.08] dark:bg-zinc-800 dark:text-zinc-300">
+                          {sourceBadgeLabel}
+                        </span>
+                      </div>
+                    ) : (
+                      <div />
+                    )}
 
-                  {isMulti && (
-                    <span className="rounded-md border border-[#6366F1]/40 bg-[#6366F1]/10 px-2 py-0.5 text-[11px] font-medium text-[#6366F1] dark:border-[#6366F1]/50 dark:bg-[#6366F1]/15 dark:text-indigo-300">
-                      Select all that apply
-                    </span>
-                  )}
-                </div>
+                    {isMulti && (
+                      <span className="rounded-md border border-[#6366F1]/40 bg-[#6366F1]/10 px-2 py-0.5 text-[11px] font-medium text-[#6366F1] dark:border-[#6366F1]/50 dark:bg-[#6366F1]/15 dark:text-indigo-300">
+                        Select all that apply
+                      </span>
+                    )}
+                  </div>
+                )}
 
                 {/* Question Stem */}
-                <div className="mt-4 text-[15px] leading-relaxed flex-1">
+                <div className="text-[15px] leading-relaxed flex-1">
                   <RichContent content={currentQuestion.questionText} />
                   <QuestionDiagram svg={currentQuestion.svgDiagram} />
                 </div>
@@ -1577,6 +1905,9 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                     <span>{q.id}</span>
                     <span aria-hidden="true">·</span>
                     <span>{q.chapterName}</span>
+                    <span className="rounded border border-black/[0.08] bg-zinc-100 px-1.5 py-0.5 text-[10px] font-medium text-zinc-600 dark:border-white/[0.08] dark:bg-zinc-800 dark:text-zinc-300">
+                      {SOURCE_LABELS[q.source]?.shortLabel || 'Self-Test'}
+                    </span>
                     {rec?.flagged && (
                       <span className="rounded border border-amber-400 bg-amber-100 px-1.5 py-0.5 text-[10px] font-semibold text-amber-800 dark:border-amber-500/50 dark:bg-amber-500/20 dark:text-amber-400">
                         Marked
