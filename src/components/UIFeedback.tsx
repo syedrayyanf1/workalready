@@ -134,46 +134,46 @@ export const DashboardSkeleton: React.FC = () => {
 
 export const AnalyticsSkeleton: React.FC = () => {
   return (
-    <div className="space-y-6 animate-view-enter">
+    <div className="space-y-6 animate-view-enter min-w-0">
       {/* Chart Container + Weak Areas Skeletons */}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-12">
-        <div className="lg:col-span-7 rounded-xl border border-white/[0.07] bg-[#121215] p-6 space-y-4">
+        <div className="lg:col-span-7 rounded-xl border border-white/[0.07] bg-[#121215] p-4 sm:p-6 space-y-4 min-w-0 overflow-hidden">
           <div className="space-y-2">
-            <Skeleton className="h-5 w-56 rounded-md" />
-            <Skeleton className="h-3.5 w-72 rounded-md" />
+            <Skeleton className="h-5 w-48 sm:w-56 rounded-md" />
+            <Skeleton className="h-3.5 w-60 sm:w-72 rounded-md" />
           </div>
-          <Skeleton className="h-64 w-full rounded-xl" />
+          <Skeleton className="h-56 sm:h-64 w-full rounded-xl" />
         </div>
-        <div className="lg:col-span-5 rounded-xl border border-white/[0.07] bg-[#121215] p-6 space-y-4">
+        <div className="lg:col-span-5 rounded-xl border border-white/[0.07] bg-[#121215] p-4 sm:p-6 space-y-4 min-w-0">
           <div className="space-y-2">
-            <Skeleton className="h-5 w-48 rounded-md" />
-            <Skeleton className="h-3.5 w-64 rounded-md" />
+            <Skeleton className="h-5 w-40 sm:w-48 rounded-md" />
+            <Skeleton className="h-3.5 w-52 sm:w-64 rounded-md" />
           </div>
           <div className="space-y-3 pt-2">
             {[1, 2, 3].map((idx) => (
-              <Skeleton key={idx} className="h-16 w-full rounded-lg" />
+              <Skeleton key={idx} className="h-14 sm:h-16 w-full rounded-lg" />
             ))}
           </div>
         </div>
       </div>
 
       {/* 5 Chapter Accuracy Row Skeletons */}
-      <div className="rounded-xl border border-white/[0.07] bg-[#121215] p-6 space-y-4">
+      <div className="rounded-xl border border-white/[0.07] bg-[#121215] p-4 sm:p-6 space-y-4 min-w-0">
         <div className="space-y-2 pb-3 border-b border-white/[0.06]">
-          <Skeleton className="h-5 w-64 rounded-md" />
-          <Skeleton className="h-3.5 w-72 rounded-md" />
+          <Skeleton className="h-5 w-48 sm:w-64 rounded-md" />
+          <Skeleton className="h-3.5 w-56 sm:w-72 rounded-md" />
         </div>
         <div className="space-y-3">
           {[1, 2, 3, 4, 5].map((row) => (
-            <div key={row} className="flex items-center justify-between gap-4 py-2">
-              <div className="flex items-center gap-3">
-                <Skeleton className="h-6 w-14 rounded-md" />
-                <Skeleton className="h-4 w-48 rounded-md" />
+            <div key={row} className="flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 py-2">
+              <div className="flex items-center gap-2.5">
+                <Skeleton className="h-6 w-12 rounded-md shrink-0" />
+                <Skeleton className="h-4 w-36 sm:w-48 rounded-md" />
               </div>
-              <div className="flex items-center gap-3">
-                <Skeleton className="h-6 w-28 rounded-md" />
-                <Skeleton className="h-2 w-24 rounded-full" />
-                <Skeleton className="h-7 w-16 rounded-lg" />
+              <div className="flex items-center justify-between sm:justify-end gap-2.5">
+                <Skeleton className="h-5 w-24 rounded-md shrink-0" />
+                <Skeleton className="h-2 w-16 sm:w-20 rounded-full shrink-0" />
+                <Skeleton className="h-6 sm:h-7 w-14 rounded-lg shrink-0" />
               </div>
             </div>
           ))}

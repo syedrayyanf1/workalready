@@ -1378,14 +1378,22 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
               </div>
             </div>
 
-            <div className="flex items-center gap-2.5">
+            <div className="flex flex-wrap items-center gap-2">
+              <button
+                type="button"
+                onClick={onBackToDashboard}
+                className="inline-flex items-center gap-1.5 rounded-lg border border-black/[0.08] bg-white px-3 py-2 text-xs font-medium text-[#09090B] hover:bg-zinc-50 dark:border-white/[0.07] dark:bg-[#09090B] dark:text-zinc-200 cursor-pointer"
+              >
+                <ArrowLeft className="h-3.5 w-3.5" />
+                <span>Dashboard</span>
+              </button>
               <button
                 type="button"
                 onClick={() => setStage('config')}
-                className="inline-flex items-center gap-1.5 rounded-lg border border-black/[0.08] bg-white px-3.5 py-2 text-xs font-medium text-[#09090B] hover:bg-zinc-50 dark:border-white/[0.07] dark:bg-[#09090B] dark:text-zinc-200 cursor-pointer"
+                className="inline-flex items-center gap-1.5 rounded-lg border border-black/[0.08] bg-white px-3 py-2 text-xs font-medium text-[#09090B] hover:bg-zinc-50 dark:border-white/[0.07] dark:bg-[#09090B] dark:text-zinc-200 cursor-pointer"
               >
                 <SlidersHorizontal className="h-3.5 w-3.5" />
-                <span>Configure New Test</span>
+                <span>Configure Test</span>
               </button>
               <button
                 type="button"
@@ -1655,6 +1663,26 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
               No questions match the selected filter.
             </div>
           )}
+
+          {/* Bottom Actions to easily return to dashboard or retake */}
+          <div className="flex flex-wrap items-center justify-center gap-3 pt-4 pb-2">
+            <button
+              type="button"
+              onClick={onBackToDashboard}
+              className="inline-flex items-center gap-2 rounded-lg border border-black/[0.08] bg-white px-4 py-2.5 text-xs font-medium text-[#09090B] hover:bg-zinc-50 dark:border-white/[0.07] dark:bg-[#121215] dark:text-zinc-200 cursor-pointer"
+            >
+              <ArrowLeft className="h-3.5 w-3.5" />
+              <span>Return to Dashboard</span>
+            </button>
+            <button
+              type="button"
+              onClick={startExam}
+              className="inline-flex items-center gap-2 rounded-lg bg-zinc-900 px-4 py-2.5 text-xs font-medium text-white hover:bg-zinc-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
+            >
+              <RotateCcw className="h-3.5 w-3.5" />
+              <span>Next Test Set</span>
+            </button>
+          </div>
         </div>
       </div>
     );

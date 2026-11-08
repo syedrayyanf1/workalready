@@ -71,9 +71,25 @@ export default function App() {
     (nextView: ActiveView) => {
       setActiveView(nextView);
       triggerLoadingBar();
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      if (document.documentElement) document.documentElement.scrollTop = 0;
+      if (document.body) document.body.scrollTop = 0;
     },
     [triggerLoadingBar]
   );
+
+  useEffect(() => {
+    // Guarantee window scroll returns to top header on any view change
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    if (document.documentElement) document.documentElement.scrollTop = 0;
+    if (document.body) document.body.scrollTop = 0;
+    const raf = window.requestAnimationFrame(() => {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      if (document.documentElement) document.documentElement.scrollTop = 0;
+      if (document.body) document.body.scrollTop = 0;
+    });
+    return () => window.cancelAnimationFrame(raf);
+  }, [activeView]);
 
   useEffect(() => {
     document.documentElement.classList.add('dark');
@@ -268,6 +284,9 @@ export default function App() {
     setSimSourceFilter(source);
     setActiveView('simulator');
     triggerLoadingBar();
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    if (document.documentElement) document.documentElement.scrollTop = 0;
+    if (document.body) document.body.scrollTop = 0;
   };
 
   const handleCompleteSession = async (session: ExamSessionRecord) => {
@@ -458,7 +477,7 @@ export default function App() {
         className={
           isFullScreenExam
             ? 'mx-auto flex h-dvh w-full max-w-7xl flex-1 flex-col overflow-hidden p-0 md:h-[calc(100dvh-3.5rem)] md:px-6 md:py-3'
-            : 'mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6 sm:py-8'
+            : 'mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6 sm:py-8 pb-24 md:pb-8'
         }
       >
         {activeView === 'dashboard' && (
@@ -728,7 +747,11 @@ export default function App() {
               allQuestionsBySubject={allQuestionsBySubject}
               mastery={mastery}
               onCompleteSession={handleCompleteSession}
-              onBackToDashboard={() => switchView('dashboard')}
+              onBackToDashboard={() => {
+                setIsExamActive(false);
+                switchView('dashboard');
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+              }}
               onExamActiveChange={setIsExamActive}
               onTriggerLoadingBar={triggerLoadingBar}
             />
