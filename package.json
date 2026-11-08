@@ -1,5 +1,5 @@
 {
-  "name": "caxis",
+  "name": "react-example",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -40,7 +40,6 @@
     "esbuild": "^0.25.0",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.21.0",
-    "typescript": "^7.0.2",
-    "wrangler": "^4.158.0"
+    "typescript": "^7.0.2"
   }
 }
