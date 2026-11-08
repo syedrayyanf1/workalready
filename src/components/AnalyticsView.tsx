@@ -268,10 +268,13 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({
               </p>
               <button
                 type="button"
+                disabled={subjectQuestions.length === 0}
                 onClick={() => onLaunchTargetedDrill(selectedSubjectId)}
-                className="mt-3.5 rounded-lg bg-zinc-900 px-4 py-2 text-xs font-medium text-white hover:bg-zinc-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
+                className="mt-3.5 rounded-lg bg-zinc-900 px-4 py-2 text-xs font-medium text-white hover:bg-zinc-800 disabled:opacity-40 disabled:cursor-not-allowed dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
               >
-                Start {currentSubject.code} Test
+                {subjectQuestions.length === 0
+                  ? 'No questions loaded yet'
+                  : `Start ${currentSubject.code} Test`}
               </button>
             </div>
           )}
@@ -395,10 +398,11 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({
 
                     <button
                       type="button"
+                      disabled={ch.questionCount === 0}
                       onClick={() => onLaunchTargetedDrill(selectedSubjectId, ch.chapterId)}
-                      className="rounded-lg border border-black/[0.08] bg-zinc-100 px-3 py-1.5 text-xs font-medium text-[#09090B] transition-colors hover:bg-zinc-900 hover:text-white dark:border-white/[0.07] dark:bg-zinc-800/90 dark:text-zinc-200 dark:hover:bg-white dark:hover:text-black cursor-pointer whitespace-nowrap shrink-0"
+                      className="rounded-lg border border-black/[0.08] bg-zinc-100 px-3 py-1.5 text-xs font-medium text-[#09090B] transition-colors hover:bg-zinc-900 hover:text-white disabled:opacity-40 disabled:cursor-not-allowed dark:border-white/[0.07] dark:bg-zinc-800/90 dark:text-zinc-200 dark:hover:bg-white dark:hover:text-black cursor-pointer whitespace-nowrap shrink-0"
                     >
-                      Drill →
+                      {ch.questionCount === 0 ? 'No MCQs' : 'Drill →'}
                     </button>
                   </div>
                 </div>

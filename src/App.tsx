@@ -154,15 +154,41 @@ export default function App() {
   useEffect(() => {
     let mounted = true;
 
-    supabase.auth.getSession().then(({ data }) => {
-      if (!mounted) return;
-      const currentUser = data.session?.user ?? null;
-      setUser(currentUser);
-      if (currentUser && syncedUserIdRef.current !== currentUser.id) {
-        syncedUserIdRef.current = currentUser.id;
-        performCloudMergeAndSync(currentUser);
-      }
-    });
+    // One-time production wipe: Ensure clean logged-out state
+    const authWipedKey = 'caxis_v2_auth_wiped';
+    const hasWiped = localStorage.getItem(authWipedKey);
+    if (!hasWiped) {
+      localStorage.setItem(authWipedKey, 'true');
+      supabase.auth.signOut().catch(() => {});
+      setUser(null);
+      setSyncStatus('idle');
+      return;
+    }
+
+    supabase.auth
+      .getSession()
+      .then(({ data, error }) => {
+        if (!mounted) return;
+        if (error || !data?.session) {
+          // Stale session or error: sign out cleanly
+          supabase.auth.signOut().catch(() => {});
+          setUser(null);
+          setSyncStatus('idle');
+          return;
+        }
+        const currentUser = data.session.user ?? null;
+        setUser(currentUser);
+        if (currentUser && syncedUserIdRef.current !== currentUser.id) {
+          syncedUserIdRef.current = currentUser.id;
+          performCloudMergeAndSync(currentUser);
+        }
+      })
+      .catch(() => {
+        if (!mounted) return;
+        supabase.auth.signOut().catch(() => {});
+        setUser(null);
+        setSyncStatus('idle');
+      });
 
     const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
       const nextUser = session?.user ?? null;
@@ -451,11 +477,14 @@ export default function App() {
               <div className="flex items-center gap-2.5 shrink-0">
                 <button
                   type="button"
+                  disabled={globalStats.totalBankCount === 0}
                   onClick={() => launchSimulator('prc-1', null, null)}
-                  className="inline-flex items-center gap-2 rounded-lg bg-zinc-900 px-4 py-2 text-sm font-medium text-white transition-all hover:bg-zinc-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200 whitespace-nowrap cursor-pointer"
+                  className="inline-flex items-center gap-2 rounded-lg bg-zinc-900 px-4 py-2 text-sm font-medium text-white transition-all hover:bg-zinc-800 disabled:opacity-40 disabled:cursor-not-allowed dark:bg-white dark:text-black dark:hover:bg-zinc-200 whitespace-nowrap cursor-pointer"
                 >
                   <Play className="h-3.5 w-3.5 fill-current" />
-                  <span>Test Yourself</span>
+                  <span>
+                    {globalStats.totalBankCount === 0 ? 'No questions loaded yet' : 'Test Yourself'}
+                  </span>
                 </button>
                 <button
                   type="button"
@@ -598,10 +627,11 @@ export default function App() {
 
                             <button
                               type="button"
+                              disabled={questions.length === 0}
                               onClick={() => launchSimulator(subj.id, null, null)}
-                              className="shrink-0 rounded-lg border border-black/[0.08] bg-zinc-900 px-3.5 py-1.5 text-xs font-medium text-white transition-all hover:bg-zinc-800 dark:border-white/[0.08] dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
+                              className="shrink-0 rounded-lg border border-black/[0.08] bg-zinc-900 px-3.5 py-1.5 text-xs font-medium text-white transition-all hover:bg-zinc-800 disabled:opacity-40 disabled:cursor-not-allowed dark:border-white/[0.08] dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
                             >
-                              Start Test →
+                              {questions.length === 0 ? 'No questions loaded yet' : 'Start Test →'}
                             </button>
                           </div>
                         </div>

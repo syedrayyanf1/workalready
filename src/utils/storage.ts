@@ -3,13 +3,20 @@ import { getAllStaticQuestions, STATIC_QUESTIONS_BY_SUBJECT } from '../data/subj
 import { supabase } from '../supabaseClient';
 
 const STORAGE_KEYS = {
-  SESSIONS: 'caxis_prc_exam_sessions_v3',
-  MASTERY: 'caxis_prc_question_mastery_v3',
-  CUSTOM_QUESTIONS: 'icap_prc_custom_questions_v2',
-  THEME: 'icap_prc_theme_v1',
-  LEGACY_SESSIONS: 'icap_prc_exam_sessions_v2',
-  LEGACY_MASTERY: 'icap_prc_question_mastery_v2',
-  LEGACY_SEEDED: 'icap_prc_seeded_v2',
+  VERSION_CHECK: 'caxis_v2_clean_init',
+  SESSIONS: 'caxis_v2_exam_sessions',
+  MASTERY: 'caxis_v2_question_mastery',
+  CUSTOM_QUESTIONS: 'caxis_v2_custom_questions',
+  THEME: 'caxis_v2_theme',
+  LEGACY_KEYS: [
+    'caxis_prc_exam_sessions_v3',
+    'caxis_prc_question_mastery_v3',
+    'icap_prc_custom_questions_v2',
+    'icap_prc_exam_sessions_v2',
+    'icap_prc_question_mastery_v2',
+    'icap_prc_seeded_v2',
+    'icap_prc_theme_v1',
+  ],
 };
 
 export interface UserProgressPayload {
@@ -72,10 +79,20 @@ export function initializeStorageWithSeed(): {
   mastery: Record<string, QuestionMasteryStat>;
 } {
   try {
-    // Clean up legacy fake seeded keys if present
-    localStorage.removeItem(STORAGE_KEYS.LEGACY_SESSIONS);
-    localStorage.removeItem(STORAGE_KEYS.LEGACY_MASTERY);
-    localStorage.removeItem(STORAGE_KEYS.LEGACY_SEEDED);
+    // One-time fresh wipe for production version bump
+    const isCleanInit = localStorage.getItem(STORAGE_KEYS.VERSION_CHECK);
+    if (!isCleanInit) {
+      // Purge all old legacy storage keys
+      STORAGE_KEYS.LEGACY_KEYS.forEach((k) => localStorage.removeItem(k));
+      localStorage.removeItem(STORAGE_KEYS.SESSIONS);
+      localStorage.removeItem(STORAGE_KEYS.MASTERY);
+      localStorage.removeItem(STORAGE_KEYS.CUSTOM_QUESTIONS);
+      localStorage.setItem(STORAGE_KEYS.VERSION_CHECK, 'true');
+      return { sessions: [], mastery: {} };
+    }
+
+    // Clean up any remaining legacy keys if present
+    STORAGE_KEYS.LEGACY_KEYS.forEach((k) => localStorage.removeItem(k));
 
     const rawSessions = localStorage.getItem(STORAGE_KEYS.SESSIONS);
     const rawMastery = localStorage.getItem(STORAGE_KEYS.MASTERY);
@@ -284,9 +301,7 @@ export function clearAllProgress(): {
   try {
     localStorage.setItem(STORAGE_KEYS.SESSIONS, JSON.stringify([]));
     localStorage.setItem(STORAGE_KEYS.MASTERY, JSON.stringify({}));
-    localStorage.removeItem(STORAGE_KEYS.LEGACY_SESSIONS);
-    localStorage.removeItem(STORAGE_KEYS.LEGACY_MASTERY);
-    localStorage.removeItem(STORAGE_KEYS.LEGACY_SEEDED);
+    STORAGE_KEYS.LEGACY_KEYS.forEach((k) => localStorage.removeItem(k));
   } catch {
     // Ignore
   }

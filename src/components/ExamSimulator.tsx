@@ -650,11 +650,13 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 <div className="flex items-center gap-1.5 text-[11px] text-zinc-500 dark:text-zinc-400">
                   <Sparkles className="h-3 w-3 text-[#6366F1] shrink-0" />
                   <span>
-                    {unseenInPoolCount >= effectiveQuestionCount
-                      ? `All ${effectiveQuestionCount} questions will be drawn fresh from ${unseenInPoolCount} unseen MCQs.`
-                      : unseenInPoolCount > 0
-                        ? `Draws all ${unseenInPoolCount} unseen MCQs first, then ${effectiveQuestionCount - unseenInPoolCount} review MCQs.`
-                        : 'All questions in this pool have been seen; prioritizes previously incorrect & oldest first.'}
+                    {matchingPool.length === 0
+                      ? 'No questions loaded yet in this module. Import questions via Question Bank Studio to start testing.'
+                      : unseenInPoolCount >= effectiveQuestionCount
+                        ? `All ${effectiveQuestionCount} questions will be drawn fresh from ${unseenInPoolCount} unseen MCQs.`
+                        : unseenInPoolCount > 0
+                          ? `Draws all ${unseenInPoolCount} unseen MCQs first, then ${effectiveQuestionCount - unseenInPoolCount} review MCQs.`
+                          : 'All questions in this pool have been seen; prioritizes previously incorrect & oldest first.'}
                   </span>
                 </div>
               </div>
@@ -775,12 +777,13 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
               type="button"
               disabled={matchingPool.length === 0}
               onClick={startExam}
-              className="w-full flex items-center justify-center gap-2 rounded-lg bg-zinc-900 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-zinc-800 disabled:opacity-40 dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
+              className="w-full flex items-center justify-center gap-2 rounded-lg bg-zinc-900 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-zinc-800 disabled:opacity-40 disabled:cursor-not-allowed dark:bg-white dark:text-black dark:hover:bg-zinc-200 cursor-pointer"
             >
               <Play className="h-3.5 w-3.5 fill-current" />
               <span>
-                Start Test ({effectiveQuestionCount} MCQs ·{' '}
-                {paceMode === 'untimed' ? 'Untimed' : `${effectiveDurationMinutes}m`})
+                {matchingPool.length === 0
+                  ? 'No questions loaded yet'
+                  : `Start Test (${effectiveQuestionCount} MCQs · ${paceMode === 'untimed' ? 'Untimed' : `${effectiveDurationMinutes}m`})`}
               </span>
             </button>
           </div>
