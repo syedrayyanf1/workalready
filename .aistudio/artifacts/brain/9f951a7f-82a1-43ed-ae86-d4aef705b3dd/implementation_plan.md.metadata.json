@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to resolve Cloudflare Pages not detecting GitHub exports and harden the repository for reliable Cloudflare Pages builds and instant PWA cache updates.",
+  "updatedAt":  "2026-11-07T20:31:08.775389347Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
