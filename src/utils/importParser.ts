@@ -21,6 +21,11 @@ function normalizeCorrectOption(raw: unknown): string {
   return parsed.length > 0 ? formatOptionList(parsed) : raw.trim().toUpperCase() || 'A';
 }
 
+function cleanChapterTitle(rawName: string): string {
+  if (!rawName) return '';
+  return rawName.trim().replace(/^(?:chapter|ch)\s*\d+[\s:.-]+/i, '').trim();
+}
+
 export const SAMPLE_JSON_TEMPLATE = JSON.stringify(
   [
     {
@@ -135,7 +140,7 @@ export function parseMarkdownQuestionBank(
       ? meta.subjectId
       : defaults.subjectId) as SubjectId;
     const chapterId = meta.chapterId ? Number(meta.chapterId) || defaults.chapterId : defaults.chapterId;
-    const chapterName = meta.chapterName || defaults.chapterName;
+    const chapterName = cleanChapterTitle(meta.chapterName || defaults.chapterName);
     const source: QuestionSource = 'self-test';
     const correctOption = normalizeCorrectOption(meta.correctOption || inlineAnswer || 'A');
 
@@ -153,6 +158,9 @@ export function parseMarkdownQuestionBank(
       return;
     }
 
+    const svgDiagram =
+      meta.svgDiagram && meta.svgDiagram.trim().length > 0 ? meta.svgDiagram.trim() : undefined;
+
     questions.push({
       id,
       subjectId,
@@ -160,6 +168,7 @@ export function parseMarkdownQuestionBank(
       chapterName,
       source,
       questionText,
+      svgDiagram,
       options,
       correctOption,
     });
@@ -267,7 +276,7 @@ export function parseCsvQuestionBank(rawCsv: string): ParseResult {
       id: id || `CSV-Q-${i}`,
       subjectId,
       chapterId,
-      chapterName: chapterName || `Chapter ${chapterId}`,
+      chapterName: cleanChapterTitle(chapterName || `Chapter ${chapterId}`),
       source: 'self-test',
       questionText,
       options,
@@ -297,14 +306,19 @@ export function parseJsonQuestionBank(rawJson: string): ParseResult {
       }
 
       const chapterId = Number(item.chapterId) || 1;
+      const svgDiagram =
+        typeof item.svgDiagram === 'string' && item.svgDiagram.trim().length > 0
+          ? item.svgDiagram.trim()
+          : undefined;
 
       questions.push({
         id: String(item.id || `JSON-Q-${idx + 1}`),
         subjectId: VALID_SUBJECTS.includes(item.subjectId) ? item.subjectId : 'prc-1',
         chapterId,
-        chapterName: String(item.chapterName || `Chapter ${chapterId}`),
+        chapterName: cleanChapterTitle(String(item.chapterName || `Chapter ${chapterId}`)),
         source: VALID_SOURCES.includes(item.source) ? item.source : 'self-test',
         questionText: String(item.questionText),
+        svgDiagram,
         options: item.options.map((o: { id?: string; text?: string }, oIdx: number) => ({
           id: String(o?.id || String.fromCharCode(65 + oIdx)).trim().toUpperCase(),
           text: String(o?.text ?? ''),

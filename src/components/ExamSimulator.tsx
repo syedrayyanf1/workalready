@@ -30,6 +30,7 @@ import {
 } from '../types';
 import { SUBJECTS } from '../data/subjects';
 import { RichContent } from './RichContent';
+import { QuestionDiagram } from './QuestionDiagram';
 import { CAxisLogo } from './CAxisLogo';
 import { ExamLaunchSkeleton } from './UIFeedback';
 
@@ -933,6 +934,9 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
               <RichContent content={currentQuestion.questionText} />
             </div>
 
+            {/* Inline SVG Diagram */}
+            <QuestionDiagram svg={currentQuestion.svgDiagram} />
+
             {/* Dynamic Options List */}
             <div className="space-y-2 pt-1">
               {currentQuestion.options.map((opt) => {
@@ -1141,6 +1145,7 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 {/* Question Stem */}
                 <div className="mt-4 text-[15px] leading-relaxed flex-1">
                   <RichContent content={currentQuestion.questionText} />
+                  <QuestionDiagram svg={currentQuestion.svgDiagram} />
                 </div>
               </div>
             </div>
@@ -1591,6 +1596,8 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
                 <div className="text-sm leading-relaxed">
                   <RichContent content={q.questionText} />
                 </div>
+
+                <QuestionDiagram svg={q.svgDiagram} />
 
                 <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
                   {q.options.map((opt) => {

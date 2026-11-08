@@ -16,6 +16,7 @@ export interface Question {
   chapterName: string;
   source: QuestionSource; // 1: ICAP Self-Test, 2: ICAP APQ, 3: Teacher/Practice Tests
   questionText: string; // Supports Markdown tables and $LaTeX$ math
+  svgDiagram?: string; // Optional raw SVG string for economics diagrams, supply/demand curves, etc.
   options: QuestionOption[]; // Accepts any number of options (e.g. 4, 5, 6 options with 'E' and 'F')
   correctOption: string; // Accepts any option string: single (e.g. "B", "E", "F") or multi-select (e.g. "A,C", "B,E,F")
 }

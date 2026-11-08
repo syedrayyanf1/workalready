@@ -29,6 +29,11 @@ function normalizeSubjectId(raw: unknown): SubjectId | null {
   return null;
 }
 
+export function cleanChapterTitle(rawName: string): string {
+  if (!rawName) return '';
+  return rawName.trim().replace(/^(?:chapter|ch)\s*\d+[\s:.-]+/i, '').trim();
+}
+
 function loadAllGlobQuestions(): Question[] {
   const questionMap = new Map<string, Question>();
 
@@ -61,9 +66,11 @@ function loadAllGlobQuestions(): Question[] {
       }));
 
       const chapterId = Number(candidate.chapterId) || 1;
-      const chapterName = candidate.chapterName
-        ? String(candidate.chapterName).trim()
+      const rawChapterName = candidate.chapterName ? String(candidate.chapterName).trim() : '';
+      const chapterName = rawChapterName
+        ? cleanChapterTitle(rawChapterName)
         : `Chapter ${chapterId}`;
+
       const validSources: QuestionSource[] = ['self-test', 'apq', 'practice-set'];
       const source: QuestionSource =
         candidate.source && validSources.includes(candidate.source)
@@ -74,6 +81,11 @@ function loadAllGlobQuestions(): Question[] {
         ? String(candidate.correctOption).trim().toUpperCase()
         : 'A';
 
+      const svgDiagram =
+        candidate.svgDiagram && String(candidate.svgDiagram).trim().length > 0
+          ? String(candidate.svgDiagram).trim()
+          : undefined;
+
       const q: Question = {
         id: String(candidate.id).trim(),
         subjectId: normSubject,
@@ -83,6 +95,7 @@ function loadAllGlobQuestions(): Question[] {
         questionText: String(candidate.questionText),
         options,
         correctOption,
+        svgDiagram,
       };
 
       // Deduplicate by unique question ID
@@ -118,11 +131,16 @@ export const BASE_SUBJECTS: SubjectInfo[] = [
     defaultQuestionCount: 20,
     passingPercentage: 50,
     chapters: [
-      { id: 1, name: 'Accounting Basics' },
-      { id: 2, name: 'Books of Prime Entry & Trial Balance' },
-      { id: 3, name: 'Ledgers and Trial Balance' },
-      { id: 4, name: 'Accruals and Prepayments' },
-      { id: 5, name: 'Bad and Doubtful Debts' },
+      { id: 1, name: 'Accounting basics' },
+      { id: 2, name: 'Books of prime entry' },
+      { id: 3, name: 'Ledgers and trial balance' },
+      { id: 4, name: 'Accruals and prepayments' },
+      { id: 5, name: 'Bad and doubtful debts' },
+      { id: 6, name: 'Property, plant and equipment' },
+      { id: 7, name: 'IAS 2: Inventories' },
+      { id: 8, name: 'Correction of errors' },
+      { id: 9, name: 'Bank reconciliations' },
+      { id: 10, name: 'Preparation of financial statements' },
     ],
   },
   {
@@ -171,10 +189,15 @@ export const BASE_SUBJECTS: SubjectInfo[] = [
     defaultQuestionCount: 20,
     passingPercentage: 50,
     chapters: [
-      { id: 1, name: 'Microeconomics: Demand, Supply & Elasticity' },
-      { id: 2, name: 'Cost of Production & Market Structures' },
-      { id: 3, name: 'National Income Accounting & Keynesian Multiplier' },
-      { id: 4, name: 'Money, Banking, Inflation & Balance of Payments' },
+      { id: 1, name: 'Nature and Scope of Economics' },
+      { id: 2, name: 'Demand, Supply and Market Equilibrium' },
+      { id: 3, name: 'Elasticity of Demand and Supply' },
+      { id: 4, name: 'Firm Theory' },
+      { id: 5, name: 'National Income and its Determination' },
+      { id: 6, name: 'National Income Equilibrium' },
+      { id: 7, name: 'Money, Banking and Inflation' },
+      { id: 8, name: 'Public Finance and Fiscal Policy' },
+      { id: 9, name: 'International Trade and Balance of Payments' },
     ],
   },
 ];
@@ -185,18 +208,17 @@ export const SUBJECTS: SubjectInfo[] = BASE_SUBJECTS.map((baseSubj) => {
   const chapterMap = new Map<number, string>();
 
   // 1. Seed with base syllabus chapters
-  baseSubj.chapters.forEach((ch) => chapterMap.set(ch.id, ch.name));
+  baseSubj.chapters.forEach((ch) => chapterMap.set(ch.id, cleanChapterTitle(ch.name)));
 
   // 2. Dynamically add or enrich chapters found in the loaded JSON questions
+  // Always overwrite placeholder chapter title with the question's chapterName from JSON
   questions.forEach((q) => {
     if (q.chapterId) {
-      if (!chapterMap.has(q.chapterId)) {
-        chapterMap.set(q.chapterId, q.chapterName || `Chapter ${q.chapterId}`);
-      } else if (
-        q.chapterName &&
-        (!chapterMap.get(q.chapterId) || chapterMap.get(q.chapterId)!.startsWith('Chapter '))
-      ) {
-        chapterMap.set(q.chapterId, q.chapterName);
+      const cleanName = cleanChapterTitle(q.chapterName);
+      if (cleanName && cleanName.length > 0) {
+        chapterMap.set(q.chapterId, cleanName);
+      } else if (!chapterMap.has(q.chapterId)) {
+        chapterMap.set(q.chapterId, `Chapter ${q.chapterId}`);
       }
     }
   });

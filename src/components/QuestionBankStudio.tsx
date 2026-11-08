@@ -24,6 +24,7 @@ import {
   SAMPLE_MARKDOWN_TEMPLATE,
 } from '../utils/importParser';
 import { RichContent } from './RichContent';
+import { QuestionDiagram } from './QuestionDiagram';
 
 interface QuestionBankStudioProps {
   allQuestionsBySubject: Record<SubjectId, Question[]>;
@@ -356,6 +357,8 @@ export const QuestionBankStudio: React.FC<QuestionBankStudioProps> = ({
                       <RichContent content={q.questionText} />
                     </div>
 
+                    <QuestionDiagram svg={q.svgDiagram} />
+
                     <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
                       {q.options.map((opt) => {
                         const isOptCorrect = parseOptionList(q.correctOption).includes(opt.id);
@@ -503,6 +506,8 @@ export const QuestionBankStudio: React.FC<QuestionBankStudioProps> = ({
                   <div className="text-sm leading-relaxed">
                     <RichContent content={q.questionText} />
                   </div>
+
+                  <QuestionDiagram svg={q.svgDiagram} />
 
                   <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
                     {q.options.map((opt) => {
