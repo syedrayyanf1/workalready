@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "PRC1-CH03-ST-001",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following statement is NOT true in the context of ‘Chart of Accounts’?",
+    "options": [
+      { "id": "A", "text": "Unique code and heading for each account head" },
+      { "id": "B", "text": "The structure and heading in the list aims to result in consistent posting of transactions" },
+      { "id": "C", "text": "The aim of the chart of accounts is to ensure that all transactions are recognized in accordance with the requirement of business" },
+      { "id": "D", "text": "The aim of the chart of accounts is to calculate profit or loss of business" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-002",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Individual credit Sales invoice are recorded in",
+    "options": [
+      { "id": "A", "text": "Sales day book and posted in receivables ledger" },
+      { "id": "B", "text": "Cash book and posted in receivables ledger" },
+      { "id": "C", "text": "Cash book and posted in general ledger" },
+      { "id": "D", "text": "Sales day book and posted in general ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-003",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are true with reference to duality concept?\n1. There must be only two heads of account in one transaction one should be debit and other is credit\n2. There might be more than one debit or credit in one transaction but sum of debit must be equal to sum of credit.",
+    "options": [
+      { "id": "A", "text": "Statement (1) only" },
+      { "id": "B", "text": "Statement (2) only" },
+      { "id": "C", "text": "Both Statements" },
+      { "id": "D", "text": "None of above Statements" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-004",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following statement is NOT correct with reference to double entry bookkeeping?",
+    "options": [
+      { "id": "A", "text": "Recording is the way of entering transactions in Journal or other books of prime entry" },
+      { "id": "B", "text": "Process of transferring transaction from Journal or other books of prime entry to ledger is posting" },
+      { "id": "C", "text": "The totaling process of ledgers is termed as extraction" },
+      { "id": "D", "text": "Extraction is process of moving balances from ledgers to trial balance" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-005",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Following information is extracted from the books of Zamin Stores for the month of January 2022:\n1. Goods sold on credit to Abid for Rs. 25,000\n2. Goods sold on credit to Sajid for Rs. 15,000\n3. Goods sold to Nadir for cash for Rs. 20,000\n4. Goods bought from Javed on credit for Rs. 15,000.\nWhat is the balance of list of customers extracted from receivable ledgers, after incorporating the above transaction?",
+    "options": [
+      { "id": "A", "text": "Rs. 75,000" },
+      { "id": "B", "text": "Rs. 60,000" },
+      { "id": "C", "text": "Rs. 55,000" },
+      { "id": "D", "text": "Rs. 40,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-006",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following are types of ledgers:",
+    "options": [
+      { "id": "A", "text": "General ledger" },
+      { "id": "B", "text": "Receivables ledger" },
+      { "id": "C", "text": "Memorandum ledger" },
+      { "id": "D", "text": "Payables ledger" }
+    ],
+    "correctOption": "A,B,D"
+  },
+  {
+    "id": "PRC1-CH03-ST-007",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "“Goods returned by customer at Rs. 2,000 previously sold at 20% markup”. The double entry shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Sales returns and Cr. Accounts receivables by Rs. 1,600" },
+      { "id": "B", "text": "Dr. Sales returns and Cr. Accounts receivables by Rs. 2,000" },
+      { "id": "C", "text": "Dr. Accounts payable and Cr. Purchase returns by Rs. 1,600" },
+      { "id": "D", "text": "Dr. Accounts payable and Cr. Purchase returns by Rs. 2,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-008",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct in relation to ‘chart of accounts’?",
+    "options": [
+      { "id": "A", "text": "Each general ledger is identified by a unique code and heading." },
+      { "id": "B", "text": "The chart of accounts can be changed at any time by accounting personnel without specific written approval of head of department." },
+      { "id": "C", "text": "The aim of the chart is to ensure that all transactions are recognised in accordance with the requirements of the business." },
+      { "id": "D", "text": "Each major heading in the financial statements might be given a range of codes from which codes can be selected for individual general ledger accounts" }
+    ],
+    "correctOption": "A,C,D"
+  },
+  {
+    "id": "PRC1-CH03-ST-009",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "3D Limited recorded the following transactions in their books of prime entry:\n1. Goods purchased from Nasir on credit for Rs. 30,000.\n2. Goods purchased from Yasir on credit for Rs. 20,000.\n3. Furniture purchased for cash Rs. 40,000\n4. Goods purchased by cheque, from Sabir for Rs. 10,000.\nWhat is the closing balance of list of suppliers taken from payables ledger, after posting of the above transactions?",
+    "options": [
+      { "id": "A", "text": "Rs. 60,000" },
+      { "id": "B", "text": "Rs. 50,000" },
+      { "id": "C", "text": "Rs. 90,000" },
+      { "id": "D", "text": "Rs. 100,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-010",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "The statement including balances of ledgers and prepared normally at end of each month is termed as:",
+    "options": [
+      { "id": "A", "text": "General ledger" },
+      { "id": "B", "text": "Statement of financial position" },
+      { "id": "C", "text": "Trial balance" },
+      { "id": "D", "text": "Bank reconciliation statement" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-011",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following head of account balance shall be shown on credit side of trial balance?",
+    "options": [
+      { "id": "A", "text": "Carriage Inwards" },
+      { "id": "B", "text": "Return Inwards" },
+      { "id": "C", "text": "Return outwards" },
+      { "id": "D", "text": "Carriage outwards" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-012",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Discount allowed of Rs. 1,500 was recorded on the credit side and discount received of Rs. 1,800 was recorded on debit side of trial balance.\nThe difference in trial balance was?",
+    "options": [
+      { "id": "A", "text": "No difference" },
+      { "id": "B", "text": "Rs. 300" },
+      { "id": "C", "text": "Rs. 600" },
+      { "id": "D", "text": "Rs. 3,300" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-013",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following accounts are closed at the end of the financial year to statement of comprehensive income?",
+    "options": [
+      { "id": "A", "text": "Assets" },
+      { "id": "B", "text": "Expenses" },
+      { "id": "C", "text": "Liabilities" },
+      { "id": "D", "text": "Income" },
+      { "id": "E", "text": "Capital" }
+    ],
+    "correctOption": "B,D"
+  },
+  {
+    "id": "PRC1-CH03-ST-014",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following are carried forward to the next year, at the end of financial year?",
+    "options": [
+      { "id": "A", "text": "Assets" },
+      { "id": "B", "text": "Expenses" },
+      { "id": "C", "text": "Liabilities" },
+      { "id": "D", "text": "Income" },
+      { "id": "E", "text": "Capital" },
+      { "id": "F", "text": "Drawings" }
+    ],
+    "correctOption": "A,C,E"
+  },
+  {
+    "id": "PRC1-CH03-ST-015",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Zohaib purchased goods on credit for Rs. 50,000 from Shadab on 21 January, 2022, on terms 2/10, n/30. He settled his account by paying cheque on 3 February, 2022 and purchased further goods on credit for Rs. 20,000 on 20 February, 2022 on same terms.\nWhat were the opening and closing balances of Shadab account in payables ledger for February 2022?",
+    "options": [
+      { "id": "A", "text": "Opening Rs. 49,000 | Closing Rs. 20,000" },
+      { "id": "B", "text": "Opening Rs. 50,000 | Closing Rs. 20,000" },
+      { "id": "C", "text": "Opening Rs. 50,000 | Closing Rs. 19,600" },
+      { "id": "D", "text": "Opening Rs. 49,000 | Closing Rs. 19,600" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-016",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "The closing entry of Drawings of Rs. 18,000 at year-end will be",
+    "options": [
+      { "id": "A", "text": "Dr. Drawings Rs. 18,000; and Cr. Capital Rs. 18,000" },
+      { "id": "B", "text": "Dr. Drawings Rs. 18,000; and Cr. Profit & Loss Rs. 18,000" },
+      { "id": "C", "text": "Dr. Capital Rs. 18,000; and Cr. Drawings Rs. 18,000" },
+      { "id": "D", "text": "No entry is required" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-017",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Closing entry for expenses at the end of financial year shall be:",
+    "options": [
+      { "id": "A", "text": "Expenses account Debit, Statement of comprehensive income" },
+      { "id": "B", "text": "Expenses account Debit, Statement of financial position" },
+      { "id": "C", "text": "Statement of comprehensive income Debit, Expense account Credit" },
+      { "id": "D", "text": "Expense account Debit, Statement of profit or loss Credit" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-018",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following shall provide framework for entity for preparation of financial statements?",
+    "options": [
+      { "id": "A", "text": "Trial Balance" },
+      { "id": "B", "text": "Ledgers" },
+      { "id": "C", "text": "General Journal" },
+      { "id": "D", "text": "Books of prime entry" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-019",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following accounts must be presented on the debit column of a trial balance?",
+    "options": [
+      { "id": "A", "text": "Sales" },
+      { "id": "B", "text": "Sales Return" },
+      { "id": "C", "text": "Purchases" },
+      { "id": "D", "text": "Purchases Return" },
+      { "id": "E", "text": "Discount Allowed" },
+      { "id": "F", "text": "Discount Received" }
+    ],
+    "correctOption": "B,C,E"
+  },
+  {
+    "id": "PRC1-CH03-ST-020",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Following data is extracted from the books of Zakir Traders as at 30 September 2022:\n\n| Accounts | Amount Rs. |\n| :--- | :---: |\n| Non-Current Assets | 180,000 |\n| Current Asset | 120,000 |\n| Non-Current Liabilities | 70,000 |\n| Current Liabilities | 80,000 |\n| Drawings | 50,000 |\n| Net Profit | 30,000 |\n| Capital | 170,000 |\n\nWhich of the following statement is true?",
+    "options": [
+      { "id": "A", "text": "The total of debit and credit side of trial balance is Rs. 300,000" },
+      { "id": "B", "text": "The total of debit side of trial balance is Rs. 400,000 and credit side total is Rs. 300,000" },
+      { "id": "C", "text": "The total of debit side of trial balance is Rs. 300,000 and credit side total is Rs. 400,000" },
+      { "id": "D", "text": "The total of debit and credit side of trial balance is Rs. 350,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-021",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct in relation to balance of ledger:",
+    "options": [
+      { "id": "A", "text": "Balance b/d shown on debit side of any ledger represents credit balance" },
+      { "id": "B", "text": "Balance b/d shown on debit side of any ledger represents debit balance" },
+      { "id": "C", "text": "Balance c/d shown on debit side of any ledger represents debit balance" },
+      { "id": "D", "text": "Balance c/d shown on debit side of any ledger represents credit balance" }
+    ],
+    "correctOption": "B,D"
+  },
+  {
+    "id": "PRC1-CH03-ST-022",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "An accounting personnel may make change in chart of accounts with the permission of:",
+    "options": [
+      { "id": "A", "text": "Head of finance" },
+      { "id": "B", "text": "In charge of IT Department" },
+      { "id": "C", "text": "Head of internal audit department" },
+      { "id": "D", "text": "External Auditor" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-023",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Gulshan Flowers (GF) deals in flowers and bouquet. Junior accountant of GF posted the following transactions in the account of a customer:\n\n| Date | Description | Debit Rs. | Credit Rs. |\n| :--- | :--- | :---: | :---: |\n| March 1 | Sales | - | 50,000 |\n| March 5 | Discount allowed | - | 5,000 |\n| March 5 | Cash received | 42,000 | - |\n| March 7 | Sales return | 5,000 | - |\n\nWhat will be the balance of Naveed’s account after the correction of posting, if any?",
+    "options": [
+      { "id": "A", "text": "Rs. 2,000 Debit" },
+      { "id": "B", "text": "Rs. 2,000 Credit" },
+      { "id": "C", "text": "Rs. 18,000 Debit" },
+      { "id": "D", "text": "Rs. 7,000 Credit" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-024",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Following data is taken from the books of Saman:\n- Total sales (including 20% cash sales) Rs. 800,000\n- Cash received from credit customers Rs. 297,000 (After allowing 10% settlement discount, sales above was recorded assuming that customers might not avail settlement discount)\n- Credit sales return Rs. 20,000\nWhat will be the closing balance of receivables?",
+    "options": [
+      { "id": "A", "text": "Rs. 290,000" },
+      { "id": "B", "text": "Rs. 330,000" },
+      { "id": "C", "text": "Rs. 356,000" },
+      { "id": "D", "text": "Rs. 396,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-025",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Following data is taken from the books of Mr. Sultan:\n- Total Purchases (including Cash purchases which are 50% of credit purchase) Rs. 900,000\n- Cash paid to suppliers Rs. 300,000\n- Cheques issued to suppliers Rs. 100,000\n- Discount received Rs. 30,000\n- Credit purchases return Rs. 50,000\nWhat will be the closing balance of payables?",
+    "options": [
+      { "id": "A", "text": "Rs. 200,000" },
+      { "id": "B", "text": "Rs. 150,000" },
+      { "id": "C", "text": "Rs. 120,000" },
+      { "id": "D", "text": "Rs. 40,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-026",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Accounts officer of Maria & Maria (M&M) posted the journal entries into one of its supplier Mr. Sajid’s account as:\n\n| Date | Description | Debit Rs. | Credit Rs. |\n| :--- | :--- | :---: | :---: |\n| March 1 | Purchases | 10,000 | - |\n| March 2 | Purchases return | 2,000 | - |\n| March 3 | Discount received | - | 1,000 |\n| March 3 | Cheque issued | 5,000 | - |\n\nWhat will be the balance of sajid’s account after the correction of posting, if any?",
+    "options": [
+      { "id": "A", "text": "Rs. 16,000 Debit" },
+      { "id": "B", "text": "Rs. 4,000 Debit" },
+      { "id": "C", "text": "Rs. 2,000 Debit" },
+      { "id": "D", "text": "Rs. 2,000 Credit" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-027",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following account shall be balanced off rather than closed off?",
+    "options": [
+      { "id": "A", "text": "Furniture" },
+      { "id": "B", "text": "Salaries" },
+      { "id": "C", "text": "Sales" },
+      { "id": "D", "text": "Discount allowed" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-028",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "The two objectives of trial balance are:",
+    "options": [
+      { "id": "A", "text": "To check the arithmetic accuracy of accounts" },
+      { "id": "B", "text": "To provide framework for preparation of financial statements" },
+      { "id": "C", "text": "To ensure that financial statements are free of errors and biasness" }
+    ],
+    "correctOption": "A,B"
+  },
+  {
+    "id": "PRC1-CH03-ST-029",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Iqra runs a school system. She had cash in hand Rs. 40,000 at the start of January 2022. During January 2022 following transactions took place:\n1. She purchased a laptop for Rs. 50,000, for office use. She paid Rs. 20,000 in cash and balance amount will be paid after two months.\n2. Student fee received in cash for Rs. 60,000.\n3. Rent of building paid in cash for Rs. 20,000.\n4. Salaries for the month of December 2022 were paid in cash Rs. 10,000.\n5. Electricity bill for the month of January 2022 was received for Rs. 15,000 but not paid till the end of the month.\nWhat is the balance cash in hand at the end of January 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 60,000" },
+      { "id": "B", "text": "Rs. 50,000" },
+      { "id": "C", "text": "Rs. 45,000" },
+      { "id": "D", "text": "Rs. 35,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-030",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Khadim Hussain started business of furniture and after one month he hired his daughter to look after the accounts of business at Rs. 20,000 per month. The double-entry for payment of remuneration to his daughter shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Drawings and Cr. Salaries" },
+      { "id": "B", "text": "Dr. Salaries and Cr. Capital" },
+      { "id": "C", "text": "Dr. Drawings and Cr. Cash" },
+      { "id": "D", "text": "Dr. Salaries and Cr. Cash" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-031",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Posting is a process of transferring the transactions from:",
+    "options": [
+      { "id": "A", "text": "Books of prime entry to ledgers" },
+      { "id": "B", "text": "Ledger to another ledger" },
+      { "id": "C", "text": "Ledger to trial balance" },
+      { "id": "D", "text": "Books of prime entry to trial balance" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-032",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Bank account of Jameel & Co shows a total on debit side Rs. 12,450 and total on credit side Rs. 14,250. It will be presented in statement of financial position as:",
+    "options": [
+      { "id": "A", "text": "Cash at bank Rs. 12,450 as current asset and Bank overdraft Rs. 14,250 as current liability" },
+      { "id": "B", "text": "Cash at bank Rs. 12,450 as current asset and Bank overdraft Rs. 14,250 as non-current liability" },
+      { "id": "C", "text": "Bank overdraft of Rs. 1,800 as current liability" },
+      { "id": "D", "text": "Cash at bank of Rs. 1,800 as current asset" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-033",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following statements is/are correct?",
+    "options": [
+      { "id": "A", "text": "T account format of ledgers are balanced after each transaction" },
+      { "id": "B", "text": "Running balance account format of ledgers are balanced periodically" },
+      { "id": "C", "text": "T account format of ledgers are balanced periodically" },
+      { "id": "D", "text": "Running balance account format of ledgers are balanced after each transaction" }
+    ],
+    "correctOption": "C,D"
+  },
+  {
+    "id": "PRC1-CH03-ST-034",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following items would NOT appear on same side of trial balance?",
+    "options": [
+      { "id": "A", "text": "Carriage inwards and return inwards" },
+      { "id": "B", "text": "Carriage outwards and return outwards" },
+      { "id": "C", "text": "Drawings and return inwards" },
+      { "id": "D", "text": "Capital and rental income" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-035",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Journal entry to record payment of rent by cheque for the month of June 2022 shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Rent Expense and Cr. Cash" },
+      { "id": "B", "text": "Dr. Rent Expense and Cr. Bank" },
+      { "id": "C", "text": "Dr. Cash and Cr. Rent Expense" },
+      { "id": "D", "text": "Dr. Bank and Cr. Rent Expense" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-036",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Which of the following balances shown on both sides of trial balance are correct?",
+    "options": [
+      { "id": "A", "text": "Debit: Furniture, Cash, Accrued expense | Credit: Capital, bank loan" },
+      { "id": "B", "text": "Debit: Salaries, Furniture, Cash | Credit: Bank loan, accrued income" },
+      { "id": "C", "text": "Debit: Furniture, Salaries, Cash, Accrued income | Credit: Capital, bank loan, accrued expense" },
+      { "id": "D", "text": "Debit: Salaries, Drawings, Loan to friend | Credit: Accrued income, Bank loan" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-037",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Opening balance of Bank account was Rs. 6,200 overdrawn. During the month following transactions were taken place:\n- Cheque of Rs. 9,300 was received from customer.\n- Cheque of Rs 2,400 was paid to supplier.\n- Cheque of Rs. 2,300 deposited into bank was dishonoured.\n- Cash is withdrawn from bank Rs. 500.\nClosing balance of bank account shall be:",
+    "options": [
+      { "id": "A", "text": "Rs. 2,100 favourable" },
+      { "id": "B", "text": "Rs. 2,100 overdrawn" },
+      { "id": "C", "text": "Rs. 2,500 favourable" },
+      { "id": "D", "text": "Rs. 2,500 overdrawn" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-038",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Mr. Rashid transferred computer from business to home for his kid. The computer was bought one year ago at Rs. 25,000 but its current market value is equal to its carrying value of Rs. 16,000.\nWhat will be double entry for this transaction?",
+    "options": [
+      { "id": "A", "text": "Dr. Capital Rs. 25,000 and Cr. Computer Rs. 25,000" },
+      { "id": "B", "text": "Dr. Drawings Rs. 25,000 and Cr. Computer Rs. 25,000" },
+      { "id": "C", "text": "Dr. Capital Rs. 16,000 and Cr. Computer Rs. 16,000" },
+      { "id": "D", "text": "Dr. Drawings Rs. 16,000 and Cr. Computer Rs. 16,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-039",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Double entry for transaction “cash received of Rs. 12,300 from customer against full settlement of invoice of Rs. 12,500” shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Cash Rs. 12,300; Discount Allowed Rs. 200 and Cr. Accounts receivables Rs. 12,500" },
+      { "id": "B", "text": "Dr. Cash Rs. 12,300; Discount Received Rs. 200 and Cr. Accounts receivables Rs. 12,500" },
+      { "id": "C", "text": "Dr. Cash Rs. 12,300; Discount Allowed Rs. 200 and Cr. Accounts payables Rs. 12,500" },
+      { "id": "D", "text": "Dr. Cash Rs. 12,300; Discount received Rs. 200 and Cr. Accounts payables Rs. 12,500" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-040",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "In “Balance c/d”, c/d stands for and represents:",
+    "options": [
+      { "id": "A", "text": "Carried down; opening balance" },
+      { "id": "B", "text": "Carried down; closing balance" },
+      { "id": "C", "text": "Closing debit; opening balance" },
+      { "id": "D", "text": "Closing debt; closing balance" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-041",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Nominal ledger is alternative name of:",
+    "options": [
+      { "id": "A", "text": "Receivables ledger" },
+      { "id": "B", "text": "Payables ledger" },
+      { "id": "C", "text": "General ledger" },
+      { "id": "D", "text": "Memorandum ledger" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-042",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Loan taken from friend Rs. 20,000 for 6 months subject to 10% interest thereon. The correct double entry at time of obtaining loan shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Cash Rs. 20,000; Interest Rs. 2,000 and Cr. Loan Rs. 22,000" },
+      { "id": "B", "text": "Dr. Cash Rs. 20,000; Interest Rs. 2,000 and Cr. Loan Rs. 20,000 and Interest payable Rs. 2,000" },
+      { "id": "C", "text": "Dr. Cash Rs. 20,000 and Cr. Loan Rs. 18,000 and interest payable Rs. 2,000" },
+      { "id": "D", "text": "Dr. Cash Rs. 20,000 and Cr. Loan Rs. 20,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-043",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "At year-end, closing entry to close the sales account shall be:",
+    "options": [
+      { "id": "A", "text": "Sales account Debit, statement of financial position Credit" },
+      { "id": "B", "text": "Sales account Debit, Statement of comprehensive income Credit" },
+      { "id": "C", "text": "Statement of financial position Debit, Sales account Credit" },
+      { "id": "D", "text": "Statement of comprehensive income Debit, Sales Credit" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-ST-044",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Posting for total of discount received column of cash book is made in the following:",
+    "options": [
+      { "id": "A", "text": "Receivables ledger" },
+      { "id": "B", "text": "Payables ledger" },
+      { "id": "C", "text": "Trial balance" },
+      { "id": "D", "text": "General ledger" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-045",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "The process of extracting balances can be better explained as:",
+    "options": [
+      { "id": "A", "text": "Transferring balances from ledgers to trial balance" },
+      { "id": "B", "text": "Transferring balances from journal to ledgers" },
+      { "id": "C", "text": "Transferring balances from journal to trial balance" },
+      { "id": "D", "text": "Transferring balances from transactions to trial balance" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-046",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Chart of accounts is basically the list of accounts created by the business. Which of the following statement(s) is/are correct.\n- Each general ledger account is identified by a unique code and heading.\n- A company can prepare its own chart of accounts as per its own requirements.\n- Generic chart of account issued by Government must be used by each businessman.",
+    "options": [
+      { "id": "A", "text": "Each general ledger account is identified by a unique code and heading." },
+      { "id": "B", "text": "A company can prepare its own chart of accounts as per its own requirements." }
+    ],
+    "correctOption": "A,B"
+  },
+  {
+    "id": "PRC1-CH03-ST-047",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Total of debit and credit column of a trial balance should be equal. It indicates that there is no.",
+    "options": [
+      { "id": "A", "text": "Omission" },
+      { "id": "B", "text": "Fraud" },
+      { "id": "C", "text": "Embezzlement" },
+      { "id": "D", "text": "Arithmetical error" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-ST-048",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Closing entry for expense at the end of financial year is:",
+    "options": [
+      { "id": "A", "text": "Debit Expenses account; Credit statement of comprehensive income" },
+      { "id": "B", "text": "Debit Expenses account; Credit statement of financial position" },
+      { "id": "C", "text": "Debit statement of comprehensive income; Credit Expense account" },
+      { "id": "D", "text": "Debit statement of financial position; Credit Expense account" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-ST-049",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Credit Sales invoice shall be recorded in:",
+    "options": [
+      { "id": "A", "text": "Sales day book and posted in receivables ledger" },
+      { "id": "B", "text": "Cash book and posted in receivables ledger" },
+      { "id": "C", "text": "Cash book and posted in general ledger" },
+      { "id": "D", "text": "Sales day book and posted in general ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-ST-050",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "self-test",
+    "questionText": "Closing journal entry to transfer the net loss for the year is:",
+    "options": [
+      { "id": "A", "text": "Statement of comprehensive income Debit Capital account Credit" },
+      { "id": "B", "text": "Capital account Debit Statement of comprehensive income Credit" },
+      { "id": "C", "text": "Statement of financial position Debit Capital account Credit" },
+      { "id": "D", "text": "Net loss Debit Statement of comprehensive income Credit" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-001",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The process of transferring transaction from journal to ledgers is called?",
+    "options": [
+      { "id": "A", "text": "Journalizing" },
+      { "id": "B", "text": "Summarizing" },
+      { "id": "C", "text": "Posting" },
+      { "id": "D", "text": "Analysing" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-002",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The total of debit side of an account is Rs. 16,000 and total of credit side is Rs. 22,000. The balance carried forward shall be written:",
+    "options": [
+      { "id": "A", "text": "On left side Rs. 6,000" },
+      { "id": "B", "text": "On right side Rs. 6,000" },
+      { "id": "C", "text": "On left side Rs. 38,000" },
+      { "id": "D", "text": "On right side Rs. 38,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-003",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "How different formats of ledgers are balanced?",
+    "options": [
+      { "id": "A", "text": "T account: periodically & Running balance account: periodically" },
+      { "id": "B", "text": "T account: after each transaction & Running balance account: after each transaction" },
+      { "id": "C", "text": "T account: periodically & Running balance account: after each transaction" },
+      { "id": "D", "text": "T account: after each transaction & Running balance account: periodically" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-004",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The total of debit side of an account is Rs. 16,000 and total of credit side is Rs. 22,000. The balance brought forward shall be written after balancing the account:",
+    "options": [
+      { "id": "A", "text": "On left side Rs. 6,000" },
+      { "id": "B", "text": "On right side Rs. 6,000" },
+      { "id": "C", "text": "On left side Rs. 38,000" },
+      { "id": "D", "text": "On right side Rs. 38,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-005",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The total of debit side of an account is Rs. 60,000 and total of credit side is Rs. 22,000. The balance brought forward shall be written after balancing the account:",
+    "options": [
+      { "id": "A", "text": "On left side Rs. 6,000" },
+      { "id": "B", "text": "On right side Rs. 6,000" },
+      { "id": "C", "text": "On left side Rs. 38,000" },
+      { "id": "D", "text": "On right side Rs. 38,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-006",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The total of debit side of an account is Rs. 60,000 and total of credit side is Rs. 22,000. The balance carried forward shall be written:",
+    "options": [
+      { "id": "A", "text": "On left side Rs. 6,000" },
+      { "id": "B", "text": "On right side Rs. 6,000" },
+      { "id": "C", "text": "On left side Rs. 38,000" },
+      { "id": "D", "text": "On right side Rs. 38,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-007",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "An entity maintains running balance account ledger. A customer had balance of Rs. 18,000 debit. A further sale of Rs. 10,000 was made to him and he paid Rs. 15,000 by cheque. What would be his account balance after posting all transactions?",
+    "options": [
+      { "id": "A", "text": "Rs. 13,000 credit" },
+      { "id": "B", "text": "Rs. 13,000 debit" },
+      { "id": "C", "text": "Rs. 18,000 debit (unchanged)" },
+      { "id": "D", "text": "Rs. 3,000 debit" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-008",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The Return Inwards account would be found in",
+    "options": [
+      { "id": "A", "text": "The Sales ledger" },
+      { "id": "B", "text": "The Nominal ledger" },
+      { "id": "C", "text": "The Purchases Returns ledger" },
+      { "id": "D", "text": "The Purchases ledger" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-009",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The sales account is part of:",
+    "options": [
+      { "id": "A", "text": "General ledger" },
+      { "id": "B", "text": "Sales ledger" },
+      { "id": "C", "text": "Receivables ledger" },
+      { "id": "D", "text": "Payables ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-010",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The purchases account is part of:",
+    "options": [
+      { "id": "A", "text": "General ledger" },
+      { "id": "B", "text": "Sales ledger" },
+      { "id": "C", "text": "Purchases ledger" },
+      { "id": "D", "text": "Payables ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-011",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each invoice value from sales journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customer account in Receivables Ledger." },
+      { "id": "B", "text": "debit side of individual customer account in Receivables Ledger." },
+      { "id": "C", "text": "credit side of sales account in General Ledger." },
+      { "id": "D", "text": "debit side of sales account in General Ledger." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-012",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The periodic total from sales journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customer account in Receivables Ledger." },
+      { "id": "B", "text": "debit side of individual customer account in Receivables Ledger." },
+      { "id": "C", "text": "credit side of sales account in General Ledger." },
+      { "id": "D", "text": "debit side of sales account in General Ledger." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-013",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each return inward (credit note issued) from sales return journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customer account in Receivables Ledger." },
+      { "id": "B", "text": "debit side of individual customer account in Receivables Ledger." },
+      { "id": "C", "text": "credit side of sales return account in General Ledger." },
+      { "id": "D", "text": "debit side of sales return account in General Ledger." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-014",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The periodic total from sales return journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customer account in Receivables Ledger." },
+      { "id": "B", "text": "debit side of individual customer account in Receivables Ledger." },
+      { "id": "C", "text": "credit side of sales return account in General Ledger." },
+      { "id": "D", "text": "debit side of sales return account in General Ledger." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-015",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each purchase invoice value from purchases journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual supplier account in Payables Ledger." },
+      { "id": "B", "text": "debit side of individual supplier account in Payables Ledger." },
+      { "id": "C", "text": "credit side of purchases account in General Ledger." },
+      { "id": "D", "text": "debit side of Purchases account in General Ledger." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-016",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The periodic total from purchases journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual supplier account in Payables Ledger." },
+      { "id": "B", "text": "debit side of individual supplier account in Payables Ledger." },
+      { "id": "C", "text": "credit side of purchases account in General Ledger." },
+      { "id": "D", "text": "debit side of Purchases account in General Ledger." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-017",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each return outwards from purchase return journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual supplier account in Payables Ledger." },
+      { "id": "B", "text": "debit side of individual supplier account in Payables Ledger." },
+      { "id": "C", "text": "credit side of purchase return account in General Ledger." },
+      { "id": "D", "text": "debit side of purchase return account in General Ledger." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-018",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The period total of purchase return journal is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual supplier account in Payables Ledger." },
+      { "id": "B", "text": "debit side of individual supplier account in Payables Ledger." },
+      { "id": "C", "text": "credit side of purchase return account in General Ledger." },
+      { "id": "D", "text": "debit side of purchase return account in General Ledger." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-019",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each payment to supplier as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "debit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "B", "text": "debit side of relevant account in General Ledger" },
+      { "id": "C", "text": "credit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "D", "text": "credit side of discount received account in General Ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-020",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each payment, other than those to suppliers, as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "debit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "B", "text": "debit side of relevant account in General Ledger" },
+      { "id": "C", "text": "credit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "D", "text": "credit side of discount received account in General Ledger" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-021",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Discount received from each supplier as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "debit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "B", "text": "debit side of relevant account in General Ledger" },
+      { "id": "C", "text": "credit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "D", "text": "credit side of discount received account in General Ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-022",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Total of discount received column as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "debit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "B", "text": "debit side of relevant account in General Ledger" },
+      { "id": "C", "text": "credit side of individual suppliers’ account in Payables Ledger" },
+      { "id": "D", "text": "credit side of discount received account or Purchases account in General Ledger" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-023",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each receipt from customer as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customers’ account in Receivables Ledger" },
+      { "id": "B", "text": "credit side of relevant account in General Ledger" },
+      { "id": "C", "text": "debit side of individual customers’ account in Receivables Ledger" },
+      { "id": "D", "text": "debit side of discount allowed account in General Ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-024",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Each receipt (other than from customers) as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customers’ account in Receivables Ledger" },
+      { "id": "B", "text": "credit side of relevant account in General Ledger" },
+      { "id": "C", "text": "debit side of individual customers’ account in Receivables Ledger" },
+      { "id": "D", "text": "debit side of discount allowed account in General Ledger" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-025",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Discount allowed to each customer as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customers’ account in Receivables Ledger" },
+      { "id": "B", "text": "credit side of relevant account in General Ledger" },
+      { "id": "C", "text": "debit side of individual customers’ account in Receivables Ledger" },
+      { "id": "D", "text": "debit side of discount allowed account or sales account in General Ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-026",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Total of discount allowed column as recorded in Cash Book is posted to:",
+    "options": [
+      { "id": "A", "text": "credit side of individual customers’ account in Receivables Ledger" },
+      { "id": "B", "text": "credit side of relevant account in General Ledger" },
+      { "id": "C", "text": "debit side of individual customers’ account in Receivables Ledger" },
+      { "id": "D", "text": "debit side of discount allowed account or sales account in General Ledger" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-027",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "An entity recorded the following journal entry in its General Journal:\n\n| Account | Amount Rs. |\n| :--- | :---: |\n| Furniture | 500,000 |\n| Interwood (supplier) | 500,000 |\n\nHow this would be posted in the ledger account of “Furniture”?",
+    "options": [
+      { "id": "A", "text": "On debit side with description “Furniture” and amount Rs. 500,000" },
+      { "id": "B", "text": "On credit side with description “Furniture” and amount Rs. 500,000" },
+      { "id": "C", "text": "On debit side with description “Interwood” and amount Rs. 500,000" },
+      { "id": "D", "text": "On credit side with description “Interwood” and amount Rs. 500,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-028",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "An entity recorded the following journal entry in its General Journal:\n\n| Account | Amount Rs. |\n| :--- | :---: |\n| Furniture | 500,000 |\n| Interwood (supplier) | 500,000 |\n\nHow this would be posted in the ledger account of “Interwood”?",
+    "options": [
+      { "id": "A", "text": "On debit side with description “Furniture” and amount Rs. 500,000" },
+      { "id": "B", "text": "On credit side with description “Furniture” and amount Rs. 500,000" },
+      { "id": "C", "text": "On debit side with description “Interwood” and amount Rs. 500,000" },
+      { "id": "D", "text": "On credit side with description “Interwood” and amount Rs. 500,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-029",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Which of the following would normally be a credit balance in the trial balance?\ni. Loan\nii. Owner’s capital\niii. Drawings\niv. Purchases",
+    "options": [
+      { "id": "A", "text": "(i) and (ii)" },
+      { "id": "B", "text": "(i) and (iii)" },
+      { "id": "C", "text": "(ii) and (iii)" },
+      { "id": "D", "text": "(ii) and (iv)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-030",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "A debit balance would be expected to arise when the accounts are balanced at the period end on which of the following accounts?",
+    "options": [
+      { "id": "A", "text": "Capital" },
+      { "id": "B", "text": "Sales" },
+      { "id": "C", "text": "Electricity" },
+      { "id": "D", "text": "Loan" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-031",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "A business buys machinery costing Rs. 120,000 and sells machinery costing Rs. 18,000 in the year. The opening balance of the machinery account is Rs. 80,000.\nWhat will be the balance brought down in the next period?",
+    "options": [
+      { "id": "A", "text": "Rs. 102,000" },
+      { "id": "B", "text": "Rs. 200,000" },
+      { "id": "C", "text": "Rs. 182,000" },
+      { "id": "D", "text": "Rs. 164,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-032",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "A company had a cash balance of Rs. 18,000 at the start of the month. During the month, the following transactions occurred:\ni. Sales on credit Rs. 72,000\nii. Cash from trade receivables Rs. 49,000\niii. Purchases on credit Rs. 33,000\niv. Payments to trade payables Rs. 35,000\nWhat was the cash balance at the end of the month?",
+    "options": [
+      { "id": "A", "text": "Rs. 67,000" },
+      { "id": "B", "text": "Rs. 32,000" },
+      { "id": "C", "text": "Rs. 18,000" },
+      { "id": "D", "text": "Rs. 49,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-033",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "An accountant has inserted all the relevant figures into the trade payables account, but has not yet balanced off the account.\n\n| Accounts payable a/c Particulars | Rs. | Particulars | Rs. |\n| :--- | :---: | :--- | :---: |\n| Bank a/c | 100,750 | b/d | 250,225 |\n| | | Purchases | 325,010 |\n\nAssuming there are no other entries to be made, other than to balance off the account, what is the closing balance on the trade payables account?",
+    "options": [
+      { "id": "A", "text": "Rs. 250,225" },
+      { "id": "B", "text": "Rs. 325,010" },
+      { "id": "C", "text": "Rs. 575,235" },
+      { "id": "D", "text": "Rs. 474,485" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-034",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "You are given the following information:\n- Receivables at 1 January 2018: Rs. 10,000\n- Receivables at 31 December 2018: Rs. 9,000\n- Total receipts during 2018 (including cash sales of Rs. 5,000): Rs. 85,000\nWhat are sales on credit during 2018?",
+    "options": [
+      { "id": "A", "text": "Rs. 85,000" },
+      { "id": "B", "text": "Rs. 74,000" },
+      { "id": "C", "text": "Rs. 79,000" },
+      { "id": "D", "text": "Rs. 90,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-035",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Following information is available about Saim:\n- Receivable as on January 1, 2018: Rs. 70,000\n- Receivable as on December 31, 2018: Rs. 25,000\n- Cash received from customers during the year: Rs. 250,000\n- Settlement discount allowed to customers: Rs. 4,000\nThere are no return inwards or cash sales. Saim recorded all sales expecting that customers will not claim early payment discount.\nAt what amount Sales Revenue shall be reported in financial statements?",
+    "options": [
+      { "id": "A", "text": "Rs. 291,000" },
+      { "id": "B", "text": "Rs. 250,000" },
+      { "id": "C", "text": "Rs. 205,000" },
+      { "id": "D", "text": "Rs. 209,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-036",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Alia’s Account payable ledger has a balance of Rs. 95,000 credit as on January 1, 2018. During the month, following transactions were performed:\n- Credit purchases: Rs. 221,000\n- Cash purchases: Rs. 85,000\n- Cheques issued to credit suppliers (after receiving discount of Rs. 2,000): Rs. 148,000\n- Credit purchases return: Rs. 8,000\nWhat is the amount shown in Account payable ledger as on January 31, 2018?",
+    "options": [
+      { "id": "A", "text": "Rs. 158,000" },
+      { "id": "B", "text": "Rs. 160,000" },
+      { "id": "C", "text": "Rs. 243,000" },
+      { "id": "D", "text": "Rs. 245,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-037",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Following information relates to Sales transaction of Sabir during March 2019:\n- Receivables as at 1 March: Rs. 35,000\n- Receivables as at 31 March: Rs. 42,000\n- Receipts during the period (after allowing discount of Rs. 4,000): Rs. 29,000\nWhat is the amount of credit sales (net) during March?",
+    "options": [
+      { "id": "A", "text": "Rs. 40,000" },
+      { "id": "B", "text": "Rs. 35,000" },
+      { "id": "C", "text": "Rs. 42,000" },
+      { "id": "D", "text": "Rs. 36,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-038",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "A payable account contains the following relevant entries for the year ended 31 December 2018:\n- Payment through bank: Rs. 160,000\n- Credit purchases during the year: Rs. 185,000\n- Discount received: Rs. 16,000\n- Contra with receivable account: Rs. 7,000\n- Balance c/d as on Dec 31, 2018: Rs. 22,000\nThere are no other transactions related to account payable.\nWhat is the amount of balance b/d of account payable account as on 1 January 2018?",
+    "options": [
+      { "id": "A", "text": "Rs. 25,000" },
+      { "id": "B", "text": "Rs. 20,000" },
+      { "id": "C", "text": "Rs. 22,000" },
+      { "id": "D", "text": "Rs. 18,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-039",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "A receivable ledger account at 1 June 2017 had balances of Rs. 32,850 debit.\nDuring the year, sales (net of trade discount) of Rs. 245,000 were made on credit.\nReceipts from customers amounted to Rs. 210,200 and cash discounts of Rs. 700 were allowed. Refunds of Rs. 1,300 were made to customers.\nWhat should be the closing balance at 31 May 2018 of account receivable account?",
+    "options": [
+      { "id": "A", "text": "Rs. 67,250" },
+      { "id": "B", "text": "Rs. 69,250" },
+      { "id": "C", "text": "Rs. 68,250" },
+      { "id": "D", "text": "Rs. 65,250" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-040",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Which of the following statement(s) is/are true?\ni. The chart of accounts is a listing of the accounts presently having balances in the general ledger.\nii. The digits of the account numbers assigned to general ledger accounts often have significance. For example, an account number beginning with a \"1\" might signify that the account is an asset account, a \"6\" might signify an operating expense, etc.",
+    "options": [
+      { "id": "A", "text": "(i) only" },
+      { "id": "B", "text": "(ii) only" },
+      { "id": "C", "text": "(i) and (ii) both" },
+      { "id": "D", "text": "Neither (i) nor (ii)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-041",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Which of the following is/are characteristics of a good chart of accounts?",
+    "options": [
+      { "id": "A", "text": "Each account is identified by unique code and heading" },
+      { "id": "B", "text": "The design allows future changes and additions after due approvals" },
+      { "id": "C", "text": "It ensures that all transactions are recorded according to business requirement" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-042",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "The list of chart of accounts (with unique codes) is usually arranged in:",
+    "options": [
+      { "id": "A", "text": "Chronological order" },
+      { "id": "B", "text": "Random order" },
+      { "id": "C", "text": "Order of appearance of accounts in financial statements" },
+      { "id": "D", "text": "Sorted order (higher amounts first)" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-043",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "A trial balance is made up of a list of debit balances and credit balances.\nWhich of the following statements is correct?",
+    "options": [
+      { "id": "A", "text": "Every debit balance represents an expense" },
+      { "id": "B", "text": "Assets are represented by debit balances" },
+      { "id": "C", "text": "Liabilities are represented by debit balances" },
+      { "id": "D", "text": "Income is included in the list of debit balances" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-044",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Basheer has extracted the following list of balances from his general ledger at 31 October 2015:\n\n| Accounts | Rs. |\n| :--- | :---: |\n| Sales | 258,542 |\n| Purchases | 142,958 |\n| Expenses | 34,835 |\n| Non-current assets (carrying amount) | 63,960 |\n| Receivables | 31,746 |\n| Payables | 13,864 |\n| Cash at bank | 1,783 |\n| Capital | 12,525 |\n\nWhat is the total of the debit balances in Basheer's trial balance at 31 October 2015?",
+    "options": [
+      { "id": "A", "text": "Rs. 267,049" },
+      { "id": "B", "text": "Rs. 275,282" },
+      { "id": "C", "text": "Rs. 283,148" },
+      { "id": "D", "text": "Rs. 284,931" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH03-APQ-045",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Which of the following are true with reference to a trial balance?",
+    "options": [
+      { "id": "A", "text": "Trial balance is taken as a test of arithmetical accuracy" },
+      { "id": "B", "text": "It is starting point for producing financial statements" },
+      { "id": "C", "text": "It is conclusive proof that double entry book-keeping is free from errors" },
+      { "id": "D", "text": "(a) and (b) only" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-046",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "At the end of accounting period, all credit items of income and expenses are transferred to:",
+    "options": [
+      { "id": "A", "text": "Debit side of Capital account" },
+      { "id": "B", "text": "Credit side of Capital account" },
+      { "id": "C", "text": "Debit side of profit or loss" },
+      { "id": "D", "text": "Credit side of profit or loss" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH03-APQ-047",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "At the end of accounting period, all debit items of income and expenses are transferred to:",
+    "options": [
+      { "id": "A", "text": "Debit side of Capital account" },
+      { "id": "B", "text": "Credit side of Capital account" },
+      { "id": "C", "text": "Debit side of profit or loss" },
+      { "id": "D", "text": "Credit side of profit or loss" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH03-APQ-048",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "At the end of accounting period, an entity incurred net loss of Rs. 15,000 it shall be transferred to:",
+    "options": [
+      { "id": "A", "text": "Debit side of Capital account" },
+      { "id": "B", "text": "Credit side of Capital account" },
+      { "id": "C", "text": "Debit side of profit or loss" },
+      { "id": "D", "text": "Credit side of profit or loss" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-049",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "At the end of accounting period, drawings account has balance of Rs. 8,000, it shall be transferred to:",
+    "options": [
+      { "id": "A", "text": "Debit side of Capital account" },
+      { "id": "B", "text": "Credit side of Capital account" },
+      { "id": "C", "text": "Debit side of profit or loss" },
+      { "id": "D", "text": "Credit side of profit or loss" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH03-APQ-050",
+    "subjectId": "prc-1",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Ledgers and trial balance",
+    "source": "apq",
+    "questionText": "Which statement is true?",
+    "options": [
+      { "id": "A", "text": "The debit balance accounts are closed at the end of accounting period while the credit balance accounts are carried forward to next year" },
+      { "id": "B", "text": "The credit balance accounts are closed at the end of accounting period while the debit balance accounts are carried forward to next year" },
+      { "id": "C", "text": "Income, expenses and drawings accounts are closed at the end of accounting period while assets, liabilities and capital accounts are carried forward to next year" },
+      { "id": "D", "text": "Income, expenses and capital accounts are closed at the end of accounting period while assets, liabilities and drawings accounts are carried forward to next year" }
+    ],
+    "correctOption": "C"
+  }
+]

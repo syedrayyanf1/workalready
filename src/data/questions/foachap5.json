@@ -1,0 +1,1501 @@
+[
+  {
+    "id": "PRC1-CH05-ST-001",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following is NOT a reason for recording the bad debts in books?",
+    "options": [
+      { "id": "A", "text": "Customer was declared insolvent" },
+      { "id": "B", "text": "Customer had died and he had left insufficient assets to its debts" },
+      { "id": "C", "text": "Customer is in severe financial difficulties" },
+      { "id": "D", "text": "Customer showed dishonesty and left without intimating" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-002",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Receivables at start of year was Rs. 100,000 and allowance for doubtful debts was Rs. 5,000. During the year ended 31 December 2022 bad debts of Rs. 4,000 were written off and at end of year receivables were Rs. 120,000. In addition, bad debts recovered were Rs. 3,000. Company’s estimate of general allowance % remained same.\nHow much net amount shall be transfer to statement of comprehensive income for the year ended 31 December 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 2,000 Dr." },
+      { "id": "B", "text": "Rs. 2,000 Cr." },
+      { "id": "C", "text": "Rs. 8,000 Dr." },
+      { "id": "D", "text": "Rs. 8,000 Cr." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-003",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Baha Enterprises has provided the following data for year ended 30 June 2022:\n- Accounts receivables balance at 1 July 2021: Rs. 185,000\n- Credit sales during the year: Rs. 645,000\n- Bad debts written off Rs. 5,000 and to be written off Rs. 3,000\n- Cash and cheques received from customers: Rs. 627,800\n- Bad debts recovered Rs. 7,000 (included in above cash and cheques received)\n- Accounts receivables balance at 30 June 2022: Rs. 186,400 (calculated on the basis of entries already passed)\nThe amount of credit sales returns during the year ended 30 June 2022 was:",
+    "options": [
+      { "id": "A", "text": "Rs. 7,800" },
+      { "id": "B", "text": "Rs. 10,800" },
+      { "id": "C", "text": "Rs. 17,800" },
+      { "id": "D", "text": "Rs. 14,800" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-004",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The following ledger account was extracted from books of Haseeb:\n\n| Receivables Account Debit Side | Rs. | Receivables Account Credit Side | Rs. |\n| :--- | :---: | :--- | :---: |\n| Balance b/f | 150,000 | Cash | 150,000 |\n| Sales | 600,000 | Bank | 418,000 |\n| Payables (contra) | 18,000 | Discount received | 5,000 |\n| Discount allowed | 4,000 | Bad debts | 19,000 |\n| Sales returns | 3,000 | Increase in allowance | 15,000 |\n| | | Balance c/f | 168,000 |\n\nAfter correction, the receivables balance at end of year.",
+    "options": [
+      { "id": "A", "text": "Rs. 146,000" },
+      { "id": "B", "text": "Rs. 138,000" },
+      { "id": "C", "text": "Rs. 133,000" },
+      { "id": "D", "text": "Rs. 118,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-005",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Tipu’s receivables ledger balance as at 30 June 2022 was Rs. 330,000 before making the following adjustment:\n1. Tipu had identified that NM Enterprise’s debt of Rs. 8,500 should be written off\n2. Tipu intends to make 100% allowance against receivables of Rs. 15,000 from Raja & Co.\n3. Tipu’s estimate is to create general allowance of 5% of receivables balance whereas opening balance of the allowance was Rs. 22,100\nWhat will be corrected balance of receivables and allowance for doubtful debts which should be shown in statement of financial position as at 30 June 2022?",
+    "options": [
+      { "id": "A", "text": "Receivables Rs. 330,000 and allowance for doubtful debts of Rs. 9,400" },
+      { "id": "B", "text": "Receivables Rs. 330,000 and allowance for doubtful debts of Rs. 31,500" },
+      { "id": "C", "text": "Receivables Rs. 321,500 and allowance for doubtful debts of Rs. 30,325" },
+      { "id": "D", "text": "Receivables Rs. 321,500 and allowance for doubtful debts of Rs. 31,075" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-006",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Journal entry to record increase in allowance during the year is:",
+    "options": [
+      { "id": "A", "text": "Dr. Bad debt expense Cr. Allowance for doubtful debts" },
+      { "id": "B", "text": "Dr. Accounts receivables Cr. Allowance for doubtful debts" },
+      { "id": "C", "text": "Dr. Allowance for doubtful debts Cr. Bad debt expense" },
+      { "id": "D", "text": "Dr. Allowance for doubtful debts Cr. Accounts receivables" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-007",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Accountant of ABC Co has wrongly overstated the allowance for doubtful debts at year-end by Rs. 3,800. The impact is:",
+    "options": [
+      { "id": "A", "text": "Profit has been overstated by Rs. 3,800" },
+      { "id": "B", "text": "Net current assets have been understated by Rs. 3,800" },
+      { "id": "C", "text": "Profit has been understated by Rs. 3,800" }
+    ],
+    "correctOption": "B,C"
+  },
+  {
+    "id": "PRC1-CH05-ST-008",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "A customer who owed Rs. 50,000 was declared bankrupt and it is expected that 20% shall be recovered from him as final settlement. The double entry to be recorded in books shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Bad and doubtful debts expense Rs. 50,000 and Cr. Receivables Rs. 50,000" },
+      { "id": "B", "text": "Dr. Bad and doubtful debts expense Rs. 40,000 and Cr. Receivables Rs. 40,000" },
+      { "id": "C", "text": "Dr. Bad and doubtful debts expense Rs. 10,000 and Cr. Receivables Rs. 10,000" },
+      { "id": "D", "text": "Dr. Receivables Rs. 40,000 and Cr. Bad and doubtful debts expense Rs. 40,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-009",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Following data is provided by Sahib International for the year ended 30 September 2022:\n- Bad debts written off: Rs. 1,800\n- Bad debts to be written off: Rs. 2,500\n- Accounts receivables as at 30 September 2022: Rs. 325,000\n- Specific allowance: Rs. 15,000\n- General allowance: 4%\nTotal amount charged to statement of comprehensive income in respect of bad debts and doubtful debts Rs. 16,200 including bad debts to be written off.\nThe allowance for doubtful debts as at 1 October 2021 of Sahib International was:",
+    "options": [
+      { "id": "A", "text": "Rs. 1,000" },
+      { "id": "B", "text": "Rs. 13,000" },
+      { "id": "C", "text": "Rs. 15,328" },
+      { "id": "D", "text": "Rs. 15,400" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-010",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The journal entry to record the bad debts written off:",
+    "options": [
+      { "id": "A", "text": "Dr. Bad debts and Cr. Allowance for doubtful debts" },
+      { "id": "B", "text": "Dr. Bad debts and Cr. Accounts receivables" },
+      { "id": "C", "text": "Dr. Allowance for doubtful debts and Cr. Bad debts" },
+      { "id": "D", "text": "Dr. Accounts receivables and Cr. Bad debts" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-011",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Samar International receivables as at 30 June 2022 included Rs. 50,000 from Junaid Sons. It included Rs. 15,000 related to work that Junaid Sons feels as sub-standard. Despite of the fact that Junaid Sons is a good customer, but Samar International is doubtful that Junaid Sons will ever pay Rs. 15,000.\nWhat allowance of doubtful debts should be created by Samar International?",
+    "options": [
+      { "id": "A", "text": "General allowance of Rs. 15,000" },
+      { "id": "B", "text": "Specific allowance of Rs. 15,000" },
+      { "id": "C", "text": "Specific allowance of Rs. 50,000" },
+      { "id": "D", "text": "No allowance for doubtful debts as Junaid Sons is a good customer" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-012",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Receivables balances at end of year was Rs. 250,000; however in reviewing the account it was discovered that following transactions were wrongly entered in receivables ledger.\n1. Bad debts recovered of Rs. 5,000 was wrongly included in cash received from debtors\n2. Decrease in allowance of Rs. 7,500 was wrongly credited in receivables ledger\n3. Discount allowed of Rs. 2,200 was not entered in receivables ledger, rather discount received was wrongly debited in receivables ledger by Rs. 1,700.\nWhat will be corrected receivable balance at end of year?",
+    "options": [
+      { "id": "A", "text": "Rs. 258,100" },
+      { "id": "B", "text": "Rs. 258,600" },
+      { "id": "C", "text": "Rs. 253,600" },
+      { "id": "D", "text": "Rs. 254,600" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-013",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Customer cheque of Rs. 15,000 was returned dishonoured. What entry shall be passed for dishonour cheque?",
+    "options": [
+      { "id": "A", "text": "Dr. Bank and Cr. Receivables" },
+      { "id": "B", "text": "Dr. Receivables and Cr. Bank" },
+      { "id": "C", "text": "Dr. Allowance for doubtful debts and Cr. Bank" },
+      { "id": "D", "text": "Dr. Bad debts expense and Cr. Bank" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-014",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which TWO of the following statements are correct?",
+    "options": [
+      { "id": "A", "text": "Receivables shall be shown in statement of financial position after deducting the allowance for doubtful debts" },
+      { "id": "B", "text": "Receivables shall be shown in statement of financial position on gross value whereas allowance for doubtful debts shall be charged to profit and loss" },
+      { "id": "C", "text": "Increase in allowance for doubtful debts shall be charged as an expense in statement of profit and loss" },
+      { "id": "D", "text": "Credit limit and aged receivables analysis are interchangeable" }
+    ],
+    "correctOption": "A,C"
+  },
+  {
+    "id": "PRC1-CH05-ST-015",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct?\n1. The amount received from customer whose account has already been written off in previous years, is termed as bad debts recovered.\n2. The customer who has not paid invoice since last four months, due to dispute in invoice, is termed as bad debts.",
+    "options": [
+      { "id": "A", "text": "Only statement (1) is correct" },
+      { "id": "B", "text": "Only statement (2) is correct" },
+      { "id": "C", "text": "Both statements are correct" },
+      { "id": "D", "text": "Neither of the statements are correct" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-016",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The allowance for doubtful debts of a company at start of year was Rs. 12,500. The receivables at end of the year were Rs. 400,000 and allowance of 5% was created. An amount of Rs. 16,000 was charged as expense during the year.\nThe amount of specific allowance at end of year was:",
+    "options": [
+      { "id": "A", "text": "Rs. 3,500" },
+      { "id": "B", "text": "Rs. 4,000" },
+      { "id": "C", "text": "Rs. 8,500" },
+      { "id": "D", "text": "Rs. 16,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-017",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "As at 1 July 2021, the balances of accounts receivables and allowance for doubtful debts were Rs. 350,000 and Rs. 14,000.\nDuring the year bad debts of Rs. 10,000 were written off and as at 30 June 2022, the receivables balance was Rs. 400,000. The estimate of creating general allowance was not changed.\nWhat amount should be charged to profit and loss account on account of increase in allowance?",
+    "options": [
+      { "id": "A", "text": "Rs. 1,600" },
+      { "id": "B", "text": "Rs. 2,000" },
+      { "id": "C", "text": "Rs. 11,600" },
+      { "id": "D", "text": "Rs. 12,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-018",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Accounts receivables at start and end of the year were Rs. 300,000 and 360,000 respectively. During the year bad debts of Rs. 5,000 were written off and bad debts previously written off, now recovered Rs. 2,000. Company’s estimate is to create general allowance for doubtful debts at 4%.\nHow much amount was charged to statement of comprehensive income as expense and how much net receivables were recorded in statement of financial position?",
+    "options": [
+      { "id": "A", "text": "SOCI: Rs. 7,400 | SOFP: Rs. 345,600" },
+      { "id": "B", "text": "SOCI: Rs. 5,400 | SOFP: Rs. 345,600" },
+      { "id": "C", "text": "SOCI: Rs. 7,400 | SOFP: Rs. 340,600" },
+      { "id": "D", "text": "SOCI: Rs. 5,400 | SOFP: Rs. 340,600" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-019",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Accounts receivables balance of Inam Traders as at 30 June 2022 before making following adjustments was Rs. 410,000.\n1. Inam Traders has decided to write off debts of Rs. 11,000 relating to customer who has disappeared.\n2. Inam Traders has identified a customer, JJ Sons, who is in financial crisis and owed Rs. 25,000. It was decided to create 80% allowance against JJ Sons receivables.\n3. The estimate of calculating general allowance was 5%.\n4. The allowance for doubtful debts as at 1 July 2021 was Rs. 18,500\nHow much amount shall be charged to statement of comprehensive income for the year ended 30 June 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 200" },
+      { "id": "B", "text": "Rs. 11,200" },
+      { "id": "C", "text": "Rs. 31,200" },
+      { "id": "D", "text": "Rs. 31,450" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-020",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following best describes the purpose of aging analysis of accounts receivables?",
+    "options": [
+      { "id": "A", "text": "To calculate balance of receivables from individual customer" },
+      { "id": "B", "text": "To evaluate the most valuable customer on the basis of sales made by company" },
+      { "id": "C", "text": "To identify the regularities of receivables" },
+      { "id": "D", "text": "To evaluate and identify the irregularities in payments to help company estimate allowance for doubtful debts" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-021",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Minahil, one of the customers, of JSS Industries paid Rs. 25,000 against bad debts written-off in previous year.\nWhat entry should be passed in the books of JSS Industries?",
+    "options": [
+      { "id": "A", "text": "Dr. Cash and Cr. Accounts receivables" },
+      { "id": "B", "text": "Dr. Cash and Cr. Allowance for doubtful debts" },
+      { "id": "C", "text": "Dr. Cash and Cr. Bad debts expense" },
+      { "id": "D", "text": "Dr. Cash and Cr. Accounts payable" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-022",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "After finalising the adjustments, it was found that opening allowance for doubtful debts was overstated and wrong amount was charged to statement of profit and loss account.\nWhat was impact on net profit and net assets for current year on account of above error?",
+    "options": [
+      { "id": "A", "text": "Profit was understated by double amount" },
+      { "id": "B", "text": "Profit was overstated by double amount" },
+      { "id": "C", "text": "Profit was understated by single amount" },
+      { "id": "D", "text": "Profit was overstated by single amount" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-023",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which TWO of following entries can be passed, if bad debts recovered during the year?",
+    "options": [
+      { "id": "A", "text": "Dr. Bad debts expense and Cr. Accounts receivables" },
+      { "id": "B", "text": "Dr. Accounts receivables and Cr. Bad debts expense" },
+      { "id": "C", "text": "Dr. Cash and Cr. Bad debts expense" },
+      { "id": "D", "text": "Dr. Cash and Cr. Bad debts recovered" }
+    ],
+    "correctOption": "C,D"
+  },
+  {
+    "id": "PRC1-CH05-ST-024",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The sales revenue of Noman Sons was Rs. 750,000 of which 20% is cash sales and receivable balance represents 60% of credit sales. Noman Sons has created specific allowance of Rs. 6,000 and also general allowance of 3%.\nAs a result, new allowance for doubtful debts balance was 1.662 times more than opening allowance balance.\nHow much amount shall be charged to statement of comprehensive income?",
+    "options": [
+      { "id": "A", "text": "Rs. 6,620" },
+      { "id": "B", "text": "Rs. 16,692" },
+      { "id": "C", "text": "Rs. 20,000" },
+      { "id": "D", "text": "Cannot be calculated from above data" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-025",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Nasir enterprises allowance for doubtful debts as at 1 July 2021 was Rs. 18,000. During the year, no bad debts were written off, however, at end of year, Nasir Enterprises created specific allowance of Rs. 16,000. The amount of Rs. 17,200 was charged to expense for the year ended 30 June 2022. The accounts receivables as at 30 June 2022 was Rs. 400,000.\nThe % of general allowance that was used to calculate above was:",
+    "options": [
+      { "id": "A", "text": "4.00%" },
+      { "id": "B", "text": "4.30%" },
+      { "id": "C", "text": "4.50%" },
+      { "id": "D", "text": "5.00%" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-026",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Shakeel books showed accounts receivable balance of Rs. 360,000 as at 30 June 2022 and 5% allowance was created. An amount of Rs. 6,300 was charged to statement of comprehensive income for the year ended 30 June 2022.\nSubsequently, it was discovered that bad debts recovered was included in cash received from receivables amounting to Rs. 5,500 and further discount allowed of Rs. 3,500 was written on debit side of receivable ledger.\nWhich of the following statement is correct as result of above error?",
+    "options": [
+      { "id": "A", "text": "Charge for the year was overstated by Rs. 75" },
+      { "id": "B", "text": "Charge for the year was understated by Rs. 75" },
+      { "id": "C", "text": "Charge for the year was overstated by Rs. 100" },
+      { "id": "D", "text": "Charge for the year was understated by Rs. 100" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-027",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Armaghan’s receivables ledger balance as at 30 June 2022 was Rs. 480,000 before making the following adjustments:\n1. Armaghan had identified that Kashif Enterprise’s debt of Rs. 8,500 should be written off.\n2. Armaghan intends to make 60% allowance against receivables of Rs. 15,000 from Rajput Co.\n3. Armaghan estimate is to create general allowance of 4% of receivables balance whereas opening balance of allowance was Rs. 16,800\nWhich of the following statement is true?",
+    "options": [
+      { "id": "A", "text": "Specific allowance Rs. 15,000 and general allowance Rs. 18,260 was created" },
+      { "id": "B", "text": "Specific allowance Rs. 9,000 and general allowance Rs. 18,260 was created" },
+      { "id": "C", "text": "An amount of Rs. 10,460 was charged to statement of comprehensive income" },
+      { "id": "D", "text": "Net receivables of Rs. 438,240 was shown in statement of financial position" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-028",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following treatment is correct?",
+    "options": [
+      { "id": "A", "text": "Bad debts written off are charged to profit and loss and deducted from accounts receivables as allowance for doubtful debts" },
+      { "id": "B", "text": "Increase in allowance for doubtful debts is charged to profit and loss and closing balance of allowance for doubtful debts is deducted from accounts receivables" },
+      { "id": "C", "text": "Bad debts written off are subtracted from increase in allowance and net amount is charged as expense" },
+      { "id": "D", "text": "Bad debts written off and decrease in allowance are added and total amount is charged as expense" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-029",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Receivables at start of year was Rs. 150,000 and company’s estimate is to create allowance of 4% on receivables balance. During the year ended 31 December 2022 bad debts of Rs. 5,000 were written off and Rs. 3,000 were recovered from customer whose account was written off in 2020. At end of year receivables balance was Rs. 160,000 and company’s estimate relating to allowance remained same.\nHow much net amount shall be charged to statement of comprehensive income for the year ended 31 December 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 2,400" },
+      { "id": "B", "text": "Rs. 3,400" },
+      { "id": "C", "text": "Rs. 5,400" },
+      { "id": "D", "text": "Rs. 6,400" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-030",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following TWO are treated as reduction in expense for the year?",
+    "options": [
+      { "id": "A", "text": "Bad debts written off" },
+      { "id": "B", "text": "Increase in allowance for doubtful debts" },
+      { "id": "C", "text": "Decrease in allowance for doubtful debts" },
+      { "id": "D", "text": "Bad debts recovered" }
+    ],
+    "correctOption": "C,D"
+  },
+  {
+    "id": "PRC1-CH05-ST-031",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Accounts receivables as at 31 December 2022 was Rs. 475,000. At end of year, specific allowance was created against following customers:\n- AM Traders Receivable Rs. 25,000 (80% allowance)\n- JM Traders Receivable Rs. 18,000 (50% allowance)\nThe estimate of general allowance was 5% of receivables.\nWhich of the following is correct treatment of calculating general allowance.",
+    "options": [
+      { "id": "A", "text": "General allowance of 5% should be calculated on Rs. 475,000" },
+      { "id": "B", "text": "General allowance of 5% should be calculated on Rs. 455,300" },
+      { "id": "C", "text": "General allowance of 5% should be calculated on Rs. 446,000" },
+      { "id": "D", "text": "General allowance of 5% should be calculated on Rs. 432,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-032",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following is NOT a reason for recording the doubtful debts in books?",
+    "options": [
+      { "id": "A", "text": "Customer is in severe financial difficulties" },
+      { "id": "B", "text": "Customer was declared bankrupt and liquidator confirmed that no amount could be paid to our business" },
+      { "id": "C", "text": "Customer took too long to pay its debts" },
+      { "id": "D", "text": "Customer facing operational difficulties like strikes etc." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-033",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The accounts receivables (net) of a company at June 30, 2022 was Rs. 342,000. The company created an allowance of Rs. 38,000 as at June 30, 2022 including 5% general allowance in respect of doubtful debts.\nThe amount of specific allowance was:",
+    "options": [
+      { "id": "A", "text": "Rs. 20,000" },
+      { "id": "B", "text": "Rs. 20,900" },
+      { "id": "C", "text": "Rs. 19,000" },
+      { "id": "D", "text": "Rs. 15,200" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-034",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Allowance for doubtful debts is:",
+    "options": [
+      { "id": "A", "text": "Asset account" },
+      { "id": "B", "text": "Liability account" },
+      { "id": "C", "text": "Contra for asset account" },
+      { "id": "D", "text": "Contra for liability account" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-035",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "While preparing the aging analysis of accounts receivables, following customers were highlighted who have not paid within credit period.\nFrom company’s point of view, which customer carries more risk of bad debts?",
+    "options": [
+      { "id": "A", "text": "Musa Trading owed Rs. 50,000 and classified in 30-60 days past due" },
+      { "id": "B", "text": "Jamal Sons owed Rs. 40,000 and classified in 120 days past due" },
+      { "id": "C", "text": "Rukhsar Enterprises owed Rs. 30,000 and classified in 1-30 days past due" },
+      { "id": "D", "text": "Mukhtar Industries owed Rs. 100,000 and amount not yet due" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-036",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Balances of Receivables and allowance for doubtful debts were Rs. 200,000 and Rs. 10,000 as at July 1, 2021. During the year ended June 30, 2022 no bad debts were written off. However, as at June 30, 2022 it was discovered that a customer who owed Rs. 8,000 was declared bankrupt and only 30% shall be expected to recover from his estate. As at June 30, 2022 receivables balance before making above adjustments was Rs. 225,000.\nHow much amount shall be charged to statement of comprehensive income for the year ended June 30, 2022, assuming the rate of allowance was not changed?",
+    "options": [
+      { "id": "A", "text": "Rs. 970" },
+      { "id": "B", "text": "Rs. 8,970" },
+      { "id": "C", "text": "Rs. 6,450" },
+      { "id": "D", "text": "Rs. 6,850" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-037",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Receivables account showed balance of Rs. 250,000 at start of year and Rs. 300,000 at end of year. Company’s estimate was changed from 5% to 4% for creating general allowance for doubtful debts. What entry should be passed at end of year?",
+    "options": [
+      { "id": "A", "text": "Dr. Bad and doubtful debts expense Rs. 12,500 and Cr. Allowance for doubtful debts Rs. 12,500" },
+      { "id": "B", "text": "Dr. Bad and doubtful debts expense Rs. 12,000 and Cr. Allowance for doubtful debts Rs. 12,000" },
+      { "id": "C", "text": "Dr. Bad and doubtful debts expense Rs. 500 and Cr. Allowance for doubtful debts Rs. 500" },
+      { "id": "D", "text": "Dr. Allowance for doubtful debts Rs. 500 and Cr. Bad and doubtful debts expense Rs. 500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-038",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Nishat showed net receivables of Rs. 220,800 in its statement of financial position at 30 June 2021 and at 30 June 2022 at Rs. 244,400. Allowance for doubtful debts was increased from 4% to 6% at 30 June 2022. Bad debts written off during the year were Rs. 6,000.\nHow much amount was charged to statement of comprehensive income for the year ended 30 June 2022 in relation to increase in allowance?",
+    "options": [
+      { "id": "A", "text": "Rs. 6,400" },
+      { "id": "B", "text": "Rs. 5,832" },
+      { "id": "C", "text": "Rs. 12,400" },
+      { "id": "D", "text": "Rs. 11,832" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-ST-039",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following is NOT a benefit of providing credit to customers?",
+    "options": [
+      { "id": "A", "text": "May result in enhancing sales" },
+      { "id": "B", "text": "Enhancing customer loyalty" },
+      { "id": "C", "text": "Attracts new customers" },
+      { "id": "D", "text": "Improves the cash flow of the business" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-040",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The following balances relate to Suneel Sons:\n- Receivables as at 1-January-2022: Rs. 250,000\n- Increase in allowance for doubtful debts: Rs. 6,000\n- Sales returns: Rs. 5,000 (of which 80% is related to credit sales)\n- Total Sales: Rs. 700,000 (of which 20% is cash sales)\n- Cheque dishonoured: Rs. 12,500\n- Bad debts written off: Rs. 8,300\n- Discount received: Rs. 3,500\n- Receivables as at 31-December-2022: Rs. 280,000\nHow much cash and cheques received from customers during the year ended 31 December 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 524,200" },
+      { "id": "B", "text": "Rs. 520,700" },
+      { "id": "C", "text": "Rs. 659,700" },
+      { "id": "D", "text": "Rs. 530,200" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-041",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct?",
+    "options": [
+      { "id": "A", "text": "An example of doubtful debts includes customer delaying the payment because of facing financial difficulties." },
+      { "id": "B", "text": "The entry to record doubtful debt is Dr. Bad debts expense and Cr. Accounts receivables" },
+      { "id": "C", "text": "When an allowance is created against doubtful debts, it is recognised as expense" },
+      { "id": "D", "text": "The journal entry of increase in allowance is Dr. Allowance for doubtful debts and Cr. bad debts expense" }
+    ],
+    "correctOption": "A,C"
+  },
+  {
+    "id": "PRC1-CH05-ST-042",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Mr. Khan is our customer and supplier as well. The amount due to Mr. Khan was Rs. 25,800 and amount due from Mr. Khan was Rs. 29,600.\nWhich of following entry is correct on account of above contra settlement?",
+    "options": [
+      { "id": "A", "text": "Dr. Receivables Rs. 3,800 and Cr. Payables Rs. 3,800" },
+      { "id": "B", "text": "Dr. Payables Rs. 3,800 and Cr. Receivables Rs. 3,800" },
+      { "id": "C", "text": "Dr. Payables Rs. 29,600 and Cr. Receivables Rs. 29,600" },
+      { "id": "D", "text": "Dr. Payables Rs. 25,800 and Cr. Receivables Rs. 25,800" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-043",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The opening and closing allowances of doubtful debts of a company were Rs. 15,200 and 16,800. The accountant treated opening allowance as closing allowance and vice versa.\nWhich of the following statements is true as result of above error?",
+    "options": [
+      { "id": "A", "text": "Charge for the year was overstated by Rs. 1,600" },
+      { "id": "B", "text": "Charge for the year was understated by Rs. 1,600" },
+      { "id": "C", "text": "Charge for the year was overstated by Rs. 3,200" },
+      { "id": "D", "text": "Charge for the year was understated by Rs. 3,200" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-044",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "The accountant has made entry for increase in allowance during the year as “debit allowance for doubtful debts and credit bad debts expense by Rs. 12,500”.\nWhat was the impact of error?",
+    "options": [
+      { "id": "A", "text": "Profit was understated by Rs. 12,500" },
+      { "id": "B", "text": "Profit was understated by Rs. 25,000" },
+      { "id": "C", "text": "Profit was overstated by Rs. 12,500" },
+      { "id": "D", "text": "Profit was overstated by Rs. 25,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-045",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Journal entry to record decrease in allowance during the year was:",
+    "options": [
+      { "id": "A", "text": "Dr. Bad debt expense Cr. Allowance for doubtful debts" },
+      { "id": "B", "text": "Dr. Accounts receivables Cr. Allowance for doubtful debts" },
+      { "id": "C", "text": "Dr. Allowance for doubtful debts Cr. Bad debt expense" },
+      { "id": "D", "text": "Dr. Allowance for doubtful debts Cr. Accounts receivables" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-046",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Accounts receivables, net of allowance were Rs. 66,500 as at 1 July 2021 and Rs. 76,000 as at 30 June 2022. Company’s estimate is to create general allowance at 5% of receivable balance. During the year ended 30 June 2022 cash sales of Rs. 50,000 was made; cash of Rs. 125,500 and cheque of Rs. 130,000 were received, of which Rs. 5,500 was related to bad debts recovered. Irrecoverable debts written off were Rs. 9,000; discount allowed and received Rs. 3,000 and 2,000 respectively whereas contra settlement with payables was Rs. 6,000.\nWhat was the gross sales amount which shall be recognized as revenue in statement of comprehensive income for the year ended 30 June 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 279,000" },
+      { "id": "B", "text": "Rs. 278,000" },
+      { "id": "C", "text": "Rs. 277,500" },
+      { "id": "D", "text": "Rs. 328,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-047",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following net amount is charged to profit and loss account during the year.",
+    "options": [
+      { "id": "A", "text": "Bad debts written off + bad debts to be written off + Decrease in allowance – bad debts recovered" },
+      { "id": "B", "text": "Bad debts written off + bad debts to be written off + increase in allowance – bad debts recovered" },
+      { "id": "C", "text": "Bad debts written off + bad debts to be written off + Decrease in allowance + bad debts recovered" },
+      { "id": "D", "text": "Bad debts written off + bad debts to be written off - Increase in allowance – bad debts recovered" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-ST-048",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Receivables balances at start and end of year were Rs. 175,000 and Rs. 193,000 (after already passed entries). Discount allowed Rs. 6,000; Discount received Rs. 3,000; Bad debts written off Rs. 2,000; Bad debts to be written off Rs. 4,000. Increase in allowance Rs. 6,700; Cheque received from suppliers Rs. 53,000 and from customers Rs. 356,000; Cash sales Rs. 45,000; Sales returns Rs. 6,000 (of which one-third related to cash sales)\nWhat will be net credit sales for the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 382,000" },
+      { "id": "B", "text": "Rs. 427,000" },
+      { "id": "C", "text": "Rs. 425,000" },
+      { "id": "D", "text": "Rs. 376,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-ST-049",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Balance of accounts receivables as at 1 January 2022 was Rs. 500,000 and company’s estimate is to create general allowance of 5% of accounts receivables.\nAs at 31 December 2022, the account receivable balance was Rs. 540,000 but it was discovered that one of the customer was declared bankrupt and an amount of Rs. 48,000 has to be written off. The company has changed its estimate to create general allowance and new estimate is 6% of accounts receivables.\nWhat journal entry should be passed at year end to adjust the above event?",
+    "options": [
+      { "id": "A", "text": "Dr. Bad and doubtful debts Rs. 4,520 and Cr. Allowance for doubtful debts Rs. 4,520" },
+      { "id": "B", "text": "Dr. Allowance for doubtful debts Rs. 4,520 and Cr. Bad and doubtful debts Rs. 4,520" },
+      { "id": "C", "text": "Dr. Bad and doubtful debts Rs. 52,520 and Cr. Accounts receivables Rs. 48,000; Allowance for doubtful debts Rs. 4,520" },
+      { "id": "D", "text": "Dr. Bad and doubtful debts Rs. 52,520 and Cr. Allowance for doubtful debts Rs. 52,520" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-ST-050",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "self-test",
+    "questionText": "Which of the following accounting concept allows us to record allowance for doubtful debts, even the loss has not actually occurred?",
+    "options": [
+      { "id": "A", "text": "Prudence" },
+      { "id": "B", "text": "Substance over form" },
+      { "id": "C", "text": "Going concern" },
+      { "id": "D", "text": "Accruals" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-001",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The opening balance of “allowance for doubtful debts account” is Rs. 1,000 whereas the closing balance of Receivables account is Rs. 100,000.\nWhat amount of allowance for doubtful debts should be charged to statement of comprehensive income using a 5% allowance for doubtful debts for the current accounting period?",
+    "options": [
+      { "id": "A", "text": "Rs. 4,000" },
+      { "id": "B", "text": "Rs. 5,000" },
+      { "id": "C", "text": "Rs. 2,000" },
+      { "id": "D", "text": "Rs. 1,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-002",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At December 31, 2018 an entity’s receivable totalled Rs. 600,000 and an allowance for bad and doubtful debts of Rs. 60,000 had been brought down from last year.\nIt was decided to write off the debts totalling Rs. 25,000 and to adjust allowance for receivable @ 10% of the receivable.\nAt what amount receivables are to be shown in statement of financial position as at 31 December 2018?",
+    "options": [
+      { "id": "A", "text": "Rs. 572,500" },
+      { "id": "B", "text": "Rs. 517,500" },
+      { "id": "C", "text": "Rs. 540,000" },
+      { "id": "D", "text": "Rs. 575,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-003",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "A business has closing receivables balance is Rs. 75,000. It includes one of the accounts receivable named Ali, who is going through financial crisis. It is expected that he can pay 75% of his total debt of Rs. 5,000. Business has decided to calculate an allowance for doubtful debt at 5%.\nWhat is the amount of allowance to be deducted from receivable in statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Rs. 3,500" },
+      { "id": "B", "text": "Rs. 3,750" },
+      { "id": "C", "text": "Rs. 7,250" },
+      { "id": "D", "text": "Rs. 4,750" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-004",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The nature of “Allowance for doubtful debt” account is:",
+    "options": [
+      { "id": "A", "text": "Contra asset account" },
+      { "id": "B", "text": "Asset account" },
+      { "id": "C", "text": "Expense" },
+      { "id": "D", "text": "Liability account" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-005",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At the end of accounting period, KLM Company finds out that its total Receivables are Rs. 10,000. On scrutiny of accounts, it turned out that a bad debt amounting to Rs. 1,000 was not recorded in the books of accounts. Furthermore, having considered the current economic situation, management of the company decided to increase the allowance for doubtful debts by Rs. 500.\nFind out what net amount to be expensed out in the statement of comprehensive income?",
+    "options": [
+      { "id": "A", "text": "Rs. 10,000" },
+      { "id": "B", "text": "Rs. 1000" },
+      { "id": "C", "text": "Rs. 11,000" },
+      { "id": "D", "text": "Rs. 1500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-006",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At January 1, 2017 the allowances for receivable of Sidra was Rs. 35,000. During the year ended 31 December 2017 debts totalling Rs. 15,000 were written off. It was decided that the allowance for doubtful debts should be Rs. 30,000 as at December 31, 2017.\nWhat amount should be charged to statement of comprehensive income of Sidra for bad and doubtful debts expense?",
+    "options": [
+      { "id": "A", "text": "Rs. 30,000" },
+      { "id": "B", "text": "Rs. 45,000" },
+      { "id": "C", "text": "Rs. 15,000" },
+      { "id": "D", "text": "Rs. 10,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-007",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Which of the following can be most relevant to calculation of allowance for doubtful debts?",
+    "options": [
+      { "id": "A", "text": "Total credit sales" },
+      { "id": "B", "text": "Total credit purchases" },
+      { "id": "C", "text": "Total current assets" },
+      { "id": "D", "text": "Total current liabilities" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-008",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At January 1, 2017 the balance in allowance for receivable showed Rs. 16,000. At the end of the year it is decided to write off Rs. 9,000 and adjust allowance for receivable to Rs. 18,000.\nWhat will be the effect of this decision on profit for the year?",
+    "options": [
+      { "id": "A", "text": "Decrease by Rs. 27,000" },
+      { "id": "B", "text": "Increase by Rs. 18,000" },
+      { "id": "C", "text": "Decrease by Rs. 11,000" },
+      { "id": "D", "text": "Decrease by Rs. 9,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-009",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Sania creates allowance for doubtful debts after considering the length of time the debt remains outstanding.\nShe has provided following data as at 31st March 2018:\n\n| Debt amount Rs. | Days outstanding | Allowance required |\n| :--- | :---: | :---: |\n| 130,000 | 30 days | Nil |\n| 75,000 | 31-60 | 2% |\n| 50,000 | Over 60 days | 5% |\n\nOpening balance of allowance for doubtful debts was Rs. 3,500.\nWhat is the amount to be charged to statement of comprehensive income for the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 4,000" },
+      { "id": "B", "text": "Rs. 3,500" },
+      { "id": "C", "text": "Rs. 500" },
+      { "id": "D", "text": "Rs. 7,500" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-010",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Which of the following Receivables have highest probability to default on trade debts?",
+    "options": [
+      { "id": "A", "text": "Current month Receivables" },
+      { "id": "B", "text": "Over 90 days old Receivables" },
+      { "id": "C", "text": "60 to 90 days old Receivables" },
+      { "id": "D", "text": "30 to 60 days old Receivables" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-011",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "A business has received an amount of Rs. 1,000 from a receivable that had been previously written off as irrecoverable.\nWhat is the correct accounting entry to record the transaction?",
+    "options": [
+      { "id": "A", "text": "Dr Cash 1,000 Cr Bad and doubtful debts expense a/c Rs. 1,000" },
+      { "id": "B", "text": "Dr Cash 1,000 Cr Receivables Rs. 1,000" },
+      { "id": "C", "text": "Dr Statement of comprehensive income Rs. 1,000 Cr Receivables Rs. 1,000" },
+      { "id": "D", "text": "Dr Statement of comprehensive income Cr Cash Rs. 1,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-012",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "A business has provided following information;\n- Opening receivables: Rs. 45,000\n- Credit sales: Rs. 55,000\n- Cash sales: Rs. 10,000\n- Cash received from customers: Rs. 35,000\n- Bad debts written off: Rs. 2,000\n- Discount received (separate ledger): Rs. 3,000\nThe business maintains allowance at 2% of receivables each year.\nWhat accounting entry is to be passed to record the increase/ decrease of allowance to the statement of comprehensive income?",
+    "options": [
+      { "id": "A", "text": "Dr Bad and doubtful debts expense Rs. 360 Cr Allowance for doubtful debts Rs. 360" },
+      { "id": "B", "text": "Dr Allowance for doubtful debts Rs. 360 Cr Bad and doubtful debts expense Rs. 360" },
+      { "id": "C", "text": "Dr Bad and doubtful debts expense Rs. 360 Cr Receivables. 360" },
+      { "id": "D", "text": "Dr Receivables Rs. 360 Cr Bad and doubtful debts expense Rs. 360" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-013",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At year end, the receivable balance on 31 March 2019 is Rs. 93,000. This includes a debt of Rs. 1,800 which needs to be written off.\nThe business maintains allowance for doubtful debts at 5% of Receivable balance. And this year allowance has increased by 20% as compared to last year.\nWhat was the balance of Allowance for doubtful debts at 1 April 2018?",
+    "options": [
+      { "id": "A", "text": "Rs. 3,875" },
+      { "id": "B", "text": "Rs. 5,472" },
+      { "id": "C", "text": "Rs. 3,800" },
+      { "id": "D", "text": "Rs. 4,560" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-014",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At 30 September 2012 an entity’s allowance for receivables amounted to Rs. 38,000, which was five per cent of the receivables at that date.\nAt 30 September 2013 receivables totalled Rs. 868,500. It was decided to write off Rs. 28,500 of debts as irrecoverable and, based on past experience, to keep the allowance for receivables at 5% of receivables.\nWhat should be the charge in the statement of comprehensive income for the year ended 30 September 2013 for the total of bad debts and the allowance for receivables?",
+    "options": [
+      { "id": "A", "text": "Rs. 42,000" },
+      { "id": "B", "text": "Rs. 33,925" },
+      { "id": "C", "text": "Rs. 70,500" },
+      { "id": "D", "text": "Rs. 32,500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-015",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The allowance for receivables in the accounts at 31 October 2011 was Rs. 9,000. During the year ended 31 October 2012, bad debts of Rs. 5,000 were written off.\nThe receivables balance at 31 October 2012 was Rs. 120,000 and, based on past experience, the entity wishes to set the allowance at 5% of receivables.\nWhat is the total charge for bad debts and the allowance for receivables in the statement of comprehensive income for the year ended 31 October 2011?",
+    "options": [
+      { "id": "A", "text": "Rs. 2,000" },
+      { "id": "B", "text": "Rs. 3,000" },
+      { "id": "C", "text": "Rs. 5,000" },
+      { "id": "D", "text": "Rs. 8,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-016",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Hamza has following information available for his business for the year ended 31st December 2017:\n- Opening allowance for doubtful debts: Rs. 5,000\n- Bad debts written off during the year: Rs. 3,000\n- Bad debts recovered: Rs. 1,500\n- Closing receivables: Rs. 90,000\n- Closing allowance for doubtful debts: 5%.\nWhat is the net charge for bad and doubtful debts for statement of comprehensive income?",
+    "options": [
+      { "id": "A", "text": "Rs. 500" },
+      { "id": "B", "text": "Rs. 1,000" },
+      { "id": "C", "text": "Rs. 1,500" },
+      { "id": "D", "text": "Rs. 3,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-017",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At June 30, 2016 an entity’s allowance for receivable amounted to Rs. 25,000 which was 2% of the trade receivables at that date.\nAt June 30, 2017 trade receivable amounted to Rs. 310,000. It was decided to write off Rs. 30,000 of debts as irrecoverable and to keep the allowance for receivable at 2% of trade receivable.\nAt what amount receivables would be shown in statement of financial position at 30 June 2017?",
+    "options": [
+      { "id": "A", "text": "Rs. 280,000" },
+      { "id": "B", "text": "Rs. 310,000" },
+      { "id": "C", "text": "Rs. 274,400" },
+      { "id": "D", "text": "Rs. 285,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-018",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At July 1, 2017 Mira’s allowance for receivable was Rs. 65,000.\nAt June 30, 2018 trade receivable amounted to Rs. 650,000. It was decided to write off Rs. 95,000 of these debts and adjust the allowance for receivable to Rs. 75,000.\nAt what amount receivables (net) to be appear in statement of financial position?",
+    "options": [
+      { "id": "A", "text": "Rs. 555,000" },
+      { "id": "B", "text": "Rs. 650,000" },
+      { "id": "C", "text": "Rs. 475,000" },
+      { "id": "D", "text": "Rs. 480,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-019",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At January 1, 2018 the balance in allowance for receivable showed Rs. 38,000. At the end of the year it is decided to write off Rs. 16,000 and adjust allowance for receivable to Rs. 35,000.\nWhat will be the charge for bad and doubtful debts for the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 16,000" },
+      { "id": "B", "text": "Rs. 13,000" },
+      { "id": "C", "text": "Rs. 19,000" },
+      { "id": "D", "text": "Rs. 35,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-020",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "After writing off bad debts, Rashid has outstanding receivables of Rs. 238,750. He identifies two specific amounts for which he wishes to make full allowance:\n- Rs. 450 owing by Syed\n- Rs. 1,200 owing by Raja\nRashid also wishes to maintain a general allowance of 5% of outstanding receivables.\nWhat amount is shown on Rashid’s statement of financial position in respect of receivables?",
+    "options": [
+      { "id": "A", "text": "Rs. 238,750" },
+      { "id": "B", "text": "Rs. 237,100" },
+      { "id": "C", "text": "Rs. 225,245" },
+      { "id": "D", "text": "Rs. 235,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-021",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Which of the following is the effect on net profit if a business decreases allowance for doubtful debts?",
+    "options": [
+      { "id": "A", "text": "It will increase net profit" },
+      { "id": "B", "text": "It will decrease net profit" },
+      { "id": "C", "text": "It will increase gross and net profit" },
+      { "id": "D", "text": "No effect" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-022",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "What is the nature of allowance for doubtful debt account?",
+    "options": [
+      { "id": "A", "text": "An asset" },
+      { "id": "B", "text": "A liability" },
+      { "id": "C", "text": "An equity" },
+      { "id": "D", "text": "Contra asset account" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-023",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Is there a difference in bad and double debts?",
+    "options": [
+      { "id": "A", "text": "No, they are inter-changeable" },
+      { "id": "B", "text": "Yes, bad debt refers to an account receivable that has been clearly identified as not being collectible. Whereas a doubtful debt is an account receivable that might become a bad debt at some point in the future" },
+      { "id": "C", "text": "Yes, doubtful debt refers to an account receivable that has been clearly identified as not being collectible. Whereas a bad debt is an account receivable that might become a bad debt at some point in the future" },
+      { "id": "D", "text": "They are synonymous" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-024",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "What is the double entry for recording write-off of any of debts?",
+    "options": [
+      { "id": "A", "text": "Bad debt expense (debit) and allowance for doubtful debts (credit)" },
+      { "id": "B", "text": "Bad debt expense (debit) and accounts receivable (credit)" },
+      { "id": "C", "text": "Allowance for doubtful debts (debit) and accounts receivable (credit)" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-025",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "On June 1, Rs. 800,000 of goods are sold with credit terms of 1/10, n/30. How much should the seller expect to receive if the buyer pays on June 8?",
+    "options": [
+      { "id": "A", "text": "720,000" },
+      { "id": "B", "text": "768,000" },
+      { "id": "C", "text": "792,000" },
+      { "id": "D", "text": "No change" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-026",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "On June 1, Rs. 800,000 of goods are sold with credit terms of 1/10, n/30. On June 3, the customer returned Rs. 100,000 of the goods.\nHow much should the seller expect to receive if the buyer pays on June 8?",
+    "options": [
+      { "id": "A", "text": "692,000" },
+      { "id": "B", "text": "693,000" },
+      { "id": "C", "text": "694,000" },
+      { "id": "D", "text": "700,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-027",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Which account should be credited for Rs180,000 when writing off the account?",
+    "options": [
+      { "id": "A", "text": "Accounts receivable" },
+      { "id": "B", "text": "Allowance for doubtful debts" },
+      { "id": "C", "text": "Bad debts expense" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-028",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Sorting an entity's accounts receivable into classifications such as current, 1-30 days past due, and 31-60 days past due etc. is known as the?",
+    "options": [
+      { "id": "A", "text": "Ratio analysis" },
+      { "id": "B", "text": "Trend analysis" },
+      { "id": "C", "text": "Debtor’s analysis" },
+      { "id": "D", "text": "Aging analysis" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-029",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The opening balance of “allowance for doubtful debts account” is Rs. 1,000 whereas the closing balance of Receivables account is Rs. 100,000.\nWhat amount of allowance for doubtful debts should be charged to statement of profit or loss using a 5% allowance for doubtful debts for the current accounting period?",
+    "options": [
+      { "id": "A", "text": "Rs. 3,000" },
+      { "id": "B", "text": "Rs. 4,000" },
+      { "id": "C", "text": "Rs. 5,000" },
+      { "id": "D", "text": "Rs. 6,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-030",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The Allowance for doubtful debts account has a year-end credit balance, prior to adjustment of Rs. 500. The allowance for doubtful debts is estimated at 7% of Rs. 60,000 of outstanding accounts receivable.\nAfter the appropriate adjusting entry to recognize the bad debt expense, the Allowance for Doubtful Accounts should have a ___________ credit balance.",
+    "options": [
+      { "id": "A", "text": "Rs. 4,200" },
+      { "id": "B", "text": "Rs. 3,700" },
+      { "id": "C", "text": "Rs. 3,200" },
+      { "id": "D", "text": "Rs. 4,500" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-031",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Good Traders (GT) accounts receivable totalled Rs. 80,000 at the year end. These include Rs. 900 of long overdue debts that might still be recoverable, but for which GT has created an allowance for doubtful debts. GT has also provided an allowance of Rs. 1,582, which is 2% of the other accounts receivable balances. What best describes GT’s doubtful debt allowance as at its year end?",
+    "options": [
+      { "id": "A", "text": "A specific allowance of Rs. 900 and a general allowance of Rs. 1,582" },
+      { "id": "B", "text": "A specific allowance of Rs. 1,582 and a general allowance of Rs. 900" },
+      { "id": "C", "text": "A specific allowance of Rs. 2,482" },
+      { "id": "D", "text": "A general allowance of Rs. 2,482" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-032",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The opening balance on Jamal Enterprises’ receivables expense allowance was Rs. 1,000. Jamal wrote off Rs. 4,000 of bad debts during the year. The closing balance on the doubtful debts allowance was Rs. 1,200.\nWhat is the total charge to Jamal Enterprises’ Statement of Profit or Loss in respect of receivables expense for the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 200" },
+      { "id": "B", "text": "Rs. 3,800" },
+      { "id": "C", "text": "Rs. 4,000" },
+      { "id": "D", "text": "Rs. 4,200" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-033",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The turnover in an entity was Rs. 2 million and its accounts receivable were 5% of turnover. The entity wishes to have an allowance for doubtful debts of 4% of receivables, which would make the allowance one-third higher than the current allowance. How will the profit for the period affected by the change in allowance?",
+    "options": [
+      { "id": "A", "text": "Profit will be reduced by Rs. 1,000" },
+      { "id": "B", "text": "Profit will be increased by Rs. 1,000" },
+      { "id": "C", "text": "Profit will be reduced by Rs. 1,333" },
+      { "id": "D", "text": "Profit will be increased by Rs. 1,333" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-034",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The allowance for doubtful debts in the ledger of Boom Traders (BBT) at 31 October 2021 was Rs. 9,000. During the year ended 31 October 2022, irrecoverable debts of Rs. 5,000 were written off. Accounts receivable balances at 31 October 2022 were Rs. 120,000 and BBT policy is to have a general allowance of 5%. What is the charge for bad & doubtful debts expense in the Statement of Profit or Loss for the year ended 31 October 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 2,000" },
+      { "id": "B", "text": "Rs. 3,000" },
+      { "id": "C", "text": "Rs. 5,000" },
+      { "id": "D", "text": "Rs. 8,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-035",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "During the year ended 31 December 2019 Faisal Traders (FT) turnover totalled Rs. 3,000,000, its accounts receivable amounting to 4% of turnover for the year. FT wishes to maintain its doubtful debt allowance at 3% of accounts receivable, and discovers that the allowance, as a result is 25% higher than it was a year before. During the year specific irrecoverable debts of Rs. 3,200 were written off and irrecoverable debts (written off three years previously) of Rs. 150 were recovered.\nWhat is the net charge for bad and doubtful debts for the year ended 31 December 2019?",
+    "options": [
+      { "id": "A", "text": "Rs. 720" },
+      { "id": "B", "text": "Rs. 900" },
+      { "id": "C", "text": "Rs. 3,770" },
+      { "id": "D", "text": "Rs. 3,950" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-036",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Which of the following statements concerning an allowance for receivables is INCORRECT?",
+    "options": [
+      { "id": "A", "text": "All businesses may create an allowance for doubtful debts in case credit sale customers do not pay their debts" },
+      { "id": "B", "text": "The receivables account balance is written off when a specific allowance for doubtful debts for that customer is created" },
+      { "id": "C", "text": "Setting up an allowance for doubtful debts account ensures that receivables are not overstated" },
+      { "id": "D", "text": "The allowance is usually expected to increase as the value of sales revenue recognized increases as a firm expands" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-037",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "An irrecoverable debt written off two years ago is unexpectedly recovered and entered in the cash book.\nWhat adjustment, if any, will be necessary?",
+    "options": [
+      { "id": "A", "text": "Credit Receivables" },
+      { "id": "B", "text": "Credit Bad debts expense" },
+      { "id": "C", "text": "Credit Suspense account" },
+      { "id": "D", "text": "No adjustment will be necessary" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-038",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "An increase in the allowance for doubtful debts results in:",
+    "options": [
+      { "id": "A", "text": "A decrease in current liabilities" },
+      { "id": "B", "text": "An increase in net profit" },
+      { "id": "C", "text": "An increase in current assets" },
+      { "id": "D", "text": "A decrease in current assets" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-039",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At 30 September 2014, PL Traders had an allowance for doubtful debts of Rs. 37,000. During the year ended 30 September 2015 the PL Traders wrote off debts totalling Rs. 18,000 and at the end of the year it is decided that the allowance for doubtful debts should be Rs. 20,000.\nWhat should be included in the Statement of Profit or Loss for bad and doubtful debts?",
+    "options": [
+      { "id": "A", "text": "Rs. 35,000 debit" },
+      { "id": "B", "text": "Rs. 1,000 debit" },
+      { "id": "C", "text": "Rs. 38,000 debit" },
+      { "id": "D", "text": "Rs. 1,000 credit" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-040",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At 31 March Salma was owed Rs. 47,744 by her customers. At the same date her doubtful debts allowance was Rs. 3,500. How should these balances be reported on Salma's statement of financial position at 31 March?",
+    "options": [
+      { "id": "A", "text": "Rs. 44,244 as a current asset" },
+      { "id": "B", "text": "Rs. 3,500 as a current asset and Rs. 47,744 as a current liability" },
+      { "id": "C", "text": "Rs. 47,744 as a current asset and Rs. 3,500 as a current liability" },
+      { "id": "D", "text": "Rs. 51,244 as a current asset" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-041",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "What is the purpose of maintaining an allowance for doubtful debts?",
+    "options": [
+      { "id": "A", "text": "An estimate of future irrecoverable debts" },
+      { "id": "B", "text": "Records the expense of irrecoverable debts" },
+      { "id": "C", "text": "Matches the estimated cost of future irrecoverable debts against the revenue earned in giving rise to the potential irrecoverable debts" },
+      { "id": "D", "text": "Records irrecoverable debts without taking them out of the books of an entity, thus showing the gross and expected amount owned by trade receivables as a current asset" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-042",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "The existence of an allowance for doubtful debts:",
+    "options": [
+      { "id": "A", "text": "Increases the total of current liabilities" },
+      { "id": "B", "text": "Reduces the cost of sales" },
+      { "id": "C", "text": "Reduces the total of current assets" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH05-APQ-043",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "A transfer to close the bad and doubtful debts account is to:",
+    "options": [
+      { "id": "A", "text": "The statement of financial position" },
+      { "id": "B", "text": "The Statement of Profit or Loss" },
+      { "id": "C", "text": "The trading account" },
+      { "id": "D", "text": "The allowance for doubtful debts account" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH05-APQ-044",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At 31 December 2022 an entity's receivables totalled Rs. 400,000 and an allowance for receivables of Rs. 50,000 had been brought forward from the year ended 31 December 2021. It was decided to write off debts totalling Rs. 38,000 and to adjust the allowance for receivables to 10% of the receivables. What charge for bad and doubtful debts should appear in the entity's Statement of Profit or Loss for the year ended 31 December 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 74,200" },
+      { "id": "B", "text": "Rs. 51,800" },
+      { "id": "C", "text": "Rs. 28,000" },
+      { "id": "D", "text": "Rs. 24,200" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-045",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "At 30 September 2022 an entity's allowance for receivables amounted to Rs. 38,000, which was 5% of the receivables at that date. At 30 September 2023 receivables totalled Rs. 868,500. It was decided to write off Rs. 28,500 of debts as irrecoverable and to keep the allowance for receivables at 5% of receivables. What should be the charge in the Statement of Profit or Loss for the year ended 30 September 2023?",
+    "options": [
+      { "id": "A", "text": "Rs. 42,000" },
+      { "id": "B", "text": "Rs. 33,925" },
+      { "id": "C", "text": "Rs. 70,500" },
+      { "id": "D", "text": "Rs. 32,500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-046",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "Saima creates allowance for doubtful debts according to the length of time the debt has been outstanding. At 31 May 2021 the analysis of accounts receivable balances and the associated allowance was:\n\n| Time debt has been outstanding | Allowance required | Balance at 31 May 2021 |\n| :--- | :---: | :---: |\n| Less than 31 days | Nil | 32,700 |\n| 31 – 60 days | 4% of balances | 16,900 |\n| Over 60 days | 50% of balances | 8,750 |\n\nIf the balance at 1st June 2020 was Rs. 5,600, what adjustment should be made to the doubtful debts allowance?",
+    "options": [
+      { "id": "A", "text": "An increase of Rs. 5,051" },
+      { "id": "B", "text": "A decrease of Rs. 5,051" },
+      { "id": "C", "text": "An increase of Rs. 549" },
+      { "id": "D", "text": "A decrease of Rs. 549" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH05-APQ-047",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "MS Club receivables ledger account shows a balance at the end of the year of Rs. 58,200 before making the following adjustments:\ni. MS wishes to write off debts amounting to Rs. 8,900 as he believes they are irrecoverable.\nii. MS also wishes to make specific allowance for LW’ debt of Rs. 1,350 and IQ’s debt of Rs. 750\niii. MS wishes to maintain a general allowance of 3% of the year and receivables balance.\nMS’s allowance for receivables at the last year end was Rs. 5,650. What is the charge to the Statement of Profit or Loss in respect of the above?",
+    "options": [
+      { "id": "A", "text": "Rs. 6,766" },
+      { "id": "B", "text": "Rs. 11,034" },
+      { "id": "C", "text": "Rs. 6,829" },
+      { "id": "D", "text": "Rs. 10,971" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-048",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "In the statement of financial position at 31 December 2015, KK reported gross receivables of Rs. 12,000. During 2016 KK made sales on credit of Rs. 125,000 and received cash from credit customers amounting to Rs. 115,500. At 31 December 2016, KK wished to write off debts of Rs. 7,100 and increase the allowance for receivable by Rs. 950 to Rs. 2,100. What is the net receivables figure at 31 December 2016?",
+    "options": [
+      { "id": "A", "text": "Rs. 12,300" },
+      { "id": "B", "text": "Rs. 13,450" },
+      { "id": "C", "text": "Rs. 14,400" },
+      { "id": "D", "text": "Rs. 15,550" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-049",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "In the year ended 30 September 2018. QG had sales of Rs. 7,000,000. Year-end receivables amounted to 5% of annual sales. QG wishes to maintain the allowance for receivables at 4% receivables and as a result discovers that the allowance is 20% higher than at the previous year end. During the year irrecoverable debts amounting to Rs. 3,200 were written off and debts amounting to Rs. 450 and previously written off were recovered.\nWhat are the bad and doubtful debt expenses for the year?",
+    "options": [
+      { "id": "A", "text": "Rs. 5,083" },
+      { "id": "B", "text": "Rs. 5,550" },
+      { "id": "C", "text": "Rs. 5,583" },
+      { "id": "D", "text": "Rs. 16,750" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH05-APQ-050",
+    "subjectId": "prc-1",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: Bad and doubtful debts",
+    "source": "apq",
+    "questionText": "PN started the year with total receivables of Rs. 87,000 and an allowance for receivables of Rs. 2,500. During the year, two specific debts were written off, one for Rs. 800 and the other for Rs. 550. A debt of Rs. 350 that had been written off as irrecoverable in the previous year was paid during the year. At the year end, total receivables were Rs. 90,000 and the allowance for receivables was Rs. 2,300.\nWhat is the charge to the Statement of Profit or Loss for the year in respect of bad and doubtful debts?",
+    "options": [
+      { "id": "A", "text": "Rs. 800" },
+      { "id": "B", "text": "Rs. 1,000" },
+      { "id": "C", "text": "Rs. 1,150" },
+      { "id": "D", "text": "Rs. 1,550" }
+    ],
+    "correctOption": "A"
+  }
+]

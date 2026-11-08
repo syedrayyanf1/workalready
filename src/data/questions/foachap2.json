@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "PRC1-CH02-ST-001",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Following information is extracted from the books of Azad Co for May 2022:\n\n| Particulars | Rs. |\n| :--- | :---: |\n| Credit Purchases Invoices | 3 million |\n| Cash Purchases Invoices | 2 million |\n| Credit Notes Received | 0.02 million |\n\nWhat was the total of Purchases Journal for May 2022?",
+    "options": [
+      { "id": "A", "text": "Rs. 4.98 million" },
+      { "id": "B", "text": "Rs. 5.00 million" },
+      { "id": "C", "text": "Rs. 2.98 million" },
+      { "id": "D", "text": "Rs. 3.00 million" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-002",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "On 1 March, 2022, Cool Limited obtained a bank loan for Rs. 2 million and deposited into bank current account. On the same day Cool Limited transferred Rs. 1 million from their bank current account to bank deposit account.\nHow these transactions will be recorded by Cool Limited?",
+    "options": [
+      { "id": "A", "text": "Dr. Bank account Rs. 2 million; Cr. Bank loan Rs. 1 million and Cr. Deposit account Rs. 2 million" },
+      { "id": "B", "text": "Dr. Bank account Rs. 1 million; Dr. Bank loan Rs. 1 million and Cr. Deposit account Rs. 2 million" },
+      { "id": "C", "text": "Dr. Bank account Rs. 1 million; Dr. Deposit account Rs. 1 million and Cr. Bank loan account Rs. 2 million" },
+      { "id": "D", "text": "Dr. Bank loan account Rs. 2 million and Cr. Bank account Rs. 1 million and Cr. Deposit account Rs. 1 million" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-003",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Nasir bought 20 mobile phones from “Digital Mobiles” at list price of Rs. 5,000 each, subject to 10% trade discount. Three mobile phones were faulty so returned by Nasir to Digital Mobiles. What document would Digital Mobiles issue to Nasir on return of these mobile phones?",
+    "options": [
+      { "id": "A", "text": "Credit Note for Rs. 15,000" },
+      { "id": "B", "text": "Debit Note for Rs. 15,000" },
+      { "id": "C", "text": "Credit Note for Rs. 13,500" },
+      { "id": "D", "text": "Debit Note for Rs. 13,500" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-004",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following is/are not necessarily be considered as book of prime entry in small and medium size businesses?",
+    "options": [
+      { "id": "A", "text": "Cash book" },
+      { "id": "B", "text": "Purchase day book" },
+      { "id": "C", "text": "Sales day book" },
+      { "id": "D", "text": "Cash receipt book" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-005",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "On 31 March, Nayab traders received a cheque of Rs. 4,500 from Zaryab Associates after allowing the discount Rs. 500.\nWhich statement is correct after accounting of above transactions?",
+    "options": [
+      { "id": "A", "text": "Zaryab Associates owed Nayab Traders Rs. 3,500" },
+      { "id": "B", "text": "Nayab Traders owed Zaryab Associates Rs. 3,500" },
+      { "id": "C", "text": "Zaryab Associates owed Nayab Traders Rs. 3,000" },
+      { "id": "D", "text": "Nayab Traders owed Zaryab Associates Rs. 3,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-006",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following are NOT correctly stated in relation to books of prime entry?",
+    "options": [
+      { "id": "A", "text": "All sales shall be recorded in sales day book" },
+      { "id": "B", "text": "Only credit sales shall be recorded in sales day book" },
+      { "id": "C", "text": "Only cash sales shall be recorded in sales day book" },
+      { "id": "D", "text": "All sales shall be recorded in cash book" }
+    ],
+    "correctOption": "A,C,D"
+  },
+  {
+    "id": "PRC1-CH02-ST-007",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Books of prime entry are prepared to record similar nature of transaction in one book. Which of the following transaction shall NOT be recorded in General Journal:",
+    "options": [
+      { "id": "A", "text": "Discount allowed to customer" },
+      { "id": "B", "text": "Purchase of plant on credit terms" },
+      { "id": "C", "text": "Discount allowed by suppliers" },
+      { "id": "D", "text": "Trade discount allowed to customer" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-008",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Mr. Fahad started his business in current year. He wants to record the year-end adjustments in his accounting books. Which book he may use to record these adjustments?",
+    "options": [
+      { "id": "A", "text": "General journal" },
+      { "id": "B", "text": "Cash book" },
+      { "id": "C", "text": "Sales day book" },
+      { "id": "D", "text": "Purchase day book" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-009",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "If in three column cash book, cash paid of Rs. 6,000 was recorded in Discount column whereas discount amount of Rs. 500 was recorded in cash column. Which of the following statement is correct?",
+    "options": [
+      { "id": "A", "text": "Cash balance was overstated by Rs. 5,500 whereas discount received was understated by Rs. 500" },
+      { "id": "B", "text": "Cash balance was overstated by Rs. 5,500 whereas discount received was understated by Rs. 5,500" },
+      { "id": "C", "text": "Cash balance was understated by Rs. 5,500 whereas discount received was overstated by Rs. 500" },
+      { "id": "D", "text": "Cash balance was overstated by Rs. 5,500 whereas discount received was overstated by Rs. 5,500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-010",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following affects the balance of receivables account?",
+    "options": [
+      { "id": "A", "text": "Sales invoice" },
+      { "id": "B", "text": "Sales order" },
+      { "id": "C", "text": "Sales quotation" },
+      { "id": "D", "text": "Delivery note" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-011",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct?",
+    "options": [
+      { "id": "A", "text": "Cash paid to suppliers will be credited to creditors account" },
+      { "id": "B", "text": "Cheques issued to suppliers will be debited to creditors account" },
+      { "id": "C", "text": "Contra settlement with debtors will be credited to the creditors account" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-012",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "A merchant bought 100 bags of cement at retail price of Rs. 200 subject to 5% trade discount. 50% payment was made on spot and balance was agreed to pay in 3 months-time. However, an offer of 2% discount was made if payment shall be made in 1 month-time. It is reasonably certain that customer shall not avail this discount. At the time of transaction, businessman shall recognize revenue after deducting from retail price:",
+    "options": [
+      { "id": "A", "text": "Trade discount of Rs. 1,000" },
+      { "id": "B", "text": "Cash discount of Rs. 400" },
+      { "id": "C", "text": "Cash discount of Rs. 380" },
+      { "id": "D", "text": "Trade discount of Rs. 1,000 and cash discount of Rs. 400" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-013",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following statement(s) is/are correct?",
+    "options": [
+      { "id": "A", "text": "Inventory returned to supplier will be recorded in purchases return journal" },
+      { "id": "B", "text": "Furniture purchased for use, returned to supplier will be recorded in general journal" },
+      { "id": "C", "text": "Cash sales to customers will be recorded in sales day book" },
+      { "id": "D", "text": "Credit purchase from supplier will be recorded in purchase day book" }
+    ],
+    "correctOption": "A,B,D"
+  },
+  {
+    "id": "PRC1-CH02-ST-014",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Journal entry for issuance of petty cash imprest by cheque is:",
+    "options": [
+      { "id": "A", "text": "Petty cash Debit Cash Credit" },
+      { "id": "B", "text": "Petty cash Debit Bank Credit" },
+      { "id": "C", "text": "Bank Debit Petty cash Credit" },
+      { "id": "D", "text": "No journal entry will be passed" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-015",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Shadman Traders maintained petty cash float at Rs. 25,000. Petty expenses were paid during the month of March 2022, amounting to Rs. 18,210. On 31 March 2022, he decided to decrease the petty cash float to Rs. 20,000.\nWhat amount is required to maintain the cash float of Rs. 20,000?",
+    "options": [
+      { "id": "A", "text": "Rs. 13,210" },
+      { "id": "B", "text": "Rs. 8,290" },
+      { "id": "C", "text": "Rs. 1,790" },
+      { "id": "D", "text": "Rs. 6,790" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-016",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Insaf Limited deals in Wood Doors and it purchased 50 wood doors from Wood World at Rs. 2,000 per door on 10 January, 2022, terms were 5/10, n/20. Five defective doors were returned on 12 January, 2022. Insaf Ltd settled their account on 15 January, 2022.\nWhat is the amount of net purchases and cash paid to the wood world?",
+    "options": [
+      { "id": "A", "text": "Net Purchases Rs. 100,000 and cash Paid Rs. 100,000" },
+      { "id": "B", "text": "Net Purchases Rs. 90,000 and Cash Paid Rs. 85,500" },
+      { "id": "C", "text": "Net Purchases Rs. 85,500 and Cash Paid Rs. 85,500" },
+      { "id": "D", "text": "Net Purchases 100,000 and Cash paid Rs. 85,500" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-017",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Super Stores sold goods to Nova Enterprises for Rs. 50,000, terms 5/10, n/30 on 1 January, 2022. Super Stores expected that Nova Enterprises shall avail the discount. Nova Enterprises settled their account on 8 January, 2022.\nWhat journal entry will be passed in the books of Super Stores on 8 January 2022?",
+    "options": [
+      { "id": "A", "text": "Cash account Debit Rs. 50,000, Nova Ltd Credit Rs. 50,000" },
+      { "id": "B", "text": "Cash account Debit Rs. 47,500, Discount allowed Debit Rs. 2,500, Nova Ltd Credit Rs. 50,000" },
+      { "id": "C", "text": "Cash account Debit Rs. 50,000, Nova Ltd Credit Rs. 47,500, Discount allowed Credit Rs. 2,500" },
+      { "id": "D", "text": "Cash account Debit Rs. 47,500, Nova Ltd Credit Rs. 47,500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-018",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following statement is correct in relation to discount allowed that was not expected at the time of recording sales?",
+    "options": [
+      { "id": "A", "text": "Discount allowed shall be charged as business expense" },
+      { "id": "B", "text": "Discount allowed shall reduce the sales amount" },
+      { "id": "C", "text": "Discount allowed shall be adjusted against receivables balance" },
+      { "id": "D", "text": "Double entry of Discount allowed shall be Dr. Discount allowed and Cr. Receivables" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-019",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Chan Traders sold goods to Veer Traders on credit. It sold goods with list price of Rs. 10,000 subject to @10% trade discount. Veer traders paid in full after receiving the 5% cash discount. Two weeks later, Veer traders returned half of the goods purchased.\nWhat amount of sales return will be recorded in the books of Chan Traders?",
+    "options": [
+      { "id": "A", "text": "Rs. 4,275" },
+      { "id": "B", "text": "Rs. 4,500" },
+      { "id": "C", "text": "Rs. 4,750" },
+      { "id": "D", "text": "Rs. 5,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-020",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Gulsher Limited purchased goods from Shergul Limited for Rs. 70,000 on 20 March, 2022 subject to term 5/10, n/20. Shergul Limited expected that Gulsher Limited shall not avail the discount. Gulsher Limited paid their account in full by cheque on 5 April, 2022.\nWhat journal entry will be passed in the books of Shergul Limited on 5 April, 2022?",
+    "options": [
+      { "id": "A", "text": "Bank account Debit Rs. 70,000, Gulsher Limited Credit Rs. 70,000" },
+      { "id": "B", "text": "Bank account Debit Rs. 66,500, Discount allowed Debit Rs. 4,500, Gulsher Limited Credit Rs. 70,000" },
+      { "id": "C", "text": "Bank account Debit Rs. 70,000, Gulsher Limited Credit Rs. 66,500, Discount allowed Rs. 4,500" },
+      { "id": "D", "text": "Shergul Limited Debit Rs. 70,000, Bank account Credit Rs. 70,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-021",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Following information is extracted from the books of Dynasty Limited:\n- Goods sold to customers for Rs. 35,000 (60% sales were on credit basis)\n- Goods purchased from suppliers for Rs. 30,000 (20% purchases were on cash basis)\n- Cash deposited into bank Rs. 8,000\nCalculate the closing balance of the cash column of cash book.",
+    "options": [
+      { "id": "A", "text": "Rs. 7,000" },
+      { "id": "B", "text": "Rs. 19,000" },
+      { "id": "C", "text": "Rs. 12,000" },
+      { "id": "D", "text": "Zero balance" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-022",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following shall not be shown in receivables ledger account?",
+    "options": [
+      { "id": "A", "text": "Credit sales" },
+      { "id": "B", "text": "Cheques collected from customers" },
+      { "id": "C", "text": "Cash sales returns" },
+      { "id": "D", "text": "Cash sales" }
+    ],
+    "correctOption": "C,D"
+  },
+  {
+    "id": "PRC1-CH02-ST-023",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following document shall be source document to record the purchase?",
+    "options": [
+      { "id": "A", "text": "Purchase requisition" },
+      { "id": "B", "text": "Purchase invoice" },
+      { "id": "C", "text": "Purchase order" },
+      { "id": "D", "text": "Goods receipt note" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-024",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "A balance of Rs. 820 in the receivables ledger is to be set off against a balance of Rs. 280 in the payables ledger. Journal entry for contra settlement will be passed with:",
+    "options": [
+      { "id": "A", "text": "Rs. 820" },
+      { "id": "B", "text": "Rs. 280" },
+      { "id": "C", "text": "Rs. 540" },
+      { "id": "D", "text": "Rs. 1,100" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-025",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Safety Limited purchased a Machine for its production process on 1 February, 2022. Payment will be made after the installation. The accountant of Safety Limited recorded this in purchases day book, but still confused about accounting treatment.\nChoose the correct option to help him.",
+    "options": [
+      { "id": "A", "text": "He has correctly recorded." },
+      { "id": "B", "text": "Transaction will be recorded in cash book." },
+      { "id": "C", "text": "Transaction will be recorded in general journal" },
+      { "id": "D", "text": "Transaction will be recorded in assets journal" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-026",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Mr. Sultan is supervisor in production department of a business. He needed an inventory item but that was not lying in storehouse.\nWhich primary document should be prepared to initiate the purchase process and which department is responsible to issue this document?",
+    "options": [
+      { "id": "A", "text": "Purchase order issued by purchase department" },
+      { "id": "B", "text": "Purchase requisition issued by store department" },
+      { "id": "C", "text": "Purchase requisition issued by purchase department" },
+      { "id": "D", "text": "Purchase order issued by store department" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-027",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following is/are not recorded in payable ledger account?",
+    "options": [
+      { "id": "A", "text": "Discount allowed" },
+      { "id": "B", "text": "Discount received" },
+      { "id": "C", "text": "Credit purchase" },
+      { "id": "D", "text": "Cash refunded to customer" }
+    ],
+    "correctOption": "A,D"
+  },
+  {
+    "id": "PRC1-CH02-ST-028",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Mr. Kashan purchased goods from Mr. Zubair for Rs. 12,000. He paid Rs. 10,000 at the time of purchases and balance amount will be paid in two month-time. Mr. Kashan should record the transaction of purchases in:",
+    "options": [
+      { "id": "A", "text": "Purchases day book Rs. 12,000" },
+      { "id": "B", "text": "Purchases day book Rs. 10,000, Cash Book Rs. 2,000" },
+      { "id": "C", "text": "Purchases day book Rs. 2,000, Cash book Rs. 10,000" },
+      { "id": "D", "text": "Cash book Rs. 10,000, General journal Rs. 2,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-029",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Double entry for “cash received from supplier against goods returned after clearance of account” shall be:",
+    "options": [
+      { "id": "A", "text": "Dr. Purchase Returns and Cr. Creditors" },
+      { "id": "B", "text": "Dr. Creditors and Cr. Purchase Returns" },
+      { "id": "C", "text": "Dr. Creditors and Cr. Cash" },
+      { "id": "D", "text": "Dr. Cash and Cr. Purchase Returns" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-030",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Armaghan Enterprises sold goods to Najma Traders for Rs. 100,000 subject to term 5/10, n/30 on 1 January, 2022. Armaghan Enterprises expected that Najma Traders shall avail the discount. Payment was received by Armaghan Enterprises after discount period.\nWhat journal entry will be passed in the books of Armaghan Enterprises?",
+    "options": [
+      { "id": "A", "text": "Cash account Debit Rs. 100,000, Najma Traders Credit Rs. 100,000" },
+      { "id": "B", "text": "Cash account Debit Rs. 100,000, Najma Traders Credit Rs. 95,000, Sales account Credit Rs. 5,000" },
+      { "id": "C", "text": "Cash account Debit Rs. 95,000, Discount allowed Debit Rs. 5,000, Najma Traders Credit Rs. 100,000" },
+      { "id": "D", "text": "Cash account Debit Rs. 100,000, Najma Traders Credit Rs. 95,000, Discount received Rs. 5,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-031",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Total of purchases day book represents:",
+    "options": [
+      { "id": "A", "text": "Gross credit purchases" },
+      { "id": "B", "text": "Net credit purchases" },
+      { "id": "C", "text": "Gross total purchases" },
+      { "id": "D", "text": "Net total purchases" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-032",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following document will store keeper receive on receipt of goods from supplier:",
+    "options": [
+      { "id": "A", "text": "Goods dispatched note" },
+      { "id": "B", "text": "Goods received note" },
+      { "id": "C", "text": "Delivery note" },
+      { "id": "D", "text": "Invoice" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-033",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Following documents might be used in system designed to account for sales:",
+    "options": [
+      { "id": "A", "text": "Sales Quotation" },
+      { "id": "B", "text": "Purchase Order" },
+      { "id": "C", "text": "Goods Dispatch Note" },
+      { "id": "D", "text": "Credit Note Received" },
+      { "id": "E", "text": "Sales Invoice" }
+    ],
+    "correctOption": "A,C,E"
+  },
+  {
+    "id": "PRC1-CH02-ST-034",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Mr. Javed received a cheque from a customer for Rs. 10,000 and deposited it into the bank. Bank returned the cheque due to insufficient funds.\nIn which books of prime entry, Mr. Javed will record this dishonour cheque?",
+    "options": [
+      { "id": "A", "text": "Sales day book" },
+      { "id": "B", "text": "Sales return day book" },
+      { "id": "C", "text": "Cash book" },
+      { "id": "D", "text": "General journal" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-035",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Naseem is customer and supplier of business and he buys and sells goods from/to our business. As per terms of agreement, the account balances of both accounts shall be cancelled at month-end and remaining balance shall be paid or received on 5th of month following the month of transaction. As at June 30, 2022 Naseem balance in receivables ledger showed Rs. 25,500 and in payables ledger Rs. 22,000.\nThe double entry made at June 30, 2022 shall be:",
+    "options": [
+      { "id": "A", "text": "Receivables Dr. 22,000 and Payables Cr. 22,000" },
+      { "id": "B", "text": "Receivables Dr. 25,500 and Payables Cr. 25,500" },
+      { "id": "C", "text": "Payables Dr. 22,000 and Receivables Cr. 22,000" },
+      { "id": "D", "text": "Payables Dr. 25,500 and Receivables Cr. 25,500" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-036",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following is not a source document for double-entry bookkeeping?",
+    "options": [
+      { "id": "A", "text": "Sales invoice" },
+      { "id": "B", "text": "Purchase order" },
+      { "id": "C", "text": "Credit note issued" },
+      { "id": "D", "text": "Cheque" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-037",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Columns in three column cash book on payment side shall be:",
+    "options": [
+      { "id": "A", "text": "Cash, Bank and Discount Allowed" },
+      { "id": "B", "text": "Cash, Bank and Discount Received" },
+      { "id": "C", "text": "Cash, Discount Allowed and Discount Received" },
+      { "id": "D", "text": "Bank, Discount Allowed and Discount Received" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-038",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following shall be recorded in petty cash book?",
+    "options": [
+      { "id": "A", "text": "Cash received from customer" },
+      { "id": "B", "text": "Cash paid to supplier" },
+      { "id": "C", "text": "Cash purchase" },
+      { "id": "D", "text": "Travelling expense" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-039",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following is NOT a terminology used in maintaining petty cash book system?",
+    "options": [
+      { "id": "A", "text": "Imprest System" },
+      { "id": "B", "text": "Reimbursement of expenses" },
+      { "id": "C", "text": "Cash float" },
+      { "id": "D", "text": "Cash budgets" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-040",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following is/are source document/s for journal entry?\n1. Quotation\n2. Purchase order\n3. Goods dispatched note\n4. Statement",
+    "options": [
+      { "id": "A", "text": "1 and 3" },
+      { "id": "B", "text": "2 and 4" },
+      { "id": "C", "text": "None of the above" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-041",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "The petty cash balance as at 3 January 2022 was Rs. 2,350 and following transactions were incurred on 4 January 2022.\n1. Purchase of tea for office Rs. 250\n2. Paid for repairs of water dispenser Rs. 400\n3. Paid for travelling bill to peon Rs. 100\nThe cashier sent all vouchers relating to week ended 4 January 2022 for reimbursement amounting to Rs. 3,400. The reimbursement was made immediately.\nWhat shall be amount of petty cash float?",
+    "options": [
+      { "id": "A", "text": "Rs. 1,600" },
+      { "id": "B", "text": "Rs. 3,400" },
+      { "id": "C", "text": "Rs. 5,000" },
+      { "id": "D", "text": "Rs. 5,750" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-042",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following best describes the imprest system of operating petty cash?",
+    "options": [
+      { "id": "A", "text": "Expenses incurred on weekly basis shall not exceed the set limit" },
+      { "id": "B", "text": "The exact amount of expenditure is reimbursed at intervals to maintain fixed float" },
+      { "id": "C", "text": "Authorization of all vouchers must not be necessary" },
+      { "id": "D", "text": "Regular equal amounts of cash are transferred into petty cash at intervals" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-043",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Kamal Limited uses vouching system to record the business transactions. “It purchased an equipment on credit.”\nWhich of the following voucher Kamal Limited should prepare for above transaction?",
+    "options": [
+      { "id": "A", "text": "Sales voucher" },
+      { "id": "B", "text": "Purchase voucher" },
+      { "id": "C", "text": "Payment voucher" },
+      { "id": "D", "text": "Journal voucher" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-044",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following shall cause the debit balance of payable ledger?",
+    "options": [
+      { "id": "A", "text": "Goods were returned to supplier after clearing the invoice" },
+      { "id": "B", "text": "Payment made to supplier was recorded in short" },
+      { "id": "C", "text": "Contra settlement with receivable ledger was omitted" },
+      { "id": "D", "text": "Discount received was not entered in the payable ledger" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-045",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following best describes the purpose of sales invoice?",
+    "options": [
+      { "id": "A", "text": "Issued to customer as request for payment on due date" },
+      { "id": "B", "text": "Issued as request to receive stock" },
+      { "id": "C", "text": "Issued as details of transactions made during specific month" },
+      { "id": "D", "text": "Issued to customer as notification of payment" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-ST-046",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "At any point of time, sum of imprest must be equal to:",
+    "options": [
+      { "id": "A", "text": "Petty cash balance + Amount on invoices - Amount on notes" },
+      { "id": "B", "text": "Petty cash balance + Amount on invoices + Amount on notes" },
+      { "id": "C", "text": "Petty cash balance - Amount on invoices + Amount on notes" },
+      { "id": "D", "text": "Petty cash balance - Amount on invoices - Amount on notes" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-047",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Which of the following book is used to record discount received?",
+    "options": [
+      { "id": "A", "text": "Cash receipt book" },
+      { "id": "B", "text": "Petty cash book" },
+      { "id": "C", "text": "Cash payment book" },
+      { "id": "D", "text": "Purchase day book" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-ST-048",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "“The purchase and related liability are usually recorded at full cost of the goods.” This is in line with:",
+    "options": [
+      { "id": "A", "text": "Separate entity concept" },
+      { "id": "B", "text": "Accrual basis" },
+      { "id": "C", "text": "Going concern basis" },
+      { "id": "D", "text": "Prudence concept" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-ST-049",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "The journal entry of settlement discount shall be made in which of the following book of prime entry:",
+    "options": [
+      { "id": "A", "text": "Cash payment book" },
+      { "id": "B", "text": "General journal" },
+      { "id": "C", "text": "Purchases journal and sales journal" },
+      { "id": "D", "text": "Trial balance" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-ST-050",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "self-test",
+    "questionText": "Receipt vouchers are prepared",
+    "options": [
+      { "id": "A", "text": "To record the cash receipts" },
+      { "id": "B", "text": "To record the cheque receipts" },
+      { "id": "C", "text": "To record the collection in bank accounts" },
+      { "id": "D", "text": "To record issue of cheque to supplier" }
+    ],
+    "correctOption": "A,B,C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-001",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following is not a book of prime entry?",
+    "options": [
+      { "id": "A", "text": "Sales day book" },
+      { "id": "B", "text": "Petty cash book" },
+      { "id": "C", "text": "Journal" },
+      { "id": "D", "text": "Trial balance" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-002",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "The sales day book is a book of prime entry:",
+    "options": [
+      { "id": "A", "text": "For recording all sales" },
+      { "id": "B", "text": "For recording credit sales" },
+      { "id": "C", "text": "In which cash sales are first recorded" },
+      { "id": "D", "text": "In which credit sales are first recorded" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-003",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "The purchases day book is a book of prime entry:",
+    "options": [
+      { "id": "A", "text": "For recording all purchases" },
+      { "id": "B", "text": "For recording credit purchases" },
+      { "id": "C", "text": "In which cash purchases are first recorded" },
+      { "id": "D", "text": "In which credit purchases are first recorded" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-004",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry credit notes issued to customers are initially recorded?",
+    "options": [
+      { "id": "A", "text": "Sales Journal" },
+      { "id": "B", "text": "Sales Return Journal" },
+      { "id": "C", "text": "Purchase Journal" },
+      { "id": "D", "text": "Purchase return Journal" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-005",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry debit notes issued are initially recorded?",
+    "options": [
+      { "id": "A", "text": "Sales Journal" },
+      { "id": "B", "text": "Sales Return Journal" },
+      { "id": "C", "text": "Purchase Journal" },
+      { "id": "D", "text": "Purchase return Journal" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-006",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry credit notes received are initially recorded?",
+    "options": [
+      { "id": "A", "text": "Sales Journal" },
+      { "id": "B", "text": "Sales Return Journal" },
+      { "id": "C", "text": "Purchase Journal" },
+      { "id": "D", "text": "Purchase return Journal" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-007",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following transactions shall be recorded in sales day book of an Electronics Trader?",
+    "options": [
+      { "id": "A", "text": "Cash sales of office furniture" },
+      { "id": "B", "text": "Cash sales of electronics items" },
+      { "id": "C", "text": "Credit sales of office furniture" },
+      { "id": "D", "text": "Credit sales of electronics items" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-008",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following transactions shall be recorded in cash book of an Electronics Trader?",
+    "options": [
+      { "id": "A", "text": "Cash sales of office furniture" },
+      { "id": "B", "text": "Cash sales of electronics items" },
+      { "id": "C", "text": "Credit sales of office furniture" },
+      { "id": "D", "text": "Credit sales of electronics items" }
+    ],
+    "correctOption": "A,B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-009",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following transactions must be recorded in general journal of an Electronics Trader?",
+    "options": [
+      { "id": "A", "text": "Cash sales of office furniture" },
+      { "id": "B", "text": "Cash sales of electronics items" },
+      { "id": "C", "text": "Credit sales of office furniture" },
+      { "id": "D", "text": "Credit sales of electronics items" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-010",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "A business has made following sales:\n- Credit sales Rs. 1,500\n- Cash sales Rs. 1,200\nWhich statement is correct for recording of sales transactions?",
+    "options": [
+      { "id": "A", "text": "Sales day book Rs. 1,500, Cash receipt book Rs. 1,200" },
+      { "id": "B", "text": "Cash receipt book Rs. 2,700" },
+      { "id": "C", "text": "Sales day book Rs. 1,500, Petty cash book Rs. 1,200" },
+      { "id": "D", "text": "Sales day book Rs. 2,700" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-011",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Usuf made following transactions during a certain month:\n- Credit sales 15,000 out of which Rs. 3,000 were returned by the customers subsequently\n- Cash sales amounting Rs. 8,000\n- Cash received from customers Rs. 4,000\nWhat is the total of sales day book for the month?",
+    "options": [
+      { "id": "A", "text": "Rs. 15,000" },
+      { "id": "B", "text": "Rs. 12,000" },
+      { "id": "C", "text": "Rs. 23,000" },
+      { "id": "D", "text": "Rs. 20,000" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-012",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which of the following book returns inwards are recorded?",
+    "options": [
+      { "id": "A", "text": "Sales returns book" },
+      { "id": "B", "text": "Purchase returns books" },
+      { "id": "C", "text": "Cash receipts book" },
+      { "id": "D", "text": "Cash payment book" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-013",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Hussain runs a business of purchase and sales of furniture. During a particular period, Hussain made following transactions:\n- Sales to A Rs. 12,000\n- Sales to B Rs. 10,000 list price and trade discount 2%\n- Sales returns from A Rs. 3,000\nWhat is the total of sales day book for the period?",
+    "options": [
+      { "id": "A", "text": "Rs. 22,000" },
+      { "id": "B", "text": "Rs. 21,800" },
+      { "id": "C", "text": "Rs. 19,000" },
+      { "id": "D", "text": "Rs. 18,800" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-014",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "A Credit Note is issued to a:",
+    "options": [
+      { "id": "A", "text": "Customer for return of goods" },
+      { "id": "B", "text": "Supplier for return of goods" },
+      { "id": "C", "text": "Customer to accept the goods" },
+      { "id": "D", "text": "Supplier to accept the goods" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-015",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does debit notes received worth Rs.100,000 would be recorded?",
+    "options": [
+      { "id": "A", "text": "Accounts payable book" },
+      { "id": "B", "text": "Purchase journal" },
+      { "id": "C", "text": "Return inwards journal" },
+      { "id": "D", "text": "Returns outward journal" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-016",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does sales on account of Rs. 700,000 would be recorded?",
+    "options": [
+      { "id": "A", "text": "Sales journal" },
+      { "id": "B", "text": "Accounts receivable journal" },
+      { "id": "C", "text": "Cash book" },
+      { "id": "D", "text": "Return inwards journal" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-017",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following documents serves as a notice to the customer to inform them that the goods have been dispatched?",
+    "options": [
+      { "id": "A", "text": "Quotation" },
+      { "id": "B", "text": "Sales order / order confirmation" },
+      { "id": "C", "text": "Goods dispatched note" },
+      { "id": "D", "text": "Delivery note" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-018",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "On 20th July, goods with list price of Rs. 80,000 were sold. The customer has been offered 2% trade discount and 3% (of list price) further discount if he pays within 15 days. It is reasonably expected that customer will pay within 15 days. At which amount sales should be recognised on 20th July?",
+    "options": [
+      { "id": "A", "text": "Rs. 80,000" },
+      { "id": "B", "text": "Rs. 78,400" },
+      { "id": "C", "text": "Rs. 76,048" },
+      { "id": "D", "text": "Rs. 76,000" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-019",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "What is correct double entry for dishonour of cheque that was given by a customer?",
+    "options": [
+      { "id": "A", "text": "DEBIT Sales return; CREDIT Receivables" },
+      { "id": "B", "text": "DEBIT Bank; CREDIT Receivables" },
+      { "id": "C", "text": "DEBIT Receivables; CREDIT Bank" },
+      { "id": "D", "text": "DEBIT Sales return; CREDIT Bank" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-020",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry, the transaction of cheque dishonoured is recorded?",
+    "options": [
+      { "id": "A", "text": "Sales day book" },
+      { "id": "B", "text": "Petty cash book" },
+      { "id": "C", "text": "Cash book" },
+      { "id": "D", "text": "General journal" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-021",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In the books of Faizan; Sarmad has a debit balance of Rs. 3,000 and credit balance of Rs. 1,500. Sarmad has requested to adjust debit balance with credit.\nWhat is the contra entry to be passed to adjust the balance?",
+    "options": [
+      { "id": "A", "text": "Dr Accounts receivable a/c Rs. 3,000 Cr Accounts payable a/c Rs. 3,000" },
+      { "id": "B", "text": "Dr Accounts payable a/c Rs. 3,000 Cr Accounts receivable a/c Rs. 3,000" },
+      { "id": "C", "text": "Dr Accounts receivable a/c Rs. 1,500 Cr Accounts payable a/c Rs. 1,500" },
+      { "id": "D", "text": "Dr Accounts payable a/c Rs. 1,500 Cr Accounts receivable a/c Rs. 1,500" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-022",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following document is prepared by the business’s store keeper on receiving goods in store?",
+    "options": [
+      { "id": "A", "text": "Goods dispatched note" },
+      { "id": "B", "text": "Goods received note" },
+      { "id": "C", "text": "Remittance advice" },
+      { "id": "D", "text": "Debit note" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-023",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Gross amount of purchases must be equal to:",
+    "options": [
+      { "id": "A", "text": "Total of all invoices issued to customers" },
+      { "id": "B", "text": "Total of all credit notes issued to customers" },
+      { "id": "C", "text": "Total of all debit notes sent by customers" },
+      { "id": "D", "text": "Total of all invoices received from suppliers" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-024",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "A debit note is issued to a:",
+    "options": [
+      { "id": "A", "text": "Customer for return of goods" },
+      { "id": "B", "text": "Supplier for return of goods" },
+      { "id": "C", "text": "Customer to accept the goods" },
+      { "id": "D", "text": "Supplier to accept the goods" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-025",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does purchases on account of Rs. 500,000 would be recorded?",
+    "options": [
+      { "id": "A", "text": "Cash book" },
+      { "id": "B", "text": "Accounts payable book" },
+      { "id": "C", "text": "Purchase day book" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-026",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does credit note received worth Rs.150,000 would be recorded?",
+    "options": [
+      { "id": "A", "text": "Accounts receivable book" },
+      { "id": "B", "text": "Sales day book" },
+      { "id": "C", "text": "Return inwards journal" },
+      { "id": "D", "text": "Returns outward journal" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-027",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following document is prepared when an item is needed in the business but it is not available in stock?",
+    "options": [
+      { "id": "A", "text": "Purchase requisition" },
+      { "id": "B", "text": "Quotation and approval" },
+      { "id": "C", "text": "Purchase order" },
+      { "id": "D", "text": "Goods received note" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-028",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following statements is correct with reference to settlement discount received from suppliers?",
+    "options": [
+      { "id": "A", "text": "It is recognised as reduction of revenue." },
+      { "id": "B", "text": "It is recognised and presented as other income" },
+      { "id": "C", "text": "It is recognised as reduction in cost of purchases" },
+      { "id": "D", "text": "It is recognised as operating expenses of the business" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-029",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry, entry for contra settlement is initially recorded?",
+    "options": [
+      { "id": "A", "text": "Purchase day book" },
+      { "id": "B", "text": "Purchase day book and sales day book" },
+      { "id": "C", "text": "Cash Book" },
+      { "id": "D", "text": "General Journal" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-030",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Cash discount received is recorded:",
+    "options": [
+      { "id": "A", "text": "As deduction in purchase day book" },
+      { "id": "B", "text": "In purchase return journal" },
+      { "id": "C", "text": "As deduction from cost of purchase in general journal" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-031",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Samreen has made following transactions during current week:\n- Sales Rs. 15,000 out of which Rs. 4,000 are on cash\n- A customer paid 800 after availing discount of 2%\n- Rent paid Rs. 100\nWhat is the total of receipt column of cash book?",
+    "options": [
+      { "id": "A", "text": "Rs. 15,800" },
+      { "id": "B", "text": "Rs. 4,800" },
+      { "id": "C", "text": "Rs. 4,700" },
+      { "id": "D", "text": "Rs. 15,700" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-032",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Sufyan has purchased certain goods on credit from Aliyan. List price of the goods was Rs. 10,000. Trade discount of 2% was allowed. Aliyan also offered a discount of 1% on amount due if the amount due is paid within 10 days. Sufyan availed the discount.\nFor recording the above transactions by Sufyan; which books of prime entry are involved and at what amount?",
+    "options": [
+      { "id": "A", "text": "Purchase day book Rs. 10,000, Cash book discount column Rs. 298 and payment column Rs. 9,702" },
+      { "id": "B", "text": "Purchase day book Rs. 9,702, Cash book Rs. 9,702" },
+      { "id": "C", "text": "Purchase day book Rs. 9,800, Cash book discount column Rs. 98 and payment column Rs. 9,702" },
+      { "id": "D", "text": "Sales day book Rs. 9,800, Cash book discount column Rs. 98 and receipt column Rs. 9,702" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-033",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "A businessman maintains petty cash book under imprest system. The imprest amount is Rs. 500. During a month, payments totalling Rs. 300 were made.\nHow much amount will be reimbursed at the end of the month to restore the petty cash to the imprest amount?",
+    "options": [
+      { "id": "A", "text": "Rs. 200" },
+      { "id": "B", "text": "Rs. 300" },
+      { "id": "C", "text": "Rs. 500" },
+      { "id": "D", "text": "Rs. 800" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-034",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following statement describes the nature of weekly imprest system for petty cash?",
+    "options": [
+      { "id": "A", "text": "Maximum amount of weekly petty cash expense is defined" },
+      { "id": "B", "text": "For maintaining a fixed float; an amount equal to weekly expenses incurred is reimbursed" },
+      { "id": "C", "text": "Proper authorization is required for all expense" },
+      { "id": "D", "text": "Business transfers an equal amount to petty cash balance at regular intervals" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-035",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "A business made following transactions during a certain period:\nCredit purchases Rs. 12,000; out of which Rs. 2,000 were rejected and subsequently returned to the supplier. Supplier allowed a discount of 1% on settlement of amount.\nWhat is the net amount of cash paid to the supplier and amount of net purchases to be reported in financial statements?",
+    "options": [
+      { "id": "A", "text": "Rs. 10,000 amount paid and Rs. 10,000 net purchases." },
+      { "id": "B", "text": "Rs. 10,000 amount paid and Rs. 10,000 net purchases" },
+      { "id": "C", "text": "Rs. 9,900 amount paid and Rs. 9,900 net purchases" },
+      { "id": "D", "text": "Rs. 9,900 amount paid and Rs. 11,880 net purchases" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-036",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Sadia maintains an imprest system of petty cash. Float is maintained at Rs. 1,000. During February 2019 Sadia has made payments of Rs. 650. At end of February it is decided to increase float by Rs. 100.\nWhat amount is needed to achieve the required float?",
+    "options": [
+      { "id": "A", "text": "Rs. 650" },
+      { "id": "B", "text": "Rs. 850" },
+      { "id": "C", "text": "Rs. 750" },
+      { "id": "D", "text": "Rs. 1,100" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-037",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does receipt from a debtor worth Rs.200,000 may be recorded?",
+    "options": [
+      { "id": "A", "text": "Petty cash book" },
+      { "id": "B", "text": "Cash book" },
+      { "id": "C", "text": "Receivable ledger" },
+      { "id": "D", "text": "Debtor book" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-038",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does payment to supplier worth Rs.300,000 may be recorded?",
+    "options": [
+      { "id": "A", "text": "Petty cash book" },
+      { "id": "B", "text": "Accounts payable journal" },
+      { "id": "C", "text": "Cash payment journal / Cash book" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-039",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does payment of entertainment expense worth Rs.150 is usually recorded?",
+    "options": [
+      { "id": "A", "text": "Petty cash book" },
+      { "id": "B", "text": "Cash payment journal" },
+      { "id": "C", "text": "Bank book" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-040",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does cash purchases worth Rs. 500,000 would be recorded?",
+    "options": [
+      { "id": "A", "text": "Petty cash book" },
+      { "id": "B", "text": "Cash book" },
+      { "id": "C", "text": "Purchase day book" },
+      { "id": "D", "text": "Accounts payable book" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-041",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry does cash sales worth Rs. 250,000 would be recorded?",
+    "options": [
+      { "id": "A", "text": "Petty cash book" },
+      { "id": "B", "text": "Cash book" },
+      { "id": "C", "text": "Sales day book" },
+      { "id": "D", "text": "Accounts receivable book" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-042",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which of the following items will be debited to payable account in journal entry?",
+    "options": [
+      { "id": "A", "text": "Payment to credit supplier" },
+      { "id": "B", "text": "Cash purchases" },
+      { "id": "C", "text": "Refunds from a credit supplier" },
+      { "id": "D", "text": "Balance due" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-043",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Any transaction, which cannot be recorded in any other book of prime entry, is recorded in?",
+    "options": [
+      { "id": "A", "text": "Cash book" },
+      { "id": "B", "text": "Petty cash book" },
+      { "id": "C", "text": "General journal" },
+      { "id": "D", "text": "Day books" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-044",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry correction of errors would usually be recorded?",
+    "options": [
+      { "id": "A", "text": "Cash book" },
+      { "id": "B", "text": "Petty cash book" },
+      { "id": "C", "text": "Error correction book" },
+      { "id": "D", "text": "General Journal" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-045",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "In which book of prime entry, year-end adjustments would usually be recorded?",
+    "options": [
+      { "id": "A", "text": "Cash book" },
+      { "id": "B", "text": "Petty cash book" },
+      { "id": "C", "text": "Error correction book" },
+      { "id": "D", "text": "General Journal" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC1-CH02-APQ-046",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "A voucher is:",
+    "options": [
+      { "id": "A", "text": "An internal document of a business entity" },
+      { "id": "B", "text": "An external document received by a business entity" },
+      { "id": "C", "text": "A book of prime entry" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC1-CH02-APQ-047",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Vouchers may be used:",
+    "options": [
+      { "id": "A", "text": "In replacement of books of prime entry" },
+      { "id": "B", "text": "In support of books of prime entry" },
+      { "id": "C", "text": "Both of above" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-048",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which voucher is used to for payment of cheques?",
+    "options": [
+      { "id": "A", "text": "Journal voucher" },
+      { "id": "B", "text": "Receipt voucher" },
+      { "id": "C", "text": "Payment voucher" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC1-CH02-APQ-049",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which voucher is used to for receipt of cheques/cash?",
+    "options": [
+      { "id": "A", "text": "Journal voucher" },
+      { "id": "B", "text": "Receipt voucher" },
+      { "id": "C", "text": "Payment voucher" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC1-CH02-APQ-050",
+    "subjectId": "prc-1",
+    "chapterId": 2,
+    "chapterName": "Chapter 2: Books of prime entry",
+    "source": "apq",
+    "questionText": "Which voucher is prepared for non-cash transactions?",
+    "options": [
+      { "id": "A", "text": "Journal voucher" },
+      { "id": "B", "text": "Receipt voucher" },
+      { "id": "C", "text": "Payment voucher" },
+      { "id": "D", "text": "None of above" }
+    ],
+    "correctOption": "A"
+  }
+]
