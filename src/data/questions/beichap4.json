@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "PRC3V2-CH04-ST-001",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Suppose that you purchased a ticket to a ICAP festival for Rs.100 from an online ticket broker. Once you arrived at the festival, you discovered that parking costs you an additional Rs.10. In this situation, the additional Rs.10 you pay for parking is an example of",
+    "options": [
+      { "id": "A", "text": "An economic loss." },
+      { "id": "B", "text": "Opportunity cost." },
+      { "id": "C", "text": "Marginal cost." },
+      { "id": "D", "text": "An inefficient cost." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-002",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "You have decided that you want to attend a costume party as Iron Man. You estimate that it will cost Rs 40 to assemble your costume. After spending Rs 40 on the costume, you realize that the additional pieces you need will cost you Rs 25 more. The marginal cost of completing the costume is",
+    "options": [
+      { "id": "A", "text": "Rs 15." },
+      { "id": "B", "text": "Rs 25." },
+      { "id": "C", "text": "Rs 40." },
+      { "id": "D", "text": "Rs 65." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-003",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "If you can buy 9 DVDs for Rs 126 or you could buy 10 DVDs for Rs 130, then the marginal cost of the tenth DVD is",
+    "options": [
+      { "id": "A", "text": "Rs 4." },
+      { "id": "B", "text": "Rs 13." },
+      { "id": "C", "text": "Rs 14." },
+      { "id": "D", "text": "Rs 130" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-004",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "If you can download 10 ring tones for your cell phone for Rs 10 or you could download 11 ring tones for your cell phone for Rs 10.50, then the marginal cost of the eleventh ring tone is",
+    "options": [
+      { "id": "A", "text": "Rs 0.50" },
+      { "id": "B", "text": "Rs 10.00" },
+      { "id": "C", "text": "Rs 10.50" },
+      { "id": "D", "text": "Rs 20.50" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-005",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which of the following best describes the law of diminishing returns? As more labour is added to a fixed amount of capital:",
+    "options": [
+      { "id": "A", "text": "Total output will decline" },
+      { "id": "B", "text": "Increase in total output will become smaller for each additional unit of labour employed" },
+      { "id": "C", "text": "Marginal product will rise" },
+      { "id": "D", "text": "Production costs will rise because higher wages will have to be paid to attract more labour" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-006",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which one of the following is not a source of economies of scale?",
+    "options": [
+      { "id": "A", "text": "The introduction of specialist capital equipment ." },
+      { "id": "B", "text": "Bulk buying" },
+      { "id": "C", "text": "The employment of specialist managers" },
+      { "id": "D", "text": "None of these." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-007",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "All of the following are characteristics of a market displaying perfect competition except which one?",
+    "options": [
+      { "id": "A", "text": "The product is homogeneous but differentiated by advertising." },
+      { "id": "B", "text": "There are no information gathering costs." },
+      { "id": "C", "text": "Producers act rationally." },
+      { "id": "D", "text": "There is a large number of sellers in the market." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-008",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Following diagram depicts (where Price/AR = MR is above minimum AVC but below ATC):",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 70 45 Q 130 120 200 45\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"2\"/><text x=\"205\" y=\"48\" fill=\"#F59E0B\" font-size=\"11\" font-weight=\"bold\">ATC</text><path d=\"M 65 85 Q 125 155 190 80\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\"/><text x=\"195\" y=\"83\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">AVC</text><path d=\"M 85 145 Q 125 110 165 35\" fill=\"none\" stroke=\"#EF4444\" stroke-width=\"2\"/><text x=\"170\" y=\"38\" fill=\"#EF4444\" font-size=\"11\" font-weight=\"bold\">MC</text><line x1=\"40\" y1=\"100\" x2=\"240\" y2=\"100\" stroke=\"#6366F1\" stroke-width=\"2\"/><text x=\"215\" y=\"94\" fill=\"#6366F1\" font-size=\"11\" font-weight=\"bold\">P=AR=MR</text></svg>",
+    "options": [
+      { "id": "A", "text": "Super profit of a firm under monopoly" },
+      { "id": "B", "text": "Normal profit of a firm under perfect competition" },
+      { "id": "C", "text": "Shut down condition of firm under perfect competition" },
+      { "id": "D", "text": "Wait and watch condition for a firm under perfect competition" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-009",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Following diagram depicts (where ATC lies above AR at the MC = MR output):",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 70 45 Q 130 110 200 45\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"2\"/><text x=\"205\" y=\"48\" fill=\"#F59E0B\" font-size=\"11\" font-weight=\"bold\">ATC</text><path d=\"M 80 140 Q 120 110 170 40\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2\"/><text x=\"175\" y=\"42\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">MC</text><path d=\"M 55 55 L 220 140\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2\"/><text x=\"225\" y=\"142\" fill=\"#6366F1\" font-size=\"11\" font-weight=\"bold\">AR</text><path d=\"M 55 55 L 145 155\" fill=\"none\" stroke=\"#A855F7\" stroke-width=\"2\"/><text x=\"150\" y=\"155\" fill=\"#A855F7\" font-size=\"11\" font-weight=\"bold\">MR</text></svg>",
+    "options": [
+      { "id": "A", "text": "Firms normal profit under monopoly" },
+      { "id": "B", "text": "Firm normal loss under monopoly" },
+      { "id": "C", "text": "Firm super profit under monopoly" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-010",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Oligopoly markets typically do not display price competition because:",
+    "options": [
+      { "id": "A", "text": "Barriers to entry exist" },
+      { "id": "B", "text": "Products are clearly differentiated" },
+      { "id": "C", "text": "Producers' decisions are interdependent" },
+      { "id": "D", "text": "There is always a price leader" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-011",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "An individual firm in long term equilibrium in a perfect competitive market will produce at a level where:",
+    "options": [
+      { "id": "A", "text": "A Marginal cost exceeds average cost" },
+      { "id": "B", "text": "Marginal cost is less than average cost" },
+      { "id": "C", "text": "Marginal cost and average cost are equal" },
+      { "id": "D", "text": "Marginal revenue is greater than average revenue" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-012",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which of the following arguments could not be used to support the existence of monopolies?",
+    "options": [
+      { "id": "A", "text": "Monopolies can achieve maximum economies of scale." },
+      { "id": "B", "text": "Monopolists can practice price discrimination." },
+      { "id": "C", "text": "Monopolies can finance more new projects out of profits." },
+      { "id": "D", "text": "Monopolies invest in long term projects." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-013",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "A monopolist's average revenue curve always slopes downwards because:",
+    "options": [
+      { "id": "A", "text": "Economies of scale exist in distribution" },
+      { "id": "B", "text": "There are allocative inefficiencies" },
+      { "id": "C", "text": "Market demand increases as price falls" },
+      { "id": "D", "text": "Marginal revenue can be negative" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-014",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "The long-run average cost curve for a business will eventually rise because of:",
+    "options": [
+      { "id": "A", "text": "The law of diminishing returns" },
+      { "id": "B", "text": "Increasing competition in the industry" },
+      { "id": "C", "text": "Limits to the size of the market for the good" },
+      { "id": "D", "text": "Diseconomies of scale" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-015",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "In a perfectly competitive market, all producers charge the same price because:",
+    "options": [
+      { "id": "A", "text": "They are all profit maximisers" },
+      { "id": "B", "text": "They have the same costs" },
+      { "id": "C", "text": "The product is homogeneous" },
+      { "id": "D", "text": "All firms are small" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-016",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "In conditions of perfect competition, the demand curve for the product of a firm:",
+    "options": [
+      { "id": "A", "text": "Is identical to the firm's marginal revenue curve" },
+      { "id": "B", "text": "Intersects the firm’s marginal revenue curve at the point where MC = MR" },
+      { "id": "C", "text": "Intersects the firm's average cost" },
+      { "id": "D", "text": "Is perfectly inelastic" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-017",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "According to the traditional theory of the firm, the equilibrium position for all firms will be where:",
+    "options": [
+      { "id": "A", "text": "Profits are maximised" },
+      { "id": "B", "text": "Output is maximised" },
+      { "id": "C", "text": "Revenue is maximised" },
+      { "id": "D", "text": "Costs are minimized" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-018",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "The law of diminishing returns can apply to a business only when:",
+    "options": [
+      { "id": "A", "text": "All factors of production can be varied." },
+      { "id": "B", "text": "At least one factor of production is fixed." },
+      { "id": "C", "text": "All factors of production are fixed." },
+      { "id": "D", "text": "Capital used in production is fixed." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-019",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Adil & Co employs 30 men in his factory which manufactures sweets. He pays them Rs.5 per hour and they all work maximum hours. To employ one more worker he would have to raise the wage rate to Rs. 5.50 per worker hour. If all other costs remain constant, the marginal cost per hour of labour is now:",
+    "options": [
+      { "id": "A", "text": "Rs. 20.50" },
+      { "id": "B", "text": "Rs. 15.00" },
+      { "id": "C", "text": "Rs. 5.50" },
+      { "id": "D", "text": "Rs. 0.50" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-020",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "In economics, what is the normal profit per unit of a product?",
+    "options": [
+      { "id": "A", "text": "The difference between its average revenue and average cost" },
+      { "id": "B", "text": "The difference between its marginal revenue and marginal cost" },
+      { "id": "C", "text": "An element in the cost of producing the product" },
+      { "id": "D", "text": "None of these" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-021",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which of the following statements best describes long run equilibrium in a market where there is monopolistic competition?",
+    "options": [
+      { "id": "A", "text": "Marginal revenue equals average cost." },
+      { "id": "B", "text": "There is excess capacity in the industry since firms could reduce average costs by expanding output." },
+      { "id": "C", "text": "Firms will earn supernormal profits because price exceeds marginal cost." },
+      { "id": "D", "text": "Price equals marginal cost, but does not equal average cost." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-022",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Where MR = 0, there the firm’s total revenue is maximum and demand is unitary elastic.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which one of the following statements about price discrimination is Incorrect?",
+    "options": [
+      { "id": "A", "text": "Dumping is not a form of price discrimination." },
+      { "id": "B", "text": "For price discrimination to be possible, the seller must be able to control the supply of the product" },
+      { "id": "C", "text": "Price discrimination is only profitable where the elasticity of demand is different in at least two of the markets." },
+      { "id": "D", "text": "An example of price discrimination is the sale of first class and second class tickets on an aero plane journey" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Slope of total cost = slope of total revenue is enough condition for profit maximization for a firm.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "The conditions necessary for a successful policy of price discrimination by a company include which of the following?",
+    "options": [
+      { "id": "A", "text": "There are at least four separate markets" },
+      { "id": "B", "text": "Marginal costs are different in each market" },
+      { "id": "C", "text": "The price elasticities of demand are different in each market" },
+      { "id": "D", "text": "The price elasticities of demand are the same in each market" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Shut down conditions of a firm under perfect competition in short run are:",
+    "options": [
+      { "id": "A", "text": "P = ATC" },
+      { "id": "B", "text": "P < AVC" },
+      { "id": "C", "text": "AR = AVC" },
+      { "id": "D", "text": "AR < AVC" }
+    ],
+    "correctOption": "B,D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Explicit cost = Total cost – opportunity cost.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Suppose that all inputs are increased by 50%, and as a result, total output increases by 30%. This would be an illustration of which of the following?",
+    "options": [
+      { "id": "A", "text": "The law of variable proportions" },
+      { "id": "B", "text": "Decreasing returns to scale" },
+      { "id": "C", "text": "A declining long run average cost curve" },
+      { "id": "D", "text": "None of these" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "In 3rd stage of law of variable proportions MP is positive",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which one of the following would be a variable cost to a firm?",
+    "options": [
+      { "id": "A", "text": "Mortgage payments on the factory" },
+      { "id": "B", "text": "The cost of raw materials" },
+      { "id": "C", "text": "Depreciation of machines" },
+      { "id": "D", "text": "Interest on debentures" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which one of the following would not act as a barrier to the entry of new firms into an industry?",
+    "options": [
+      { "id": "A", "text": "Perfect consumer knowledge" },
+      { "id": "B", "text": "Economies of scale" },
+      { "id": "C", "text": "High fixed costs of production" },
+      { "id": "D", "text": "Brand loyalty" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "The purpose of a cartel is to_______________:",
+    "options": [
+      { "id": "A", "text": "Rationalise production" },
+      { "id": "B", "text": "Reduce consumer uncertainty" },
+      { "id": "C", "text": "Standardise product quality" },
+      { "id": "D", "text": "Ensure that a dominant group of producers charge the same price" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "The law of diminishing marginal returns states that:",
+    "options": [
+      { "id": "A", "text": "As more factors of production are employed, output will rise initially and then fall" },
+      { "id": "B", "text": "As more factors of production are employed, output will rise, but at a diminishing rate" },
+      { "id": "C", "text": "As more variable factors of production are added to a fixed factor, output will rise at a faster rate initially and then fall" },
+      { "id": "D", "text": "As more variable factors of production are added to a fixed factor, output will rise at a decreasing rate after a certain point." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which of the following statements is correct?",
+    "options": [
+      { "id": "A", "text": "MC will equal ATC when ATC is at its minimum amount, but will not equal AVC when AVC is at its minimum." },
+      { "id": "B", "text": "MC will equal AVC when AVC is at its minimum amount, but will not equal ATC when ATC is at its minimum." },
+      { "id": "C", "text": "MC will equal ATC when ATC is at its minimum amount and AVC when AVC is at its minimum, which is at the same output level." },
+      { "id": "D", "text": "MC will equal ATC when ATC is at its minimum amount and AVC when AVC is at its minimum, but this will occur at different output levels." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which of the following statement is correct?",
+    "options": [
+      { "id": "A", "text": "When average cost is constant, the marginal cost must be falling" },
+      { "id": "B", "text": "When average cost is rising, the marginal cost is lower than the average cost" },
+      { "id": "C", "text": "When average cost is rising, the marginal cost is higher than the average cost" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "As its output increases, a firm’s short-run marginal cost will eventually increase because of:",
+    "options": [
+      { "id": "A", "text": "Diseconomies of scale" },
+      { "id": "B", "text": "A lower product price" },
+      { "id": "C", "text": "The firm’s need to break even" },
+      { "id": "D", "text": "Diminishing returns" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Marginal Revenue is greater than zero if:",
+    "options": [
+      { "id": "A", "text": "The elasticity of demand is greater than one" },
+      { "id": "B", "text": "The elasticity of demand is less than one" },
+      { "id": "C", "text": "The elasticity of demand is one" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Following data has been provided to the Chief Executive Officer of a monopoly firm: Marginal revenue Rs. 10, Marginal cost Rs. 11, Average revenue Rs. 16, Average cost Rs. 12. To maximize profit the firm should:",
+    "options": [
+      { "id": "A", "text": "Reduce price and increase output" },
+      { "id": "B", "text": "Reduce price and reduce output" },
+      { "id": "C", "text": "Increase price and increase output" },
+      { "id": "D", "text": "Increase price and reduce output" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "In perfect competition AR = MR because:",
+    "options": [
+      { "id": "A", "text": "Each additional units of output producing higher revenue" },
+      { "id": "B", "text": "Each additional unit of output is generating same revenue" },
+      { "id": "C", "text": "Firms are price makers" },
+      { "id": "D", "text": "None of these" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "By substituting TR equation into AR equation, we observe AR is equal to:",
+    "options": [
+      { "id": "A", "text": "Quantity" },
+      { "id": "B", "text": "Price" },
+      { "id": "C", "text": "MC" },
+      { "id": "D", "text": "AC" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "AVC become U-shape, when output increases beyond a normal capacity level due to:",
+    "options": [
+      { "id": "A", "text": "Down pressure of AFC is out weighted" },
+      { "id": "B", "text": "Law of diminishing returns" },
+      { "id": "C", "text": "Average total cost is also U-shape" },
+      { "id": "D", "text": "All of these" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-042",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Due to changing productivity proportion of Factors of production total cost curve will be:",
+    "options": [
+      { "id": "A", "text": "45 degrees straight curve" },
+      { "id": "B", "text": "L-shape curve" },
+      { "id": "C", "text": "Inverted S-shape" },
+      { "id": "D", "text": "U-shape" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-043",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Which of the following ____________is NOT a characteristic of oligopoly?",
+    "options": [
+      { "id": "A", "text": "Mutual dependence" },
+      { "id": "B", "text": "Growth through merger" },
+      { "id": "C", "text": "Large number of firms" },
+      { "id": "D", "text": "Non-price competition" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-044",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Given diagram depicts the concept of X-inefficiency of a state-owned enterprise.",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 60 50 Q 140 160 220 50\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2.5\"/><text x=\"225\" y=\"52\" fill=\"#6366F1\" font-size=\"12\" font-weight=\"bold\">LRAC</text></svg>",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-045",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Total revenue for a firm with a downward sloping demand curve, will be maximised when",
+    "options": [
+      { "id": "A", "text": "Marginal cost = marginal revenue" },
+      { "id": "B", "text": "Marginal cost = average revenue" },
+      { "id": "C", "text": "Average cost = average revenue" },
+      { "id": "D", "text": "Marginal revenue is zero" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-046",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Collusion in oligopolistic markets will lead to",
+    "options": [
+      { "id": "A", "text": "Firms setting price where industry marginal revenue is equal to marginal costs and supernormal profits being earned" },
+      { "id": "B", "text": "Firms setting price where industry marginal revenue is equal to marginal costs, and normal profits being earned" },
+      { "id": "C", "text": "Firms setting price equal to average total cost, and supernormal profits being earned" },
+      { "id": "D", "text": "Firms setting price equal to average total cost, and normal profits being earned" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-ST-047",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "self-test",
+    "questionText": "Diagram shows (actual AC curve above minimum possible AC curve):",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 60 80 Q 120 150 180 80\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"185\" y=\"83\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">AC (Min)</text><path d=\"M 60 50 Q 120 120 180 50\" fill=\"none\" stroke=\"#F59E0B\" stroke-width=\"2.5\"/><text x=\"185\" y=\"53\" fill=\"#F59E0B\" font-size=\"11\" font-weight=\"bold\">AC (Actual)</text></svg>",
+    "options": [
+      { "id": "A", "text": "Productive efficiency" },
+      { "id": "B", "text": "X-inefficiency" },
+      { "id": "C", "text": "Productive inefficiency" },
+      { "id": "D", "text": "Allocative efficiency" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-001",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Under perfect market conditions, the supply curve of a firm is the same as:",
+    "options": [
+      { "id": "A", "text": "MC curve" },
+      { "id": "B", "text": "MR curve" },
+      { "id": "C", "text": "AR curve" },
+      { "id": "D", "text": "AC curve" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-002",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "In a perfectly competitive market ___________ is/are the price maker(s):",
+    "options": [
+      { "id": "A", "text": "the individual firm" },
+      { "id": "B", "text": "the industry" },
+      { "id": "C", "text": "a large number of consumers" },
+      { "id": "D", "text": "the trade association" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-003",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Which of the following is NOT included in the explicit costs of a firm?",
+    "options": [
+      { "id": "A", "text": "Wages paid to labour" },
+      { "id": "B", "text": "Interest paid for borrowed capital" },
+      { "id": "C", "text": "Payments for purchases of materials" },
+      { "id": "D", "text": "Normal profit" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-004",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Monopoly power may be based on:",
+    "options": [
+      { "id": "A", "text": "economies of large-scale production" },
+      { "id": "B", "text": "patents" },
+      { "id": "C", "text": "control of key natural resources" },
+      { "id": "D", "text": "all of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-005",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Which of these is NOT a component of cost function of a product?",
+    "options": [
+      { "id": "A", "text": "Market price of the product" },
+      { "id": "B", "text": "Operating technology of the plant" },
+      { "id": "C", "text": "Operating capacity" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-006",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "The demand for a Factor of Production is called:",
+    "options": [
+      { "id": "A", "text": "quantity demand" },
+      { "id": "B", "text": "derived demand" },
+      { "id": "C", "text": "factor price" },
+      { "id": "D", "text": "cost of production" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-007",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "As its output increases, a firm’s short-run marginal cost will eventually increase because of:",
+    "options": [
+      { "id": "A", "text": "diseconomies of scale" },
+      { "id": "B", "text": "a lower product prices" },
+      { "id": "C", "text": "the firm’s need to break even" },
+      { "id": "D", "text": "diminishing returns" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-008",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A firm that breaks even after all the economic costs are paid, is earning:",
+    "options": [
+      { "id": "A", "text": "economic profit" },
+      { "id": "B", "text": "no profit" },
+      { "id": "C", "text": "normal profit" },
+      { "id": "D", "text": "super normal profit" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-009",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "When diminishing returns begin to operate, the total variable cost curve will start to",
+    "options": [
+      { "id": "A", "text": "fall at an increasing rate" },
+      { "id": "B", "text": "rise at a decreasing rate" },
+      { "id": "C", "text": "fall at a decreasing rate" },
+      { "id": "D", "text": "rise at an increasing rate" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-010",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Marginal cost is best defined as",
+    "options": [
+      { "id": "A", "text": "the difference between total fixed costs and total variable costs." },
+      { "id": "B", "text": "costs which are too small to influence prices." },
+      { "id": "C", "text": "the change in total costs when output rises by one unit." },
+      { "id": "D", "text": "fixed costs per unit of output." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-011",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "The 'law of diminishing returns' can apply to a business only when",
+    "options": [
+      { "id": "A", "text": "all factors of production can be varied." },
+      { "id": "B", "text": "at least one factor of production is fixed." },
+      { "id": "C", "text": "all factors of production are fixed." },
+      { "id": "D", "text": "capital used in production is fixed." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-012",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Which of the following always rise when a manufacturing business increases its output?\n(i) Fixed costs\n(ii) Marginal cost\n(iii) Average variable cost\n(iv) Total costs",
+    "options": [
+      { "id": "A", "text": "(i) and (ii) only" },
+      { "id": "B", "text": "(ii) and (iii) only" },
+      { "id": "C", "text": "(iii) and (iv) only" },
+      { "id": "D", "text": "(iv) only" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-013",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "The minimum price needed for a firm to remain in production in the short run is equal to",
+    "options": [
+      { "id": "A", "text": "average fixed cost" },
+      { "id": "B", "text": "average variable cost" },
+      { "id": "C", "text": "average total cost" },
+      { "id": "D", "text": "marginal cost" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-014",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A business employs 11 workers at a wage of £24 per day. To attract one more worker it raises the wages to £25 per day. The marginal cost of employing the extra worker is",
+    "options": [
+      { "id": "A", "text": "£1" },
+      { "id": "B", "text": "£12" },
+      { "id": "C", "text": "£25" },
+      { "id": "D", "text": "£36" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-015",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "The long-run average cost curve for a business will eventually rise because of",
+    "options": [
+      { "id": "A", "text": "the law of diminishing returns" },
+      { "id": "B", "text": "increasing competition in the industry" },
+      { "id": "C", "text": "limits to the size of the market for the good" },
+      { "id": "D", "text": "diseconomies of scale" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-016",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Economies of scale",
+    "options": [
+      { "id": "A", "text": "can be gained only by monopoly firms" },
+      { "id": "B", "text": "are possible only if there is a sufficient demand for the product" },
+      { "id": "C", "text": "do not necessarily reduce unit costs of production" },
+      { "id": "D", "text": "depend on the efficiency of management" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-017",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "If the total cost curve is plotted, marginal cost curve can be illustrated by:",
+    "options": [
+      { "id": "A", "text": "U shapes curve cutting the total cost curve from its minimum point." },
+      { "id": "B", "text": "a straight line cutting the curve at its lowest point." },
+      { "id": "C", "text": "a straight line passing through the origin." },
+      { "id": "D", "text": "the slope of a tangent to the curve at any given output." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-018",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A firm, in the short run, would stop production if:",
+    "options": [
+      { "id": "A", "text": "marginal cost was equal to marginal revenue" },
+      { "id": "B", "text": "total costs were equal to total revenue" },
+      { "id": "C", "text": "total revenue was less than total variable cost" },
+      { "id": "D", "text": "total revenue was less than total fixed cost" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-019",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "The long-term shape of the average cost curve is due to:",
+    "options": [
+      { "id": "A", "text": "economies of scale" },
+      { "id": "B", "text": "variable proportions" },
+      { "id": "C", "text": "change in technology" },
+      { "id": "D", "text": "imperfect competition" },
+      { "id": "E", "text": "diseconomies of scale" }
+    ],
+    "correctOption": "A,E"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-020",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "In a diminishing cost industry, an increase in industry output causes the Average total cost curve of a typical firm to shift:",
+    "options": [
+      { "id": "A", "text": "Upward" },
+      { "id": "B", "text": "Downward" },
+      { "id": "C", "text": "To the right" },
+      { "id": "D", "text": "To the left" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-021",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "In an increasing cost industry, an increase in output causes the Average total cost curve of a typical firm to shift.",
+    "options": [
+      { "id": "A", "text": "To the left" },
+      { "id": "B", "text": "To the right" },
+      { "id": "C", "text": "Downward" },
+      { "id": "D", "text": "Upward" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-022",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Marginal cost curve intersects Average total cost curve at:",
+    "options": [
+      { "id": "A", "text": "the minimum point of ATC" },
+      { "id": "B", "text": "the minimum point of MC" },
+      { "id": "C", "text": "the minimum points of both the MC and ATC" },
+      { "id": "D", "text": "all of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "All members of a cartel:",
+    "options": [
+      { "id": "A", "text": "produce at the same average cost" },
+      { "id": "B", "text": "produce where their MC equals price" },
+      { "id": "C", "text": "adopt independent price and output policy" },
+      { "id": "D", "text": "share the market equally" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Oligopoly is a type of market organization in which there exists:",
+    "options": [
+      { "id": "A", "text": "a single firm" },
+      { "id": "B", "text": "two firms" },
+      { "id": "C", "text": "a large number of firms" },
+      { "id": "D", "text": "a few firms" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A cartel is a collusive agreement:",
+    "options": [
+      { "id": "A", "text": "among largest firms in an industry" },
+      { "id": "B", "text": "among smallest firms in an industry" },
+      { "id": "C", "text": "sanctioned by the government" },
+      { "id": "D", "text": "among firms to increase profit by reducing output" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Duopoly is a special case of which of the following:",
+    "options": [
+      { "id": "A", "text": "Perfect competition" },
+      { "id": "B", "text": "Monopoly" },
+      { "id": "C", "text": "Monopolistic competition" },
+      { "id": "D", "text": "Oligopoly" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Which of the following distinguishes oligopoly market from other forms of market organization?",
+    "options": [
+      { "id": "A", "text": "Interdependence of producers" },
+      { "id": "B", "text": "Differentiated products" },
+      { "id": "C", "text": "Many firms in a small market" },
+      { "id": "D", "text": "Firms are price takers" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Which of the following describes the dominant firm model?\nI. All firms in the industry have identical cost curves.\nII. One large firm sets the price and smaller firms act as price takers.\nIII. The dominant firm lets smaller firms supply all they want at the set price and supplies the remaining market demand.",
+    "options": [
+      { "id": "A", "text": "II only" },
+      { "id": "B", "text": "III only" },
+      { "id": "C", "text": "I only" },
+      { "id": "D", "text": "II and III" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "What does it mean to say that firms in an oligopoly are interdependent?",
+    "options": [
+      { "id": "A", "text": "The firms must charge identical prices for the products" },
+      { "id": "B", "text": "The firm’s economic profits must be equal to zero in the long run" },
+      { "id": "C", "text": "Barriers block the entry of new firms into the industry" },
+      { "id": "D", "text": "The output price decisions of one firm affect the output price decisions of other firms in the industry" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Technical relationship between inputs and output of firms is known as:",
+    "options": [
+      { "id": "A", "text": "Investment" },
+      { "id": "B", "text": "Production Function" },
+      { "id": "C", "text": "Consumption Function" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A time period in which at least one input remains fixed while other are variable is termed as:",
+    "options": [
+      { "id": "A", "text": "Marked period" },
+      { "id": "B", "text": "Short-Run" },
+      { "id": "C", "text": "Long-Run" },
+      { "id": "D", "text": "Very Short-Run" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "According to Law of variable proportion, marginal product & average product curves intersect each other at the point where:",
+    "options": [
+      { "id": "A", "text": "Marginal product is zero" },
+      { "id": "B", "text": "Average product is zero" },
+      { "id": "C", "text": "Average product is at its maximum" },
+      { "id": "D", "text": "Marginal product is at its maximum" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "According to Law of variable proportion when total production is at its maximum marginal production will be:",
+    "options": [
+      { "id": "A", "text": "Minimum" },
+      { "id": "B", "text": "Negative" },
+      { "id": "C", "text": "Maximum" },
+      { "id": "D", "text": "Zero" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Cost of production on extra unit of given product is known as:",
+    "options": [
+      { "id": "A", "text": "Marginal cost" },
+      { "id": "B", "text": "Average cost" },
+      { "id": "C", "text": "Variable cost" },
+      { "id": "D", "text": "Economic cost" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Short-Run average cost curve is always",
+    "options": [
+      { "id": "A", "text": "Upward to the right" },
+      { "id": "B", "text": "Straight line" },
+      { "id": "C", "text": "U – shaped" },
+      { "id": "D", "text": "Convex to the origin" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Cost reducing benefits of large scale",
+    "options": [
+      { "id": "A", "text": "Economies of scale" },
+      { "id": "B", "text": "Diseconomies of scale" },
+      { "id": "C", "text": "All of the above" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "In a perfectly competitive market, firms are:",
+    "options": [
+      { "id": "A", "text": "Price maker" },
+      { "id": "B", "text": "Very large" },
+      { "id": "C", "text": "In small number" },
+      { "id": "D", "text": "Price taker" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Sufficient condition for a firm to be in equilibrium is:",
+    "options": [
+      { "id": "A", "text": "A.R. = Price" },
+      { "id": "B", "text": "M. R. = M.C" },
+      { "id": "C", "text": "M.C. = A. R" },
+      { "id": "D", "text": "Marginal cost equal to marginal revenue while it is increasing" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A firm will shut-down its business",
+    "options": [
+      { "id": "A", "text": "It faces normal loss" },
+      { "id": "B", "text": "It earns zero profit" },
+      { "id": "C", "text": "A.V.C. > A.R." },
+      { "id": "D", "text": "A.C. > A.R." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Cost of doing business which accountant records in expenditure records only known as:\n(i) Explicit cost\n(ii) Accounting cost\n(iii) Implicit cost\n(iv) Opportunity cost",
+    "options": [
+      { "id": "A", "text": "(i) & (iii)" },
+      { "id": "B", "text": "(i) & (ii)" },
+      { "id": "C", "text": "(ii) & (iii)" },
+      { "id": "D", "text": "(ii) & (iv)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Under perfect competition, in the long run If A.R. = M.R. = M.C = A.C = Price, the firm is earning:\n(i) Normal profit\n(ii) Supernormal profit\n(iii) Zero economic profit\n(iv) Economic loss",
+    "options": [
+      { "id": "A", "text": "(i) & (iii)" },
+      { "id": "B", "text": "(i) & (iv)" },
+      { "id": "C", "text": "(ii) & (iv)" },
+      { "id": "D", "text": "(iii) & (iv)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-042",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Which of the following may be barriers to entry preventing new firms from entering the monopoly market?\n(i) Legal patents and copyrights\n(ii) Economies of scale and high fixed costs\n(iii) Homogeneous products\n(iv) Perfect knowledge among buyers",
+    "options": [
+      { "id": "A", "text": "(i) & (ii)" },
+      { "id": "B", "text": "(ii) & (iv)" },
+      { "id": "C", "text": "(iii) & (iv)" },
+      { "id": "D", "text": "(i) & (iv)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-043",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "A market has a large number of firms, a downward sloping market demand curve, and no barriers on entry in the long-run. The market structure could be:\n(i) Perfect competition\n(ii) Monopolistic competition\n(iii) Oligopoly\n(iv) Monopoly",
+    "options": [
+      { "id": "A", "text": "Only (ii)" },
+      { "id": "B", "text": "(i) & (ii)" },
+      { "id": "C", "text": "(i) & (iii)" },
+      { "id": "D", "text": "(ii) & (iii)" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-044",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Price discrimination is not possible for a monopolist in two distinct markets if:",
+    "options": [
+      { "id": "A", "text": "Two markets having same elasticity of demand" },
+      { "id": "B", "text": "Two markets having different elasticity of demand" },
+      { "id": "C", "text": "Two markets having different size" },
+      { "id": "D", "text": "Two markets having same size" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-045",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "KARACHI ELECTRIC is an example of",
+    "options": [
+      { "id": "A", "text": "Oligopoly" },
+      { "id": "B", "text": "Monopolistic Competition" },
+      { "id": "C", "text": "Perfect Competition" },
+      { "id": "D", "text": "Monopoly" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-046",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "The cooking oil industry can be an example of:",
+    "options": [
+      { "id": "A", "text": "Oligopoly" },
+      { "id": "B", "text": "Monopolistic Competition" },
+      { "id": "C", "text": "Perfect Competition" },
+      { "id": "D", "text": "Monopoly" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH04-APQ-047",
+    "subjectId": "prc-3-v2",
+    "chapterId": 4,
+    "chapterName": "Chapter 4: Firm Theory",
+    "source": "apq",
+    "questionText": "Since monopolies does not produce at the lowest point on average cost, it is produced at a level of __a__. Furthermore, monopolies wasteful of costs and spend more than they need to. The lack of competition marks monopolies complacent. This type of over spending inefficiency is called __b__.",
+    "options": [
+      { "id": "A", "text": "a = Technical inefficiency | b = x – inefficiency" },
+      { "id": "B", "text": "a = Allocative efficiency | b = X-inefficiency" },
+      { "id": "C", "text": "a = Productive efficiency | b = Allocative inefficiency" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  }
+]
