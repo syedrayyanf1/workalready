@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "PRC3V2-CH05-ST-001",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following is not a leakage from the circular flow of income?",
+    "options": [
+      { "id": "A", "text": "corporation tax" },
+      { "id": "B", "text": "expenditure on foreign goods" },
+      { "id": "C", "text": "personal saving" },
+      { "id": "D", "text": "retirement pensions" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-002",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "During a year, a country's national income in money terms increased by 6%, prices increased by 4% and total population increased by 2%. What is the approximate change in real per capita income?",
+    "options": [
+      { "id": "A", "text": "decrease of 2%" },
+      { "id": "B", "text": "no change" },
+      { "id": "C", "text": "an increase of 2%" },
+      { "id": "D", "text": "an increase of 4%" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-003",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following will directly result in an increase in China's Gross National Product?",
+    "options": [
+      { "id": "A", "text": "increased wages earned in a Malaysian-owned factory in China" },
+      { "id": "B", "text": "increased imports of goods and services" },
+      { "id": "C", "text": "increased outflows of net property income" },
+      { "id": "D", "text": "increased taxes on domestic expenditure" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-004",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "A country's GDP declines but the welfare of its population rises. What could explain this?",
+    "options": [
+      { "id": "A", "text": "a fall in leisure time" },
+      { "id": "B", "text": "a fall in the size of the subsistence sector" },
+      { "id": "C", "text": "a rise in positive externalities" },
+      { "id": "D", "text": "a rise in the size of the population" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-005",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The information in the table is taken from a country's national income accounts:\n\n| Item | Rs. million |\n| :--- | :---: |\n| National income | 500 |\n| Consumer spending | 200 |\n| Investment spending | 75 |\n| Government spending | 150 |\n| Taxation | 140 |\n| Exports | 125 |\n\nWhat is the value of imports?",
+    "options": [
+      { "id": "A", "text": "Rs 125 million" },
+      { "id": "B", "text": "Rs 75 million" },
+      { "id": "C", "text": "Rs 50 million" },
+      { "id": "D", "text": "Rs 25 million" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-006",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "A government uses real personal disposable income as a measure of the standard of living. What does this measure not take into account?",
+    "options": [
+      { "id": "A", "text": "the distribution of income" },
+      { "id": "B", "text": "the level of national income" },
+      { "id": "C", "text": "the size of the population" },
+      { "id": "D", "text": "the average price level" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-007",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is likely to increase GDP per worker in a developing economy?",
+    "options": [
+      { "id": "A", "text": "a decrease in the numbers engaged in subsistence agriculture" },
+      { "id": "B", "text": "a decrease in the numbers engaged in manufacturing" },
+      { "id": "C", "text": "an increase in the employment rate" },
+      { "id": "D", "text": "an increase in the population of working age" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-008",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is most likely to lead in the long run to an increase in world real GDP per head?",
+    "options": [
+      { "id": "A", "text": "faster population growth" },
+      { "id": "B", "text": "trade liberalization" },
+      { "id": "C", "text": "a lower propensity to save" },
+      { "id": "D", "text": "faster growth of the money supply" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-009",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is likely to be the effect of an oil price increase on the global economy?",
+    "options": [
+      { "id": "A", "text": "a strengthening of demand inflation" },
+      { "id": "B", "text": "a weakening of cost inflation" },
+      { "id": "C", "text": "a decrease in the rate of growth" },
+      { "id": "D", "text": "a decrease in unemployment" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-010",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The information in the table is taken from a country's national income accounts:\n\n| Item | Rs. million |\n| :--- | :---: |\n| National income | 600 |\n| Consumer spending | 400 |\n| Investment spending | 80 |\n| Government spending on goods and services | 100 |\n| Taxation | 90 |\n| Imports | 120 |\n\nWhat is the value of exports?",
+    "options": [
+      { "id": "A", "text": "Rs 100 million" },
+      { "id": "B", "text": "Rs 120 million" },
+      { "id": "C", "text": "Rs 140 million" },
+      { "id": "D", "text": "Rs 230 million" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-011",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is not a leakage from the circular flow of income?",
+    "options": [
+      { "id": "A", "text": "expenditure on foreign goods" },
+      { "id": "B", "text": "indirect taxes" },
+      { "id": "C", "text": "undistributed profits" },
+      { "id": "D", "text": "unemployment benefits" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-012",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which is likely to cause a decrease in aggregate supply?",
+    "options": [
+      { "id": "A", "text": "a decrease in consumption expenditure" },
+      { "id": "B", "text": "an increase in labor productivity" },
+      { "id": "C", "text": "a decrease in rates of unemployment benefit" },
+      { "id": "D", "text": "an increase in wage costs per unit of output" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-013",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Over a given period, money income in an economy increased by 8%. Over the same period, prices rose on average by 6%. What can be deduced from this?",
+    "options": [
+      { "id": "A", "text": "Real income decreased by 2%." },
+      { "id": "B", "text": "The income velocity of circulation decreased by 2%." },
+      { "id": "C", "text": "The money supply increased by 14%." },
+      { "id": "D", "text": "The volume of output increased by 2%." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-014",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If there is reduction in government spending, there will not necessarily be a fall in National income if there is an increase in:\n1. exports\n2. taxation\n3. Investment",
+    "options": [
+      { "id": "A", "text": "1 and 2" },
+      { "id": "B", "text": "1 and 3" },
+      { "id": "C", "text": "2 and 3" },
+      { "id": "D", "text": "All of 1, 2 and 3" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-015",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which one of the following items is most likely to increase the circular flow of income?",
+    "options": [
+      { "id": "A", "text": "Increased taxation" },
+      { "id": "B", "text": "Increased spending on imports" },
+      { "id": "C", "text": "Lower government spending" },
+      { "id": "D", "text": "Reductions in personal savings" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-016",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following may cause an increase in National Income?",
+    "options": [
+      { "id": "A", "text": "A fall in investment" },
+      { "id": "B", "text": "A rise in exports" },
+      { "id": "C", "text": "An increase in saving" },
+      { "id": "D", "text": "A fall in consumer spending" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-017",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following would not give the value of the Pakistan’s Gross National Product?",
+    "options": [
+      { "id": "A", "text": "Gross National Expenditure minus exports" },
+      { "id": "B", "text": "Gross Domestic Product plus net property income from abroad" },
+      { "id": "C", "text": "Total factor incomes earned by Pakistani residents" },
+      { "id": "D", "text": "Net National Income plus depreciation" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-018",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Net National Product at factor cost + Capital consumption + Indirect taxes on expenditure - Subsidies Equals:",
+    "options": [
+      { "id": "A", "text": "Gross National Product at market prices" },
+      { "id": "B", "text": "Gross National Product at factor cost" },
+      { "id": "C", "text": "Gross Domestic Product at market prices" },
+      { "id": "D", "text": "Gross Domestic Product at factor cost" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-019",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Given the following National Income data:\n- GDP at market prices: Rs. 4,200m\n- Net property income from abroad: Rs. 90m\n- Indirect taxes: Rs. 500m\n- Subsidies: Rs. 50m\n- Capital consumption (Depreciation): Rs. 100m\n\nCalculate:\ni. Gross National Product at factor cost\nii. Gross National Product at market prices\niii. National Income (NNP) at factor cost",
+    "options": [
+      { "id": "A", "text": "i: Rs 3,700m, ii: Rs 4,090m, iii: Rs 3,290m" },
+      { "id": "B", "text": "i: Rs 3,840m, ii: Rs 4,290m, iii: Rs 3,740m" },
+      { "id": "C", "text": "i: Rs 4,290m, ii: Rs 4,250m, iii: Rs 3,800m" },
+      { "id": "D", "text": "i: Rs 4,840m, ii: Rs 4,050m, iii: Rs 3,840m" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-020",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following items is not included in the calculation of Gross National Product at factor cost?",
+    "options": [
+      { "id": "A", "text": "the cost of building new government offices" },
+      { "id": "B", "text": "value added tax on business services" },
+      { "id": "C", "text": "dividends received from shares in a company abroad" },
+      { "id": "D", "text": "Imputed rent of owner-occupied houses" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-021",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An individual earns Rs 30,000 in a year. Of this Rs 8,000 is tax free. The rate of income tax is 25 Ps in Re1. The individual’s personal disposable income for the year is:",
+    "options": [
+      { "id": "A", "text": "Rs 22,000" },
+      { "id": "B", "text": "Rs 22,500" },
+      { "id": "C", "text": "Rs 24,500" },
+      { "id": "D", "text": "Rs 30,000" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-022",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following cannot be termed as ‘transfer payment’ for the purpose of National Income accounting?",
+    "options": [
+      { "id": "A", "text": "Interest paid to holders of government stock" },
+      { "id": "B", "text": "Salaries paid to Members of Parliament" },
+      { "id": "C", "text": "Payments of state pensions" },
+      { "id": "D", "text": "Social security payments" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following Investments creates an injection into the circular flow of income?",
+    "options": [
+      { "id": "A", "text": "An Increase by a firm in its stocks of finished goods, prior to a marketing campaign" },
+      { "id": "B", "text": "The purchase by a pension fund of shares in a newly-privatized company" },
+      { "id": "C", "text": "The purchase of a second-hand piece of farming machinery with their savings by a farming co-operative group" },
+      { "id": "D", "text": "The takeover of one company by another company" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "In order to measure whether there has been a change in the standard of living of people in a country over a period of years, it would be necessary to obtain relevant statistics for",
+    "options": [
+      { "id": "A", "text": "National Income, population, retail price Index" },
+      { "id": "B", "text": "National product, balance of payments, retail price index" },
+      { "id": "C", "text": "National Income, investment, working population" },
+      { "id": "D", "text": "Industrial output, working population, balance of payments" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If there is a reduction in government spending, there will not necessarily be a fall in National Income if there is an increase in:",
+    "options": [
+      { "id": "A", "text": "Savings" },
+      { "id": "B", "text": "Taxation" },
+      { "id": "C", "text": "Investment" },
+      { "id": "D", "text": "Imports" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following cannot be termed a 'transfer payment' for the purpose of National Income accounting?",
+    "options": [
+      { "id": "A", "text": "Amount given on health cards" },
+      { "id": "B", "text": "Salaries paid to private sector employees" },
+      { "id": "C", "text": "Payments of state pensions" },
+      { "id": "D", "text": "Social security payments" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following investments do not create an injection into the circular flow of income?",
+    "options": [
+      { "id": "A", "text": "The takeover of one company by another company" },
+      { "id": "B", "text": "The purchase by a pension fund of shares in a newly privatized company" },
+      { "id": "C", "text": "The purchase of a second-hand piece of farming machinery with their savings by a farming co-operative group" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which one of the following items is not included in the calculation of Gross National Product at factor cost?",
+    "options": [
+      { "id": "A", "text": "The cost of building new government offices" },
+      { "id": "B", "text": "Tax on consumption" },
+      { "id": "C", "text": "Dividends received from shares in a company abroad" },
+      { "id": "D", "text": "Imputed rent of owner-occupied houses" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Insert the missing term in the equation below. GNP - GDP = ______",
+    "options": [
+      { "id": "A", "text": "Net property income from abroad" },
+      { "id": "B", "text": "Depreciation" },
+      { "id": "C", "text": "Indirect taxes" },
+      { "id": "D", "text": "Subsidies" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Withdrawals from the circular flow consist of savings, taxations and imports.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following would not be counted in 2023's GDP?",
+    "options": [
+      { "id": "A", "text": "The value of a 2018 boat you purchase from a boat dealer in 2023" },
+      { "id": "B", "text": "The 2023 salary of a used motorcycle salesperson" },
+      { "id": "C", "text": "The commissions earned by a real estate agent in selling condominiums built prior to 2023" },
+      { "id": "D", "text": "The value of a refrigerator manufactured in 2023 but not sold in 2023" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If no foreign companies produce in a country, but many of the country's companies produce abroad, then",
+    "options": [
+      { "id": "A", "text": "The country's GNP will tend to exceed its GDP." },
+      { "id": "B", "text": "The country's GDP will tend to exceed its GNP." },
+      { "id": "C", "text": "The country's GNP and GDP will tend to be equal." },
+      { "id": "D", "text": "The country's GDP will tend to be equal to its domestic income." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "_________method of computing national income helps us to avoid double counting of any value.",
+    "options": [
+      { "id": "A", "text": "Value added" },
+      { "id": "B", "text": "Product approach" },
+      { "id": "C", "text": "Income approach" },
+      { "id": "D", "text": "Expenditure approach" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The value of what KFC produces in Pakistan is included in the U.S ________ and in Pakistan ________.",
+    "options": [
+      { "id": "A", "text": "GDP; GDP" },
+      { "id": "B", "text": "GNP; GNP" },
+      { "id": "C", "text": "GNP; GDP" },
+      { "id": "D", "text": "GDP; GNP" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Double counting can be avoided by using the value-added approach when calculating GDP.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "________ is an integral part of aggregate expenditure.",
+    "options": [
+      { "id": "A", "text": "Spending by government" },
+      { "id": "B", "text": "Spending by households" },
+      { "id": "C", "text": "Spending by firms" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "_________is the hurdle while calculating national income in Pakistan.",
+    "options": [
+      { "id": "A", "text": "Illegal activities" },
+      { "id": "B", "text": "Barter Transactions" },
+      { "id": "C", "text": "Undocumented economy" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "___________ the main reason behind calculating national income of a country.",
+    "options": [
+      { "id": "A", "text": "Economic planning" },
+      { "id": "B", "text": "Measuring living standards" },
+      { "id": "C", "text": "Comparing economic growth of various countries" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Following is Macroeconomic objective",
+    "options": [
+      { "id": "A", "text": "Economic growth" },
+      { "id": "B", "text": "Control inflation & unemployment" },
+      { "id": "C", "text": "Equilibrium in balance of payments" },
+      { "id": "D", "text": "All of above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "National income at factor cost is defined as",
+    "options": [
+      { "id": "A", "text": "GNP at market price" },
+      { "id": "B", "text": "GDP at market price" },
+      { "id": "C", "text": "NNP at factor cost" },
+      { "id": "D", "text": "Personal disposable income" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The circular flow of income for a two-sector model shows",
+    "options": [
+      { "id": "A", "text": "The flow of income between the household and business sectors" },
+      { "id": "B", "text": "The amount of money held by the household and business sectors" },
+      { "id": "C", "text": "Whether the household sector is satisfied with the output of the business sector" },
+      { "id": "D", "text": "Whether the business sector is satisfied with the spending of the household sector" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-042",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If GNP rose from Rs100 million to Rs150 million and price rose by 50% over this period",
+    "options": [
+      { "id": "A", "text": "Real GNP fell by 100%" },
+      { "id": "B", "text": "Real GNP fell by 50%" },
+      { "id": "C", "text": "Real GNP stayed the same" },
+      { "id": "D", "text": "Real GNP rose by 50%" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-043",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "A country has a GDP at factor cost of Rs.150 m. Government expenditure was Rs.25 m, subsidies were Rs.10 m and taxes were Rs.17 m. What is its GDP at market prices?",
+    "options": [
+      { "id": "A", "text": "Rs.143 m" },
+      { "id": "B", "text": "Rs.157 m" },
+      { "id": "C", "text": "Rs.168 m" },
+      { "id": "D", "text": "Rs.182 m" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-044",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following is NOT an item of public consumption?",
+    "options": [
+      { "id": "A", "text": "Expenditure on health" },
+      { "id": "B", "text": "Expenditure on education" },
+      { "id": "C", "text": "Expenditure on general administration" },
+      { "id": "D", "text": "Expenditure as transfer payments" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-045",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Depreciation is also called capital consumption.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-046",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Real GDP = Nominal GDP / Current GDP x 100",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-047",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following represents a withdrawal from the circular flow of national income?",
+    "options": [
+      { "id": "A", "text": "A rise in consumption" },
+      { "id": "B", "text": "A deficit on the balance of trade" },
+      { "id": "C", "text": "A surplus on the balance of trade" },
+      { "id": "D", "text": "A rise in public investment" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-048",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If depreciation equals zero and retained earnings equal Rs.25 billion, then",
+    "options": [
+      { "id": "A", "text": "GNP is less than net national product by Rs.25 billion." },
+      { "id": "B", "text": "GNP equals net national product." },
+      { "id": "C", "text": "Net national product is less than GNP by Rs.25 billion." },
+      { "id": "D", "text": "GNP is greater than GDP by Rs.25 billion." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-049",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Real GDP = ____________ x 100",
+    "options": [
+      { "id": "A", "text": "Nominal GDP / Current GDP" },
+      { "id": "B", "text": "Real GDP / Nominal GDP" },
+      { "id": "C", "text": "Nominal GDP / GDP deflator" },
+      { "id": "D", "text": "Real GDP / Inflation" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-050",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Basic reason behind movement from M to N along the AD curve is:",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 50 40 L 240 140\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"55\" r=\"4\" fill=\"#FAFAFA\"/><text x=\"88\" y=\"52\" fill=\"#FAFAFA\" font-size=\"12\" font-weight=\"bold\">M</text><circle cx=\"140\" cy=\"87\" r=\"4\" fill=\"#FAFAFA\"/><text x=\"148\" y=\"84\" fill=\"#FAFAFA\" font-size=\"12\" font-weight=\"bold\">N</text><text x=\"245\" y=\"178\" fill=\"#A1A1AA\" font-size=\"12\">Y</text><text x=\"20\" y=\"35\" fill=\"#A1A1AA\" font-size=\"12\">P</text></svg>",
+    "options": [
+      { "id": "A", "text": "a reduction in the real value of money balances" },
+      { "id": "B", "text": "a reduction in interest rates" },
+      { "id": "C", "text": "domestic deflation" },
+      { "id": "D", "text": "the expectation of further price falls" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-051",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "One of the reasons why a country's aggregate demand curve slopes downwards is that a fall in the average price level",
+    "options": [
+      { "id": "A", "text": "leads to an increase in interest rates" },
+      { "id": "B", "text": "reduces the real value of money balances" },
+      { "id": "C", "text": "makes the country's goods cheaper relative to foreign goods" },
+      { "id": "D", "text": "leads to the expectation of further price falls" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-052",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Workers in poor countries are often less productive than workers using the same technology in rich countries. What would be most likely to remedy this situation?",
+    "options": [
+      { "id": "A", "text": "an increase in the saving ratio in poor countries" },
+      { "id": "B", "text": "increased investment in education in poor countries" },
+      { "id": "C", "text": "increased freedom of migration from poor countries to rich countries" },
+      { "id": "D", "text": "the removal of trade barriers imposed by rich countries on imports from poor countries" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-053",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "In an economy, the marginal propensity to consume of the unemployed is higher than the taxpayers. The government increases both expenditure on unemployment benefits and taxation by Rs 10 million. What will be the impact on aggregate demand?",
+    "options": [
+      { "id": "A", "text": "It will be unchanged." },
+      { "id": "B", "text": "It will increase by less than Rs 10 million." },
+      { "id": "C", "text": "It will increase by Rs 10 million" },
+      { "id": "D", "text": "It will decrease by Rs 10 million" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-054",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "According to monetarist theory, what will be the short-run effect of an unexpected increase money supply?",
+    "options": [
+      { "id": "A", "text": "an appreciation of the foreign exchange rate" },
+      { "id": "B", "text": "an increase in employment" },
+      { "id": "C", "text": "an increase in real wages" },
+      { "id": "D", "text": "an increase in the rate of interest" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-055",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is likely to cause a decrease in aggregate supply?",
+    "options": [
+      { "id": "A", "text": "a decrease in consumption expenditure" },
+      { "id": "B", "text": "an increase in labor productivity" },
+      { "id": "C", "text": "a decrease in rates of unemployment benefit" },
+      { "id": "D", "text": "an increase in wage costs per unit output" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-056",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is held constant when drawing an AD curve?",
+    "options": [
+      { "id": "A", "text": "the exchange rate" },
+      { "id": "B", "text": "the money supply" },
+      { "id": "C", "text": "the rate of interest" },
+      { "id": "D", "text": "the general price level" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-057",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which one is NOT a reason for shifting of LRAS1 TO LRAS2:",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"100\" y1=\"40\" x2=\"100\" y2=\"160\" stroke=\"#10B981\" stroke-width=\"2.5\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"160\" stroke=\"#F59E0B\" stroke-width=\"2.5\" stroke-dasharray=\"4\"/><text x=\"92\" y=\"178\" fill=\"#FAFAFA\" font-size=\"11\">Y1</text><text x=\"172\" y=\"178\" fill=\"#FAFAFA\" font-size=\"11\">Y2</text><text x=\"82\" y=\"32\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">LRAS1</text><text x=\"162\" y=\"32\" fill=\"#F59E0B\" font-size=\"11\" font-weight=\"bold\">LRAS2</text><text x=\"20\" y=\"100\" transform=\"rotate(-90 20 100)\" fill=\"#A1A1AA\" font-size=\"11\">Price</text></svg>",
+    "options": [
+      { "id": "A", "text": "Improvement in labour skills." },
+      { "id": "B", "text": "Improvement in technology." },
+      { "id": "C", "text": "Exploring new natural resources" },
+      { "id": "D", "text": "Increase in wage rate" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-058",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "In a closed economy with no government, consumption is three-quarters of income at all levels of income. The present equilibrium level of income is Rs 220 million. The full employment level of income is Rs 240 million. By how much would investment have to increase to reach full employment?",
+    "options": [
+      { "id": "A", "text": "Rs 5 million" },
+      { "id": "B", "text": "Rs 15 million" },
+      { "id": "C", "text": "Rs 20 million" },
+      { "id": "D", "text": "Rs 30 million" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-059",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which of the following is an appropriate government policy for closing a deflationary gap?",
+    "options": [
+      { "id": "A", "text": "an increase in the rate of interest" },
+      { "id": "B", "text": "an open market sale of bonds" },
+      { "id": "C", "text": "an increase in government spending" },
+      { "id": "D", "text": "an increase in income tax" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-060",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An aggregate demand curve slopes downwards from left to right. One reason for this is that a reduction in the average price level will lead to",
+    "options": [
+      { "id": "A", "text": "an increase in the real value of money balances" },
+      { "id": "B", "text": "an increase in interest rates" },
+      { "id": "C", "text": "a decline in the country's international competitiveness" },
+      { "id": "D", "text": "the expectation of further price falls" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-061",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which government policy will increase aggregate demand?",
+    "options": [
+      { "id": "A", "text": "raising indirect taxation" },
+      { "id": "B", "text": "reducing the budget surplus" },
+      { "id": "C", "text": "removing import quotas" },
+      { "id": "D", "text": "removing subsidies" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-062",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What would explain why an economy's short-run aggregate supply curve is upward sloping?",
+    "options": [
+      { "id": "A", "text": "an increasing price level" },
+      { "id": "B", "text": "Increase in money wages" },
+      { "id": "C", "text": "diseconomies of scale" },
+      { "id": "D", "text": "economies of scale" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-063",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The national income is initially in equilibrium. If there were a decrease in exports, which change of equivalent value would restore national income to its initial equilibrium level?",
+    "options": [
+      { "id": "A", "text": "an increase in investment" },
+      { "id": "B", "text": "an increase in saving" },
+      { "id": "C", "text": "a reduction in government expenditure on goods and services" },
+      { "id": "D", "text": "an increase in taxation" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-064",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "In a closed economy with no government C = 30 + 0.8 Y and I = 50, where C is consumption, Y is income and I is investment. What is the equilibrium level of income?",
+    "options": [
+      { "id": "A", "text": "64" },
+      { "id": "B", "text": "80" },
+      { "id": "C", "text": "250" },
+      { "id": "D", "text": "400" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-065",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Over a given period, the nominal value of a country's national income increased by 10% and the average price level increased by 20%. What can be deduced from this information?",
+    "options": [
+      { "id": "A", "text": "The country's money supply increased by 10%." },
+      { "id": "B", "text": "There was an increase in the income velocity of circulation." },
+      { "id": "C", "text": "There was a reduction in the demand for money." },
+      { "id": "D", "text": "There was a reduction in the volume of output." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-066",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "During a year, a country's national income in money terms increased by 8%, prices increased by 4% and total population increased by 2%. What was the approximate change in real income per head?",
+    "options": [
+      { "id": "A", "text": "a decrease of 2%" },
+      { "id": "B", "text": "nil" },
+      { "id": "C", "text": "an increase of 2%" },
+      { "id": "D", "text": "an increase of 4%" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-067",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "In closed economy, the full employment level of income is Rs 200 million. C = ¾ Y, I = Rs (50 – 5r) million. If planned government expenditure is Rs 30 million, what rate of interest would be required for there to be full employment?",
+    "options": [
+      { "id": "A", "text": "2% per annum" },
+      { "id": "B", "text": "4% per annum" },
+      { "id": "C", "text": "6% per annum" },
+      { "id": "D", "text": "8% per annum" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-068",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "In a closed economy with no government sector, C = 30 + 0.7 Y, where C is consumption and Y is income. The equilibrium level of income is 300. What is the level of investment?",
+    "options": [
+      { "id": "A", "text": "60" },
+      { "id": "B", "text": "100" },
+      { "id": "C", "text": "210" },
+      { "id": "D", "text": "270" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-069",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "When national income equals Rs 40000 million and government spending equals Rs 15000 million, an economy is in equilibrium below full employment. Out of every increase of Rs 100 in national income, Rs 15 is taken in taxes, Rs 30 is spent on imports and Rs 5 is saved. To raise national income to the full employment level of Rs 50000 million, to which level will the government need to raise its own spending?",
+    "options": [
+      { "id": "A", "text": "Rs 15500 million" },
+      { "id": "B", "text": "Rs 20000 million" },
+      { "id": "C", "text": "Rs 25000 million" },
+      { "id": "D", "text": "Rs 35000 million" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-070",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What will cause the long run aggregate supply curve to shift outwards?",
+    "options": [
+      { "id": "A", "text": "an increase in consumer spending" },
+      { "id": "B", "text": "an increase in inflation" },
+      { "id": "C", "text": "an increase in productivity" },
+      { "id": "D", "text": "an increase in net exports" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-071",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What helps to explain why the aggregate demand curve is downward sloping?",
+    "options": [
+      { "id": "A", "text": "When exports increase there will be an increase in national income." },
+      { "id": "B", "text": "When government expenditure increases there will be an increase in national output" },
+      { "id": "C", "text": "When investment increases there will be an increase in consumption." },
+      { "id": "D", "text": "When the price level increases there will be a decrease in demand." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-072",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What is likely to cause the aggregate supply curve to shift to the left?",
+    "options": [
+      { "id": "A", "text": "improvements in technology" },
+      { "id": "B", "text": "schemes to increase the geographical mobility of labor" },
+      { "id": "C", "text": "an increase in investment due to a reduction in interest rates" },
+      { "id": "D", "text": "an increase in the marginal rate of income tax" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-073",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which one of the following would cause a fall in the level of aggregate demand in an economy?",
+    "options": [
+      { "id": "A", "text": "A decrease in the level of imports" },
+      { "id": "B", "text": "A fall in the propensity to save" },
+      { "id": "C", "text": "A decrease in government expenditure" },
+      { "id": "D", "text": "A decrease in the level of income tax" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-074",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The marginal propensity to consume measures",
+    "options": [
+      { "id": "A", "text": "The relationship between changes in consumption and changes in consumer utility" },
+      { "id": "B", "text": "The proportion of household incomes spent on consumer goods" },
+      { "id": "C", "text": "The proportion of total national Income spent on consumer goods" },
+      { "id": "D", "text": "The relationship between changes in consumption and changes in income" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-075",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An inflationary gap in the economy could be closed by an increase in the:",
+    "options": [
+      { "id": "A", "text": "Accelerator and multiplier" },
+      { "id": "B", "text": "Government's budget surplus" },
+      { "id": "C", "text": "Average propensity to consume" },
+      { "id": "D", "text": "Country's export surplus" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-076",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "A redistribution of income from rich to poor households is likely to lead to an increase in aggregate demand.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-077",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Which one of the following is most likely to lead to a rise in aggregate demand?",
+    "options": [
+      { "id": "A", "text": "Decrease in government expenditure" },
+      { "id": "B", "text": "Decrease in income tax rate" },
+      { "id": "C", "text": "Increase in autonomous savings" },
+      { "id": "D", "text": "Increase in rate of interest" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-078",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "When equilibrium GNP is too small, we have",
+    "options": [
+      { "id": "A", "text": "A deflationary gap" },
+      { "id": "B", "text": "A depression" },
+      { "id": "C", "text": "An inflationary gap" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-079",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "There is an inflationary gap when",
+    "options": [
+      { "id": "A", "text": "Equilibrium GNP is equal to full employment GNP" },
+      { "id": "B", "text": "Equilibrium GNP is smaller than full employment GNP" },
+      { "id": "C", "text": "Equilibrium GNP is larger than full employment GNP" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-080",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "What determines the slope of the aggregate supply curve is",
+    "options": [
+      { "id": "A", "text": "How fast the prices of factors of production respond to changes in the price level." },
+      { "id": "B", "text": "How much more the economy can produce without any change in the price level." },
+      { "id": "C", "text": "How fast the output level changes after a technological advance." },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-081",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "When the aggregate supply curve is vertical, which of the following is not true?",
+    "options": [
+      { "id": "A", "text": "The economy is at full capacity." },
+      { "id": "B", "text": "The economy is producing the maximum sustainable level of output." },
+      { "id": "C", "text": "Any increase in the price level will not cause an increase in aggregate output." },
+      { "id": "D", "text": "The economy is expanding quickly" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-082",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If the economy is operating on the relatively vertical segment of the aggregate supply curve, an increase in aggregate demand causes a ________ change in the price level and a ________ change in output.",
+    "options": [
+      { "id": "A", "text": "Small; small/no" },
+      { "id": "B", "text": "Big; big" },
+      { "id": "C", "text": "Big; small/no" },
+      { "id": "D", "text": "Small/no; big" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-083",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An increase in aggregate demand when the economy is operating at full capacity is likely to result in",
+    "options": [
+      { "id": "A", "text": "An increase in both output and the overall price level." },
+      { "id": "B", "text": "An increase in output but no increase in the overall price level." },
+      { "id": "C", "text": "An increase in the overall price level but no increase in output." },
+      { "id": "D", "text": "No increase in either output or the overall price level." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-084",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Coal is used as a source of energy in many manufacturing processes. Assume a long strike by coal miners reduced the supply of coal and increased the price of coal. This would cause:",
+    "options": [
+      { "id": "A", "text": "The short-run aggregate supply curve to shift to the right." },
+      { "id": "B", "text": "The short-run aggregate supply curve to become flatter." },
+      { "id": "C", "text": "The short-run aggregate supply curve to shift to the left." },
+      { "id": "D", "text": "The short-run aggregate supply curve to become nearly vertical at all levels of output" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-085",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "All of the following shift the short-run aggregate supply curve except____________",
+    "options": [
+      { "id": "A", "text": "A change in the price level of finished goods." },
+      { "id": "B", "text": "A change in the price of oil." },
+      { "id": "C", "text": "A change in the price of raw material." },
+      { "id": "D", "text": "A change in wages as a result of a labor strike." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-086",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An oil price increase would __________",
+    "options": [
+      { "id": "A", "text": "Increase aggregate demand." },
+      { "id": "B", "text": "Decrease short-run aggregate supply." },
+      { "id": "C", "text": "Decrease aggregate demand." },
+      { "id": "D", "text": "Increase short-run aggregate supply." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-087",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The aggregate supply curve shows the relationship between the aggregate quantity of output supplied by ________ and ________.",
+    "options": [
+      { "id": "A", "text": "All the firms in an economy; the overall price level" },
+      { "id": "B", "text": "The government; aggregate demand" },
+      { "id": "C", "text": "Domestically owned firms in the economy; the interest rate" },
+      { "id": "D", "text": "The world; the money supply" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-088",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An increase in the quantity and productivity of the factors of production, or advancement in technological capabilities in the economy would cause an increase in the productive potential which shifts LRAS to the left.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-089",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Negative gap or deflationary gaps are same:",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-090",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "An eminent economist David Recardo released his well-known book entitled “General Theory of Employment, Interest and Money”",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-091",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "If exports become more attractive to foreign firms then AD curve will shift leftward.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-092",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The aggregate demand curve shows a ________ relationship between ________ and aggregate output ________.",
+    "options": [
+      { "id": "A", "text": "positive; the interest rate; demanded" },
+      { "id": "B", "text": "negative; the price level; supplied" },
+      { "id": "C", "text": "positive; the price level; demanded" },
+      { "id": "D", "text": "negative; the price level; demanded" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-093",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "The aggregate demand curve shows that at higher price levels the total quantity of output demanded is greater.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-094",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "As the interest rate decreases, the planned aggregate expenditure curve shifts downward.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-095",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Suppose the equilibrium output is initially $600 billion. With a decrease in taxes, there will be an ________ in equilibrium output and ________ the price level.",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 60 40 L 220 140\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2.5\"/><text x=\"225\" y=\"142\" fill=\"#6366F1\" font-size=\"11\" font-weight=\"bold\">AD</text><path d=\"M 50 130 L 220 45\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"225\" y=\"48\" fill=\"#10B981\" font-size=\"11\" font-weight=\"bold\">SRAS</text><line x1=\"132\" y1=\"89\" x2=\"132\" y2=\"160\" stroke=\"#71717A\" stroke-dasharray=\"3\"/><line x1=\"40\" y1=\"89\" x2=\"132\" y2=\"89\" stroke=\"#71717A\" stroke-dasharray=\"3\"/><text x=\"122\" y=\"176\" fill=\"#FAFAFA\" font-size=\"11\">600</text><text x=\"15\" y=\"93\" fill=\"#FAFAFA\" font-size=\"11\">110</text></svg>",
+    "options": [
+      { "id": "A", "text": "Decrease; leaves unchanged" },
+      { "id": "B", "text": "Leaves unchanged; increase" },
+      { "id": "C", "text": "Increase; increase" },
+      { "id": "D", "text": "Increase; decrease" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH05-ST-096",
+    "subjectId": "prc-3-v2",
+    "chapterId": 5,
+    "chapterName": "Chapter 5: National Income and its Determination",
+    "source": "self-test",
+    "questionText": "Higher prices with higher unemployment is called",
+    "options": [
+      { "id": "A", "text": "Inflation" },
+      { "id": "B", "text": "Deflation" },
+      { "id": "C", "text": "Recession" },
+      { "id": "D", "text": "Stagflation" }
+    ],
+    "correctOption": "D"
+  }
+]
