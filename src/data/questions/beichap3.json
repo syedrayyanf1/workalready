@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "PRC3V2-CH03-ST-001",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Which of the following statements is true?",
+    "options": [
+      { "id": "A", "text": "If the price elasticity of demand is more than 1, a fall in price will result in a fall in total expenditure on the product." },
+      { "id": "B", "text": "The income elasticity of demand will only be zero in the case of inferior goods." },
+      { "id": "C", "text": "The cross-elasticity of demand for complementary goods will always be positive." },
+      { "id": "D", "text": "None of these" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-002",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "The demand for a product will tend to be inelastic when:",
+    "options": [
+      { "id": "A", "text": "It has very few close substitutes" },
+      { "id": "B", "text": "It is very quickly consumed" },
+      { "id": "C", "text": "It tends to be purchased by people on subsistence incomes" },
+      { "id": "D", "text": "It has a wide range of different uses" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-003",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "The demand for a product will tend to be elastic when:",
+    "options": [
+      { "id": "A", "text": "The product has a number of different uses." },
+      { "id": "B", "text": "The product is bought mainly by people on subsistence incomes." },
+      { "id": "C", "text": "The product has very close substitutes" },
+      { "id": "D", "text": "The product is non-durable consumer good that is quickly consumed." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-004",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the price elasticity of demand for petrol were zero, what would be the effect of an increase in taxation on petrol?",
+    "options": [
+      { "id": "A", "text": "The producer would pay all the tax." },
+      { "id": "B", "text": "The quantity of petrol consumed would be unchanged." },
+      { "id": "C", "text": "Total petrol sales would fall (in quantity) by the same proportion as the increase in price caused by the tax." },
+      { "id": "D", "text": "In order to maintain sales volume, petrol stations would have to adopt a pricing policy whereby they absorbed some of the tax." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-005",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the demand for a good is price inelastic, which one of the following statements is correct?",
+    "options": [
+      { "id": "A", "text": "If the price of the good rises, the total revenue earned by the producer increases." },
+      { "id": "B", "text": "If the price of the good rises, the total revenue earned by the producer falls." },
+      { "id": "C", "text": "If the price of the good falls, the total revenue earned by the producer increases." },
+      { "id": "D", "text": "If the price of the good falls, the total revenue earned by the producer is unaffected." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-006",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Which of the following statements is incorrect?",
+    "options": [
+      { "id": "A", "text": "When price elasticity of demand is 1 along the entire demand curve, total consumer expenditure on the product will be the same at all price levels." },
+      { "id": "B", "text": "If the quantity demanded of a product falls by 18% when its price is raised by 12%, demand is relatively price elastic." },
+      { "id": "C", "text": "When demand is price elastic, consumers' expenditure on a product will go up when its price is reduced." },
+      { "id": "D", "text": "Products which are staple goods or necessities of life have a low negative income elasticity of demand." }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-007",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "The main factor affecting price elasticity of demand is:",
+    "options": [
+      { "id": "A", "text": "Availability of substitutes" },
+      { "id": "B", "text": "Availability of complements" },
+      { "id": "C", "text": "Percentage change in household income" },
+      { "id": "D", "text": "Existence of stocks of the good" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-008",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "When demand for a good is price elastic, a price increase will result in:",
+    "options": [
+      { "id": "A", "text": "A fall in demand but total revenue will rise" },
+      { "id": "B", "text": "A fall in demand and total revenue will fall" },
+      { "id": "C", "text": "A fall in demand and total revenue will remain the same" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-009",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If total revenue falls when price is reduced, then__________________:",
+    "options": [
+      { "id": "A", "text": "The good in question is an inferior good" },
+      { "id": "B", "text": "Cross-elasticity of demand is positive" },
+      { "id": "C", "text": "Demand is switching to substitutes" },
+      { "id": "D", "text": "Demand is price-inelastic" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-010",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Supply of a good is likely to be elastic if:",
+    "options": [
+      { "id": "A", "text": "The good is imperishable" },
+      { "id": "B", "text": "Barriers to entry to the industry are low" },
+      { "id": "C", "text": "Unemployment is low" },
+      { "id": "D", "text": "All of these" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-011",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the price elasticity of demand is more than 1, a fall in price will result in a fall in total expenditure on the product.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-012",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "The income elasticity of demand will only be zero in the case of inferior goods.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-013",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "The cross-elasticity of demand for complementary goods will always be positive.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-014",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Given the following demand schedule, when the price rises from Rs. 40 to Rs. 50, what is the price elasticity of demand?\n\n| Price (Rs.) | Quantity Demanded |\n| :---: | :---: |\n| 40 | 200 |\n| 50 | 120 |",
+    "options": [
+      { "id": "A", "text": "0" },
+      { "id": "B", "text": "Unitary elastic (1)" },
+      { "id": "C", "text": "Greater than 1" },
+      { "id": "D", "text": "Between zero and 1" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-015",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "The graph of a supply schedule which has a price elasticity of supply equal to 1 will be:",
+    "options": [
+      { "id": "A", "text": "a rectangular hyperbola" },
+      { "id": "B", "text": "any straight line drawn through the origin" },
+      { "id": "C", "text": "straight line drawn through the origin at 90 degrees" },
+      { "id": "D", "text": "a vertical line" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-016",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Which of the following statements is incorrect?",
+    "options": [
+      { "id": "A", "text": "If cross elasticity of demand is equal to zero, the two products are neither complements nor substitutes." },
+      { "id": "B", "text": "Cross elasticity of demand is measured by the percentage change in the price of good X divided by the percentage change in the quantity of good Y demanded." },
+      { "id": "C", "text": "A high positive cross elasticity of demand means that the two products are very close substitutes." },
+      { "id": "D", "text": "All are incorrect" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-017",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If total receipts of a company remain unchanged after it has put up its prices, which of the following would describe the price elasticity of demand?",
+    "options": [
+      { "id": "A", "text": "it is absolutely inelastic" },
+      { "id": "B", "text": "It is elastic" },
+      { "id": "C", "text": "It has unitary elasticity" },
+      { "id": "D", "text": "It is inelastic" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-018",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Which of the following statements about elasticity of supply is correct?",
+    "options": [
+      { "id": "A", "text": "Elasticity of supply is normally negative rather than positive" },
+      { "id": "B", "text": "Elasticity of supply is normally greater the shorter the time period involved" },
+      { "id": "C", "text": "Elasticity of supply depends on the alternative uses to which suppliers can put their resources." },
+      { "id": "D", "text": "All of above are correct" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-019",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Good X and Good Y are two rival brands of flavoured yoghurt drinks, which have a cross elasticity of demand of +2. The price of Good X rises from Rs. 20 to Rs. 30 per carton. What will be the percentage increase in demand for similar-sized cartons of Good Y?",
+    "options": [
+      { "id": "A", "text": "20%" },
+      { "id": "B", "text": "25%" },
+      { "id": "C", "text": "75%" },
+      { "id": "D", "text": "100%" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-020",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Which of the following factors influence the elasticity of supply of a good?",
+    "options": [
+      { "id": "A", "text": "The time period over which changes in supply are measured." },
+      { "id": "B", "text": "The marginal cost of producing the good" },
+      { "id": "C", "text": "The range of alterative production opportunities available to suppliers." },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-021",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the price elasticity of demand for petrol were 0, what would be the effects of an increase in taxation on petrol?",
+    "options": [
+      { "id": "A", "text": "The consumer would pay all the tax" },
+      { "id": "B", "text": "The quantity of petrol consumed would be changed" },
+      { "id": "C", "text": "Total petrol sales would fall (in quantity) by the same proportion as the increase in price caused by the tax." },
+      { "id": "D", "text": "In order to maintain sales volume, petrol stations would have to adopt a pricing policy whereby they absorbed some of the tax." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-022",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "When price elasticity of demand is 1 along the entire demand curve, total consumer expenditure on the product will be the same at all price levels",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the quantity demanded of a product fall by 18% when its price is raised by 12%, demand is relatively price elastic",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "When demand is price elastic, consumer’s expenditure on a product will go up when its price is reduced",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Products which are staple goods or necessities of life have a low negative income elasticity of demand.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "A manufacturer of power drills was charging Rs. 26 for a drill, and demand was 1,800 drills per week. He then raised the price to Rs.30, and demand went down by 300 drills per week. What is the arc elasticity of demand between the prices of Rs. 26 and Rs. 30?",
+    "options": [
+      { "id": "A", "text": "-0.79" },
+      { "id": "B", "text": "-1.08" },
+      { "id": "C", "text": "-1.25" },
+      { "id": "D", "text": "-1.27" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Annual demand for good A is 10 million units at Rs. 2.50 each and 8 million at Rs. 3.50 each. Its elasticity of demand is:",
+    "options": [
+      { "id": "A", "text": "Elastic" },
+      { "id": "B", "text": "Inelastic" },
+      { "id": "C", "text": "Unitary" },
+      { "id": "D", "text": "Perfect Elastic" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "When demand is price elastic, consumer’s expenditure on a product will go up when its price is reduced",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "A supply curve with unit elasticity along all of its length is a straight line through the origin.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the income elasticity of demand is greater than 1, the commodity is",
+    "options": [
+      { "id": "A", "text": "A necessity" },
+      { "id": "B", "text": "A luxury" },
+      { "id": "C", "text": "An inferior good" },
+      { "id": "D", "text": "An independent good" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "If the amounts of two commodities purchased both increase or decrease when the price of one commodity changes, the cross elasticity of demand between them is",
+    "options": [
+      { "id": "A", "text": "Negative" },
+      { "id": "B", "text": "Positive" },
+      { "id": "C", "text": "Zero" },
+      { "id": "D", "text": "One" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Elasticity of supply for a positively sloped straight-line supply curve that intersects the price axis is",
+    "options": [
+      { "id": "A", "text": "Equal to zero" },
+      { "id": "B", "text": "Equal to one" },
+      { "id": "C", "text": "Greater than one" },
+      { "id": "D", "text": "Less than one" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Which of the following elasticity measures a movement along a curve rather than a shift in the curve?",
+    "options": [
+      { "id": "A", "text": "The cross elasticity of demand" },
+      { "id": "B", "text": "The income elasticity of demand" },
+      { "id": "C", "text": "The price elasticity of demand" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "In case of superior good, the income elasticity of demand is",
+    "options": [
+      { "id": "A", "text": "Positive" },
+      { "id": "B", "text": "Unitary" },
+      { "id": "C", "text": "Negative" },
+      { "id": "D", "text": "Zero" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "In case of the two commodities are substitutes, cross elasticity of demand will be",
+    "options": [
+      { "id": "A", "text": "Positive" },
+      { "id": "B", "text": "Negative" },
+      { "id": "C", "text": "Unitary" },
+      { "id": "D", "text": "Zero" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Sales of Good T are currently 10,000 per year, and income elasticity of demand for Good T is + 1.5. If household incomes rise by 4%, what will be the new annual sales of Good T___________?",
+    "options": [
+      { "id": "A", "text": "10,600" },
+      { "id": "B", "text": "10,400" },
+      { "id": "C", "text": "9,600" },
+      { "id": "D", "text": "9,400" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Sales of Good Y have increased from 20,000 to 23,000 following a rise in the price of Good Z from Rs. 5 to Rs. 6. What is the cross elasticity of demand for Good Y?",
+    "options": [
+      { "id": "A", "text": "– 0.75" },
+      { "id": "B", "text": "+ 0.5" },
+      { "id": "C", "text": "+ 0.75" },
+      { "id": "D", "text": "+1.5" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Sales of Good E have increased from 250,000 to 255,000 following a reduction in the price of good F from Rs. 10 to Rs. 9.50. Which one of the following statements most accurately describes the relationship between Goods E & F are ___________?",
+    "options": [
+      { "id": "A", "text": "Goods E & F are close complements" },
+      { "id": "B", "text": "Goods E & F are close substitutes" },
+      { "id": "C", "text": "Neutral Goods" },
+      { "id": "D", "text": "Unrelated Goods" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "An increase in quantity demanded caused no change in the equilibrium price. Thus, demand curve must be:",
+    "options": [
+      { "id": "A", "text": "Perfectly inelastic" },
+      { "id": "B", "text": "Unitary elastic" },
+      { "id": "C", "text": "Elastic" },
+      { "id": "D", "text": "Perfectly elastic" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Using following diagram at point a demand for product is:",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 50 40 L 240 140\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"55\" r=\"4\" fill=\"#FAFAFA\"/><text x=\"88\" y=\"52\" fill=\"#FAFAFA\" font-size=\"12\" font-weight=\"bold\">a</text></svg>",
+    "options": [
+      { "id": "A", "text": "Relatively elastic" },
+      { "id": "B", "text": "Relatively less elastic" },
+      { "id": "C", "text": "Elasticity will be greater than one" },
+      { "id": "D", "text": "Elasticity will be smaller than one" }
+    ],
+    "correctOption": "A,C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "In following diagram supply curve shows:",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 40 130 L 240 50\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"245\" y=\"52\" fill=\"#10B981\" font-size=\"12\" font-weight=\"bold\">S</text></svg>",
+    "options": [
+      { "id": "A", "text": "Relatively elastic" },
+      { "id": "B", "text": "Relatively inelastic" },
+      { "id": "C", "text": "Perfectly elastic" },
+      { "id": "D", "text": "Perfectly inelastic" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-042",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Given diagram shows:",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"160\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"128\" y=\"42\" fill=\"#10B981\" font-size=\"12\" font-weight=\"bold\">S</text></svg>",
+    "options": [
+      { "id": "A", "text": "Inelastic supply curve" },
+      { "id": "B", "text": "Perfectly inelastic supply curve" },
+      { "id": "C", "text": "Perfectly elastic supply curve" },
+      { "id": "D", "text": "Elastic supply" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-043",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "In short period of time, although the plant capacity is fixed, with little alterations in techniques of production or with more efficient use of resources, supply can be adjusted up to a little extent, and supply is therefore:",
+    "options": [
+      { "id": "A", "text": "Relatively elastic" },
+      { "id": "B", "text": "relatively inelastic." },
+      { "id": "C", "text": "Perfectly elastic" },
+      { "id": "D", "text": "Unitary elastic." }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-044",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "A business currently sells 20,000 units of its product per month, at a price of Rs. 10 per unit. The product has a price elasticity of – 0.8. If price rise by 5% then _________________",
+    "options": [
+      { "id": "A", "text": "New price will be Rs 15" },
+      { "id": "B", "text": "New sales will be 19200 units" },
+      { "id": "C", "text": "New sales will be 22000 units" },
+      { "id": "D", "text": "Total revenue from the product will increase by 40,000" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-045",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "When quantity demanded increases 5% due to decrease in prices by 10%. The price elasticity of demand for laptop is ________ and total revenue from laptop sales will ________.",
+    "options": [
+      { "id": "A", "text": "Elastic; decrease" },
+      { "id": "B", "text": "Elastic; increase" },
+      { "id": "C", "text": "Inelastic; decrease" },
+      { "id": "D", "text": "Unit elastic; not change" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-046",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Price elasticity of demand is calculated as the change in price divided by the change in quantity demanded.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-047",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "A shopkeeper sells 24 pens at a price of Rs.20 per day. At a price of Rs.18 he sells 33 pens a day. Since total revenue is ________ by the price decrease, demand must be ________.",
+    "options": [
+      { "id": "A", "text": "Increased; elastic" },
+      { "id": "B", "text": "Increased; inelastic" },
+      { "id": "C", "text": "Increased; unit elastic" },
+      { "id": "D", "text": "Decreased; elastic" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-048",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "A demand curve with constant slope over all quantity values can have a continuously changing price elasticity of demand.",
+    "options": [
+      { "id": "A", "text": "True" },
+      { "id": "B", "text": "False" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-049",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "Alif College wanted to increase revenues. They decided to raise fees paid by students with Bachelor’s degrees to Rs.50 per unit because they believed this would result in greater revenues. But in reality, total revenues fell. Therefore, the demand for Alif College courses by people with Bachelor’s degrees must have actually been______________:",
+    "options": [
+      { "id": "A", "text": "Relatively inelastic" },
+      { "id": "B", "text": "Unit elastic" },
+      { "id": "C", "text": "Relatively elastic" },
+      { "id": "D", "text": "Perfectly elastic" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-ST-050",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "self-test",
+    "questionText": "In given demand curve at point a (lower inelastic portion), any increase in price of the product will __________the total expenditures.",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 50 40 L 240 140\" fill=\"none\" stroke=\"#6366F1\" stroke-width=\"2.5\"/><circle cx=\"190\" cy=\"114\" r=\"4\" fill=\"#FAFAFA\"/><text x=\"198\" y=\"110\" fill=\"#FAFAFA\" font-size=\"12\" font-weight=\"bold\">a</text></svg>",
+    "options": [
+      { "id": "A", "text": "Increase" },
+      { "id": "B", "text": "Decrease" },
+      { "id": "C", "text": "Remain unchanged" },
+      { "id": "D", "text": "Insufficient information" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-001",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Which of the following products is likely to have the lowest price elasticity of demand?",
+    "options": [
+      { "id": "A", "text": "Salt" },
+      { "id": "B", "text": "Cars" },
+      { "id": "C", "text": "Houses" },
+      { "id": "D", "text": "Apples" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-002",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Which statement is true of a curve with a constant slope?",
+    "options": [
+      { "id": "A", "text": "It is a straight line" },
+      { "id": "B", "text": "It is non linear" },
+      { "id": "C", "text": "It runs parallel to Y-axis" },
+      { "id": "D", "text": "It runs parallel to X-axis" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-003",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Production and employment in which of the following industries would be least affected by recession?",
+    "options": [
+      { "id": "A", "text": "Sugar" },
+      { "id": "B", "text": "Steel" },
+      { "id": "C", "text": "Garments" },
+      { "id": "D", "text": "Vehicles" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-004",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the market price of a product increases from Rs. 35 to Rs. 40 and in response, the quantity demanded decreases from 1400 units to 1200 units, the value of its price elasticity of demand is:",
+    "options": [
+      { "id": "A", "text": "0.9" },
+      { "id": "B", "text": "1" },
+      { "id": "C", "text": "1.1" },
+      { "id": "D", "text": "1.2" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-005",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Which of the following is NOT a method for the measurement of price elasticity of demand?",
+    "options": [
+      { "id": "A", "text": "Total outlay" },
+      { "id": "B", "text": "Total savings" },
+      { "id": "C", "text": "Point method" },
+      { "id": "D", "text": "Arc method" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-006",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the price of a good fell by 10% and, as a result, total expenditure on the good fell by 10%, the demand for the good would be described as",
+    "options": [
+      { "id": "A", "text": "perfectly inelastic" },
+      { "id": "B", "text": "perfectly elastic" },
+      { "id": "C", "text": "unitary elastic" },
+      { "id": "D", "text": "elastic" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-007",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Which one of the following statements about the elasticity of supply is not true?",
+    "options": [
+      { "id": "A", "text": "It tends to vary with time." },
+      { "id": "B", "text": "It is a measure of the responsiveness of supply to changes in price." },
+      { "id": "C", "text": "It is a measure of changes in supply due to greater efficiency." },
+      { "id": "D", "text": "It tends to be higher for manufactured goods than for primary products." }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-008",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the demand for a good is price inelastic, which ONE of the following statements is correct?",
+    "options": [
+      { "id": "A", "text": "If the price of the good rises, the total revenue earned by the producer increases." },
+      { "id": "B", "text": "If the price of the good rises, the total revenue earned by the producer falls." },
+      { "id": "C", "text": "If the price of the good falls, the total revenue earned by the producer increases." },
+      { "id": "D", "text": "If the price of the good falls, the total revenue earned by the producer is unaffected." }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-009",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "An inferior good is one which has an income elasticity of demand that is",
+    "options": [
+      { "id": "A", "text": "positive but less than unity" },
+      { "id": "B", "text": "negative" },
+      { "id": "C", "text": "unitary" },
+      { "id": "D", "text": "zero" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-010",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "A business, currently selling 10,000 units of its product per month, plans to reduce the retail price from £1 to £0.90. It knows from previous experience that the price elasticity of demand for this product is -1.5. Assuming no other changes, the sales which the business can now expect will be",
+    "options": [
+      { "id": "A", "text": "8,500 units" },
+      { "id": "B", "text": "9,000 units" },
+      { "id": "C", "text": "11,000 units" },
+      { "id": "D", "text": "11,500 units" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-011",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the demand for a good is price elastic, a fall in price will lead to:\n(i) a rise in sales\n(ii) a fall in sales\n(iii) a rise in total expenditure on the good\n(iv) a fall in total expenditure on the good\n\nWhich of the above are correct?",
+    "options": [
+      { "id": "A", "text": "(i) and (iii) only" },
+      { "id": "B", "text": "(i) and (iv) only" },
+      { "id": "C", "text": "(ii) and (iii) only" },
+      { "id": "D", "text": "(ii) and (iv) only" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-012",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the price of a good rises and as a result total expenditure on the good falls, the demand for the good is:\n(i) price elastic\n(ii) price inelastic\n(iii) greater than 1\n(iv) less than 1\n\nWhich of the above are correct?",
+    "options": [
+      { "id": "A", "text": "(i) and (iii) only" },
+      { "id": "B", "text": "(i) and (iv) only" },
+      { "id": "C", "text": "(ii) and (iii) only" },
+      { "id": "D", "text": "(ii) and (iv) only" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-013",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "The price elasticity of supply means the",
+    "options": [
+      { "id": "A", "text": "change in supply divided by price" },
+      { "id": "B", "text": "responsiveness of the quantity supplied to a change in price" },
+      { "id": "C", "text": "responsiveness of the quantity supplied to a change in demand" },
+      { "id": "D", "text": "time taken for supply to adjust to a change in price" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-014",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Price elasticity coefficient of 0.2 implies that the %age change in quantity for a 5% change in price will be:",
+    "options": [
+      { "id": "A", "text": "0.2" },
+      { "id": "B", "text": "2.5" },
+      { "id": "C", "text": "5" },
+      { "id": "D", "text": "1" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-015",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Assume that a fall in price of a commodity from Rs. 10 to Rs. 9 per unit results in an increase in weekly sales from 100 units to 110 units. Price elasticity of demand would be:",
+    "options": [
+      { "id": "A", "text": "1.9" },
+      { "id": "B", "text": "Unity" },
+      { "id": "C", "text": "2" },
+      { "id": "D", "text": "Zero" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-016",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Very small or zero Co-efficient of price elasticity of demand means that the good is:",
+    "options": [
+      { "id": "A", "text": "a necessity" },
+      { "id": "B", "text": "a comfort" },
+      { "id": "C", "text": "a luxury" },
+      { "id": "D", "text": "any of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-017",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "The standard measure for measuring demand and supply elasticity is",
+    "options": [
+      { "id": "A", "text": "Zero" },
+      { "id": "B", "text": "Unity" },
+      { "id": "C", "text": "Infinity" },
+      { "id": "D", "text": "Two" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-018",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "The income elasticity of demand for an income inferior good has an arithmetic sign.",
+    "options": [
+      { "id": "A", "text": "Positive" },
+      { "id": "B", "text": "Zero" },
+      { "id": "C", "text": "Negative" },
+      { "id": "D", "text": "No sign" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-019",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "From the demand schedule below, the price elasticity of demand following a fall in price from Rs 25 to Rs. 20 is:\n\n| Price (Rs.) | Quantity (Units) |\n| :---: | :---: |\n| 25 | 100 |\n| 20 | 120 |",
+    "options": [
+      { "id": "A", "text": "-1" },
+      { "id": "B", "text": "-1.25" },
+      { "id": "C", "text": "-1.50" },
+      { "id": "D", "text": "-1.75" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-020",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the price of a good fell by 20% but total expenditure on the good remained the same, the demand curve could be described as",
+    "options": [
+      { "id": "A", "text": "Perfectly elastic" },
+      { "id": "B", "text": "Elastic" },
+      { "id": "C", "text": "Perfectly inelastic" },
+      { "id": "D", "text": "Unitary elasticity" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-021",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Prices are less volatile when:",
+    "options": [
+      { "id": "A", "text": "supply is elastic, demand is elastic" },
+      { "id": "B", "text": "supply is inelastic, demand is inelastic" },
+      { "id": "C", "text": "supply is elastic, demand is inelastic" },
+      { "id": "D", "text": "supply is inelastic, demand is elastic" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-022",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the quantity of a commodity demanded remains unchanged as its price changes the coefficient of price elasticity of demand is:",
+    "options": [
+      { "id": "A", "text": "Greater than one" },
+      { "id": "B", "text": "Equal to 1" },
+      { "id": "C", "text": "Smaller than one" },
+      { "id": "D", "text": "Zero" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-023",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If a straight line demand curve is tangent to a curvilinear demand curve, the elasticity of the two demand curves at the point of tangency is:",
+    "options": [
+      { "id": "A", "text": "The same" },
+      { "id": "B", "text": "Different" },
+      { "id": "C", "text": "Can be the same" },
+      { "id": "D", "text": "It depends on the location of the point of tangency" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-024",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "A negative income elasticity of demand for a commodity indicates that as income increase then amount of the commodity purchased:",
+    "options": [
+      { "id": "A", "text": "Rises" },
+      { "id": "B", "text": "Falls" },
+      { "id": "C", "text": "Remain the unchanged" },
+      { "id": "D", "text": "Any of the above" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-025",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the amounts of two commodities purchased both increase or decrease when the price of one change, the cross elasticity of demand between them is:",
+    "options": [
+      { "id": "A", "text": "Negative" },
+      { "id": "B", "text": "Positive" },
+      { "id": "C", "text": "Zero" },
+      { "id": "D", "text": "One" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-026",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If percentage change in quantity demanded is greater than percentage change in price demand said to be:",
+    "options": [
+      { "id": "A", "text": "Less elastic" },
+      { "id": "B", "text": "More elastic" },
+      { "id": "C", "text": "Inelastic" },
+      { "id": "D", "text": "Perfectly elastic" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-027",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If total consumer’s expenditure increases in response to price fall, demand is:",
+    "options": [
+      { "id": "A", "text": "Relatively elastic" },
+      { "id": "B", "text": "Relatively inelastic" },
+      { "id": "C", "text": "Unitary elastic" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-028",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Let quantity demanded decreases from 30 to 10 as price of the product increases from 200 to 400. Price elasticity of demand (by arc method) would be:",
+    "options": [
+      { "id": "A", "text": "-2.5" },
+      { "id": "B", "text": "-1.5" },
+      { "id": "C", "text": "-0.5" },
+      { "id": "D", "text": "zero" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-029",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "When there is a small change in the quantity demanded of a product in response to a small change in its price. Elasticity method will be known as:",
+    "options": [
+      { "id": "A", "text": "Point elasticity" },
+      { "id": "B", "text": "Arc-elasticity" },
+      { "id": "C", "text": "Cross elasticity" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-030",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Income elasticity of demand for inferior goods is always:",
+    "options": [
+      { "id": "A", "text": "Positive" },
+      { "id": "B", "text": "Negative" },
+      { "id": "C", "text": "Zero" },
+      { "id": "D", "text": "Infinity" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-031",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Price elasticity of demand for Giffen goods is always.",
+    "options": [
+      { "id": "A", "text": "Positive" },
+      { "id": "B", "text": "Negative" },
+      { "id": "C", "text": "Zero" },
+      { "id": "D", "text": "Infinity" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-032",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Cross elasticity of demand for complementary goods is always.",
+    "options": [
+      { "id": "A", "text": "Positive" },
+      { "id": "B", "text": "Negative" },
+      { "id": "C", "text": "Zero" },
+      { "id": "D", "text": "Infinity" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-033",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Main determinant of Elasticity of Demand is:",
+    "options": [
+      { "id": "A", "text": "Time period" },
+      { "id": "B", "text": "Brand loyalty" },
+      { "id": "C", "text": "Possibility of substitution" },
+      { "id": "D", "text": "All of the above" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-034",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "The supply of a particular product will be more inelastic:",
+    "options": [
+      { "id": "A", "text": "The longer it takes to produce the good" },
+      { "id": "B", "text": "The longer the good can be stored" },
+      { "id": "C", "text": "The greater the number of firms in the industry" },
+      { "id": "D", "text": "The greater the amount of spare capacity in the industry" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-035",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "As the period of time to supply a product into a market in order to meet the demand is increasing, the elasticity of supply is also:",
+    "options": [
+      { "id": "A", "text": "Increasing" },
+      { "id": "B", "text": "Decreasing" },
+      { "id": "C", "text": "Remains same" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-036",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "A shift to the right in the supply curve of a good, the demand remaining unchanged, will reduce its price to a greater degree:",
+    "options": [
+      { "id": "A", "text": "The more elastic the demand curve" },
+      { "id": "B", "text": "The less elastic the demand curve" },
+      { "id": "C", "text": "The elasticity of demand is unity" },
+      { "id": "D", "text": "Supply curve is less inelastic" }
+    ],
+    "correctOption": "B"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-037",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "If the price of a good fell by 5% and as a result, total expenditure on the good fell by 5% the demand for the good would be:",
+    "options": [
+      { "id": "A", "text": "Elastic" },
+      { "id": "B", "text": "Unitary elastic" },
+      { "id": "C", "text": "Perfectly inelastic" },
+      { "id": "D", "text": "Perfectly elastic" }
+    ],
+    "correctOption": "C"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-038",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "In the diagram below, curve “C” has elasticity of supply:",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 40 100 L 240 100\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"245\" y=\"104\" fill=\"#10B981\" font-size=\"12\" font-weight=\"bold\">C</text></svg>",
+    "options": [
+      { "id": "A", "text": "Less elastic" },
+      { "id": "B", "text": "More elastic" },
+      { "id": "C", "text": "Unitary elastic" },
+      { "id": "D", "text": "Perfectly elastic" }
+    ],
+    "correctOption": "D"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-039",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Elasticity of supply of perishable goods is generally:\n(i) Inelastic\n(ii) Elastic\n(iii) Greater than one\n(iv) Less than one or zero",
+    "options": [
+      { "id": "A", "text": "(i) & (iv)" },
+      { "id": "B", "text": "(i) & (iii)" },
+      { "id": "C", "text": "(ii) & (iii)" },
+      { "id": "D", "text": "(iii) & (iv)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-040",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "Elasticity of supply of durable goods is generally:\n(i) Elastic\n(ii) Greater than one\n(iii) Inelastic\n(iv) Zero",
+    "options": [
+      { "id": "A", "text": "(i) & (ii)" },
+      { "id": "B", "text": "(ii) & (iii)" },
+      { "id": "C", "text": "(ii) & (iv)" },
+      { "id": "D", "text": "(iii) & (iv)" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-041",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "________ measures the sensitivity of demand for a good to change in money income of consumer.",
+    "options": [
+      { "id": "A", "text": "Income elasticity" },
+      { "id": "B", "text": "Price elasticity" },
+      { "id": "C", "text": "Cross elasticity" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-042",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "In ___A___ unless there are substantial stocks of the commodity an increase in demand cannot be met immediately. In ___B___ partial adjustment can be made to enable producers to increase the supply of the product. In ___C___ it can be expected that the whole supply position will change.",
+    "options": [
+      { "id": "A", "text": "a = Very Short Run | b = Short Run | c = Long Run" },
+      { "id": "B", "text": "a = Short Run | b = Long Run | c = Very Short Run" },
+      { "id": "C", "text": "a = Long Run | b = Very Short Run | c = Short Run" },
+      { "id": "D", "text": "None of the above" }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "id": "PRC3V2-CH03-APQ-043",
+    "subjectId": "prc-3-v2",
+    "chapterId": 3,
+    "chapterName": "Chapter 3: Elasticity of Demand and Supply",
+    "source": "apq",
+    "questionText": "In the diagram below, a straight-line supply curve passing through the origin represents:\n(i) Unitary elastic supply\n(ii) Es = 1\n(iii) Perfectly inelastic supply\n(iv) Es = 0",
+    "svgDiagram": "<svg viewBox=\"0 0 300 200\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"40\" y1=\"160\" x2=\"260\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"160\" stroke=\"#A1A1AA\" stroke-width=\"2\"/><path d=\"M 40 160 L 220 40\" fill=\"none\" stroke=\"#10B981\" stroke-width=\"2.5\"/><text x=\"225\" y=\"42\" fill=\"#10B981\" font-size=\"12\" font-weight=\"bold\">S</text></svg>",
+    "options": [
+      { "id": "A", "text": "(i) & (ii)" },
+      { "id": "B", "text": "(ii) & (iv)" },
+      { "id": "C", "text": "(ii) & (iii)" },
+      { "id": "D", "text": "(iii) & (iv)" }
+    ],
+    "correctOption": "A"
+  }
+]
