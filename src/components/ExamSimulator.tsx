@@ -349,15 +349,16 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
       const key = e.key.toUpperCase();
-      if (key === 'A' || key === '1') {
-        handleSelectOption(currentQuestion, 'A');
-      } else if (key === 'B' || key === '2') {
-        handleSelectOption(currentQuestion, 'B');
-      } else if (key === 'C' || key === '3') {
-        handleSelectOption(currentQuestion, 'C');
-      } else if (key === 'D' || key === '4') {
-        handleSelectOption(currentQuestion, 'D');
-      } else if (key === 'F') {
+
+      // Check if key matches any option ID (e.g. A, B, C, D, E, F) or option index (1, 2, 3...)
+      const matchingOpt = currentQuestion.options.find(
+        (o, idx) => o.id.toUpperCase() === key || String(idx + 1) === key
+      );
+
+      if (matchingOpt) {
+        handleSelectOption(currentQuestion, matchingOpt.id);
+      } else if (key === 'F' || key === 'M') {
+        // Toggle Flag if 'F' was not an option or if 'M' (Mark) was pressed
         setFlaggedQuestions((prev) => ({
           ...prev,
           [currentQuestion.id]: !prev[currentQuestion.id],
@@ -932,7 +933,7 @@ export const ExamSimulator: React.FC<ExamSimulatorProps> = ({
               <RichContent content={currentQuestion.questionText} />
             </div>
 
-            {/* Options A, B, C, D */}
+            {/* Dynamic Options List */}
             <div className="space-y-2 pt-1">
               {currentQuestion.options.map((opt) => {
                 const isChosen = selectedOptionSet.has(opt.id);

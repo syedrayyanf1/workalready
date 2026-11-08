@@ -2,7 +2,7 @@ export type SubjectId = 'prc-1' | 'prc-2' | 'prc-3-v1' | 'prc-3-v2';
 
 export type QuestionSource = 'self-test' | 'apq' | 'practice-set';
 
-export type OptionId = 'A' | 'B' | 'C' | 'D';
+export type OptionId = string; // Supports any option string e.g. 'A', 'B', 'C', 'D', 'E', 'F'
 
 export interface QuestionOption {
   id: OptionId;
@@ -16,8 +16,8 @@ export interface Question {
   chapterName: string;
   source: QuestionSource; // 1: ICAP Self-Test, 2: ICAP APQ, 3: Teacher/Practice Tests
   questionText: string; // Supports Markdown tables and $LaTeX$ math
-  options: QuestionOption[];
-  correctOption: string; // Supports single "B" or multi-select "A,C" / "B,C,D"
+  options: QuestionOption[]; // Accepts any number of options (e.g. 4, 5, 6 options with 'E' and 'F')
+  correctOption: string; // Accepts any option string: single (e.g. "B", "E", "F") or multi-select (e.g. "A,C", "B,E,F")
 }
 
 export interface SubjectInfo {
@@ -70,14 +70,12 @@ export interface QuestionMasteryStat {
   lastOutcomeCorrect: boolean;
 }
 
-const VALID_OPTION_IDS: OptionId[] = ['A', 'B', 'C', 'D'];
-
 export function parseOptionList(raw: string | null | undefined): OptionId[] {
   if (!raw) return [];
   const items = raw
     .split(',')
     .map((s) => s.trim().toUpperCase())
-    .filter((s): s is OptionId => VALID_OPTION_IDS.includes(s as OptionId));
+    .filter((s) => s.length > 0);
   return Array.from(new Set(items)).sort();
 }
 

@@ -14,12 +14,11 @@ export interface ParseResult {
 
 const VALID_SUBJECTS: SubjectId[] = ['prc-1', 'prc-2', 'prc-3-v1', 'prc-3-v2'];
 const VALID_SOURCES: QuestionSource[] = ['self-test', 'apq', 'practice-set'];
-const VALID_OPTIONS: OptionId[] = ['A', 'B', 'C', 'D'];
 
 function normalizeCorrectOption(raw: unknown): string {
   if (typeof raw !== 'string') return 'A';
   const parsed = parseOptionList(raw);
-  return parsed.length > 0 ? formatOptionList(parsed) : 'A';
+  return parsed.length > 0 ? formatOptionList(parsed) : raw.trim().toUpperCase() || 'A';
 }
 
 export const SAMPLE_JSON_TEMPLATE = JSON.stringify(
@@ -35,6 +34,7 @@ export const SAMPLE_JSON_TEMPLATE = JSON.stringify(
         { id: 'B', text: 'Option B text' },
         { id: 'C', text: 'Option C text' },
         { id: 'D', text: 'Option D text' },
+        { id: 'E', text: 'Option E text' },
       ],
       correctOption: 'B',
     },
@@ -55,10 +55,11 @@ Markdown + $LaTeX$ supported question text here
 A) Option A text
 B) Option B text
 C) Option C text
-D) Option D text`;
+D) Option D text
+E) Option E text`;
 
-export const SAMPLE_CSV_TEMPLATE = `id,subjectId,chapterId,chapterName,questionText,optionA,optionB,optionC,optionD,correctOption
-"PRC1-CH01-001","prc-1",1,"Chapter 1: Accounting Fundamentals","Markdown + $LaTeX$ supported question text here","Option A text","Option B text","Option C text","Option D text","B"`;
+export const SAMPLE_CSV_TEMPLATE = `id,subjectId,chapterId,chapterName,questionText,optionA,optionB,optionC,optionD,optionE,correctOption
+"PRC1-CH01-001","prc-1",1,"Chapter 1: Accounting Fundamentals","Markdown + $LaTeX$ supported question text here","Option A text","Option B text","Option C text","Option D text","Option E text","B"`;
 
 export function parseMarkdownQuestionBank(
   rawText: string,
@@ -102,28 +103,28 @@ export function parseMarkdownQuestionBank(
       body = body.slice(0, expMatch.index).trim();
     }
 
-    // Extract Answer if inline (supports single "B" or multi "A,C")
+    // Extract Answer if inline (supports single "B", "E", or multi "A,C" / "B,E,F")
     let inlineAnswer: string | undefined;
-    const ansMatch = body.match(/\n(?:Answer|Correct(?:\s*Option)?):\s*([A-D](?:\s*,\s*[A-D])*)\s*$/i);
+    const ansMatch = body.match(/\n(?:Answer|Correct(?:\s*Option)?):\s*([A-Za-z0-9]+(?:\s*,\s*[A-Za-z0-9]+)*)\s*$/i);
     if (ansMatch && ansMatch.index !== undefined) {
       inlineAnswer = ansMatch[1].toUpperCase();
       body = body.slice(0, ansMatch.index).trim();
     }
 
-    // Extract Options A) B) C) D)
-    const optionRegex = /\n([A-D])[).:]\s+([^\n]+)/g;
+    // Extract Options (A, B, C, D, E, F, etc.)
+    const optionRegex = /\n([A-Za-z0-9]+)[).:]\s+([^\n]+)/g;
     const matchedOptions: { id: OptionId; text: string; index: number }[] = [];
     let match: RegExpExecArray | null;
     while ((match = optionRegex.exec('\n' + body)) !== null) {
       matchedOptions.push({
-        id: match[1] as OptionId,
+        id: match[1].toUpperCase(),
         text: match[2].trim(),
         index: match.index,
       });
     }
 
-    if (matchedOptions.length < 4) {
-      errors.push(`Block #${blockNum}: Could not find all 4 options A), B), C), D). Found ${matchedOptions.length}.`);
+    if (matchedOptions.length < 2) {
+      errors.push(`Block #${blockNum}: Could not find at least 2 options (found ${matchedOptions.length}).`);
       return;
     }
 
@@ -142,10 +143,10 @@ export function parseMarkdownQuestionBank(
       meta.id ||
       `${subjectId.toUpperCase().replace(/-/g, '')}-CH${String(chapterId).padStart(2, '0')}-${String(idx + 1).padStart(3, '0')}`;
 
-    const options = VALID_OPTIONS.map((optId) => {
-      const found = matchedOptions.find((o) => o.id === optId);
-      return { id: optId, text: found ? found.text : `Option ${optId}` };
-    });
+    const options = matchedOptions.map((o) => ({
+      id: o.id,
+      text: o.text,
+    }));
 
     if (!questionText) {
       errors.push(`Block #${blockNum}: Question stem text is empty.`);
@@ -204,26 +205,59 @@ export function parseCsvQuestionBank(rawCsv: string): ParseResult {
     return { questions: [], errors: ['CSV must include a header row and at least one question row.'] };
   }
 
+  const headerCols = splitCsvRow(lines[0]).map((h) => h.toLowerCase().trim());
+
+  // Find option columns from headers, e.g. optiona, optionb, optionc, optiond, optione, optionf...
+  const optionHeaderIndices: { id: string; colIdx: number }[] = [];
+  headerCols.forEach((h, idx) => {
+    const match = h.match(/^option([a-z0-9]+)$/i);
+    if (match) {
+      optionHeaderIndices.push({ id: match[1].toUpperCase(), colIdx: idx });
+    }
+  });
+
+  const correctOptionIdx = headerCols.findIndex(
+    (h) => h === 'correctoption' || h === 'correct' || h === 'answer'
+  );
+
   for (let i = 1; i < lines.length; i++) {
     const cols = splitCsvRow(lines[i]);
-    if (cols.length < 10) {
-      errors.push(
-        `Row ${i + 1}: Expected 10 columns (id,subjectId,chapterId,chapterName,questionText,optionA,optionB,optionC,optionD,correctOption), got ${cols.length}.`
-      );
+    if (cols.length < 7) {
+      errors.push(`Row ${i + 1}: Insufficient columns in CSV row.`);
       continue;
     }
 
-    const hasLegacySourceCol = cols.length >= 11;
     const id = cols[0];
     const subjectRaw = cols[1];
     const chapterIdRaw = cols[2];
     const chapterName = cols[3];
-    const questionText = hasLegacySourceCol ? cols[5] : cols[4];
-    const optA = hasLegacySourceCol ? cols[6] : cols[5];
-    const optB = hasLegacySourceCol ? cols[7] : cols[6];
-    const optC = hasLegacySourceCol ? cols[8] : cols[7];
-    const optD = hasLegacySourceCol ? cols[9] : cols[8];
-    const correctRaw = hasLegacySourceCol ? cols[10] : cols[9];
+    const questionText = cols[4];
+
+    let options: { id: string; text: string }[] = [];
+    let correctRaw = '';
+
+    if (optionHeaderIndices.length >= 2 && correctOptionIdx !== -1) {
+      options = optionHeaderIndices
+        .filter((oh) => oh.colIdx < cols.length && cols[oh.colIdx].trim().length > 0)
+        .map((oh) => ({ id: oh.id, text: cols[oh.colIdx] }));
+      correctRaw = cols[correctOptionIdx] || '';
+    } else {
+      // Fallback column layout
+      const optStartIndex = 5;
+      const lastIndex = cols.length - 1;
+      correctRaw = cols[lastIndex];
+
+      const optCols = cols.slice(optStartIndex, lastIndex);
+      options = optCols.map((text, oIdx) => ({
+        id: String.fromCharCode(65 + oIdx),
+        text,
+      }));
+    }
+
+    if (options.length < 2) {
+      errors.push(`Row ${i + 1}: Could not find at least 2 options.`);
+      continue;
+    }
 
     const subjectId = (VALID_SUBJECTS.includes(subjectRaw as SubjectId) ? subjectRaw : 'prc-1') as SubjectId;
     const chapterId = Number(chapterIdRaw) || 1;
@@ -236,12 +270,7 @@ export function parseCsvQuestionBank(rawCsv: string): ParseResult {
       chapterName: chapterName || `Chapter ${chapterId}`,
       source: 'self-test',
       questionText,
-      options: [
-        { id: 'A', text: optA },
-        { id: 'B', text: optB },
-        { id: 'C', text: optC },
-        { id: 'D', text: optD },
-      ],
+      options,
       correctOption,
     });
   }
@@ -262,8 +291,8 @@ export function parseJsonQuestionBank(rawJson: string): ParseResult {
         errors.push(`Item #${idx + 1}: Not a valid JSON object.`);
         return;
       }
-      if (!item.questionText || !Array.isArray(item.options) || item.options.length < 4) {
-        errors.push(`Item #${idx + 1}: Missing questionText or 4 options.`);
+      if (!item.questionText || !Array.isArray(item.options) || item.options.length < 2) {
+        errors.push(`Item #${idx + 1}: Missing questionText or at least 2 options.`);
         return;
       }
 
@@ -276,8 +305,8 @@ export function parseJsonQuestionBank(rawJson: string): ParseResult {
         chapterName: String(item.chapterName || `Chapter ${chapterId}`),
         source: VALID_SOURCES.includes(item.source) ? item.source : 'self-test',
         questionText: String(item.questionText),
-        options: item.options.slice(0, 4).map((o: { id?: string; text?: string }, oIdx: number) => ({
-          id: VALID_OPTIONS[oIdx],
+        options: item.options.map((o: { id?: string; text?: string }, oIdx: number) => ({
+          id: String(o?.id || String.fromCharCode(65 + oIdx)).trim().toUpperCase(),
           text: String(o?.text ?? ''),
         })),
         correctOption: normalizeCorrectOption(item.correctOption),
